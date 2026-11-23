@@ -1,0 +1,837 @@
+fileFormatVersion: 2
+guid: 8ec061ca6b51b2945979f95b906fe36f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2724265162102524332
+    second: Guerriero scheletro incappucciato in pixel art-1_0
+  - first:
+      213: 3304466349737481362
+    second: Guerriero scheletro incappucciato in pixel art-1_1
+  - first:
+      213: -1438597746880675873
+    second: Guerriero scheletro incappucciato in pixel art-1_2
+  - first:
+      213: -1077761212443353911
+    second: Guerriero scheletro incappucciato in pixel art-1_3
+  - first:
+      213: -232141476590432963
+    second: Guerriero scheletro incappucciato in pixel art-1_4
+  - first:
+      213: 672787860272818808
+    second: Guerriero scheletro incappucciato in pixel art-1_5
+  - first:
+      213: 1855420068059547184
+    second: Guerriero scheletro incappucciato in pixel art-1_6
+  - first:
+      213: -6803895772255574750
+    second: Guerriero scheletro incappucciato in pixel art-1_7
+  - first:
+      213: 607320548900885404
+    second: Guerriero scheletro incappucciato in pixel art-1_8
+  - first:
+      213: 8255288541826278543
+    second: Guerriero scheletro incappucciato in pixel art-1_9
+  - first:
+      213: 2705221158548061422
+    second: Guerriero scheletro incappucciato in pixel art-1_10
+  - first:
+      213: 3363785961538652438
+    second: Guerriero scheletro incappucciato in pixel art-1_11
+  - first:
+      213: 8435984078328847632
+    second: Guerriero scheletro incappucciato in pixel art-1_12
+  - first:
+      213: -803910790904960073
+    second: Guerriero scheletro incappucciato in pixel art-1_13
+  - first:
+      213: -2372093792500192314
+    second: Guerriero scheletro incappucciato in pixel art-1_14
+  - first:
+      213: -290681993283052802
+    second: Guerriero scheletro incappucciato in pixel art-1_15
+  - first:
+      213: 8476622398415303658
+    second: Guerriero scheletro incappucciato in pixel art-1_16
+  - first:
+      213: 904000137671753719
+    second: Guerriero scheletro incappucciato in pixel art-1_17
+  - first:
+      213: 5557754129850886388
+    second: Guerriero scheletro incappucciato in pixel art-1_18
+  - first:
+      213: 6127506878605754367
+    second: Guerriero scheletro incappucciato in pixel art-1_19
+  - first:
+      213: 591067928940861704
+    second: Guerriero scheletro incappucciato in pixel art-1_20
+  - first:
+      213: 3535096722795532510
+    second: Guerriero scheletro incappucciato in pixel art-1_21
+  - first:
+      213: 2832676022028610614
+    second: Guerriero scheletro incappucciato in pixel art-1_22
+  - first:
+      213: 6681837230343385900
+    second: Guerriero scheletro incappucciato in pixel art-1_23
+  - first:
+      213: -5668658115936832657
+    second: Guerriero scheletro incappucciato in pixel art-1_24
+  - first:
+      213: 7922846903992714803
+    second: Guerriero scheletro incappucciato in pixel art-1_25
+  - first:
+      213: -8413160896192316987
+    second: Guerriero scheletro incappucciato in pixel art-1_26
+  - first:
+      213: -8009398372584431650
+    second: Guerriero scheletro incappucciato in pixel art-1_27
+  - first:
+      213: 4950933786700412019
+    second: Guerriero scheletro incappucciato in pixel art-1_28
+  - first:
+      213: 4676010584486993426
+    second: Guerriero scheletro incappucciato in pixel art-1_29
+  - first:
+      213: 92677788453151732
+    second: Guerriero scheletro incappucciato in pixel art-1_30
+  - first:
+      213: 1434742462370751511
+    second: Guerriero scheletro incappucciato in pixel art-1_31
+  - first:
+      213: -2330575626919046500
+    second: Guerriero scheletro incappucciato in pixel art-1_32
+  - first:
+      213: -4799332587350369838
+    second: Guerriero scheletro incappucciato in pixel art-1_33
+  - first:
+      213: 6579597914543285827
+    second: Guerriero scheletro incappucciato in pixel art-1_34
+  - first:
+      213: -9054756292320962574
+    second: Guerriero scheletro incappucciato in pixel art-1_35
+  - first:
+      213: 5120584385399637890
+    second: Guerriero scheletro incappucciato in pixel art-1_36
+  - first:
+      213: -3885215531529443220
+    second: Guerriero scheletro incappucciato in pixel art-1_37
+  - first:
+      213: 1265774767554777877
+    second: Guerriero scheletro incappucciato in pixel art-1_38
+  - first:
+      213: 5112914006191278171
+    second: Guerriero scheletro incappucciato in pixel art-1_39
+  - first:
+      213: 3433023014080112056
+    second: Guerriero scheletro incappucciato in pixel art-1_40
+  - first:
+      213: 2660542101621830019
+    second: Guerriero scheletro incappucciato in pixel art-1_41
+  - first:
+      213: -9096253768745578598
+    second: Guerriero scheletro incappucciato in pixel art-1_42
+  - first:
+      213: -8491590846004910930
+    second: Guerriero scheletro incappucciato in pixel art-1_43
+  - first:
+      213: -7137790083079006828
+    second: Guerriero scheletro incappucciato in pixel art-1_44
+  - first:
+      213: 4802047563161409872
+    second: Guerriero scheletro incappucciato in pixel art-1_45
+  - first:
+      213: 5069502450226307372
+    second: Guerriero scheletro incappucciato in pixel art-1_46
+  - first:
+      213: -962860210717694492
+    second: Guerriero scheletro incappucciato in pixel art-1_47
+  - first:
+      213: -3767806720696972309
+    second: Guerriero scheletro incappucciato in pixel art-1_48
+  - first:
+      213: -1515708056838836799
+    second: Guerriero scheletro incappucciato in pixel art-1_49
+  - first:
+      213: -523882715936872647
+    second: Guerriero scheletro incappucciato in pixel art-1_50
+  - first:
+      213: 7330968874344007614
+    second: Guerriero scheletro incappucciato in pixel art-1_51
+  - first:
+      213: -4921323316454378018
+    second: Guerriero scheletro incappucciato in pixel art-1_52
+  - first:
+      213: -438398737892571859
+    second: Guerriero scheletro incappucciato in pixel art-1_53
+  - first:
+      213: 5970011576995395847
+    second: Guerriero scheletro incappucciato in pixel art-1_54
+  - first:
+      213: 3058042430441039108
+    second: Guerriero scheletro incappucciato in pixel art-1_55
+  - first:
+      213: -4402903217731404832
+    second: Guerriero scheletro incappucciato in pixel art-1_56
+  - first:
+      213: -9021137611931097394
+    second: Guerriero scheletro incappucciato in pixel art-1_57
+  - first:
+      213: 7207477745632355165
+    second: Guerriero scheletro incappucciato in pixel art-1_58
+  - first:
+      213: 5221410598633174472
+    second: Guerriero scheletro incappucciato in pixel art-1_59
+  - first:
+      213: 7511359550668648773
+    second: Guerriero scheletro incappucciato in pixel art-1_60
+  - first:
+      213: 3099069961486602313
+    second: Guerriero scheletro incappucciato in pixel art-1_61
+  - first:
+      213: 3790138200692885639
+    second: Guerriero scheletro incappucciato in pixel art-1_62
+  - first:
+      213: 4843847227567711068
+    second: Guerriero scheletro incappucciato in pixel art-1_63
+  - first:
+      213: 1124303570974127350
+    second: Guerriero scheletro incappucciato in pixel art-1_64
+  - first:
+      213: -8771555949063944211
+    second: Guerriero scheletro incappucciato in pixel art-1_65
+  - first:
+      213: 8871011570930441245
+    second: Guerriero scheletro incappucciato in pixel art-1_66
+  - first:
+      213: -4181933907599885319
+    second: Guerriero scheletro incappucciato in pixel art-1_67
+  - first:
+      213: -4806573362451397421
+    second: Guerriero scheletro incappucciato in pixel art-1_68
+  - first:
+      213: -4828919225182838957
+    second: Guerriero scheletro incappucciato in pixel art-1_69
+  - first:
+      213: -223951786075449373
+    second: Guerriero scheletro incappucciato in pixel art-1_70
+  - first:
+      213: -8403209588087948846
+    second: Guerriero scheletro incappucciato in pixel art-1_71
+  - first:
+      213: 94865289740512892
+    second: Guerriero scheletro incappucciato in pixel art-1_72
+  - first:
+      213: -655318145724190361
+    second: Guerriero scheletro incappucciato in pixel art-1_73
+  - first:
+      213: 2509273467887228776
+    second: Guerriero scheletro incappucciato in pixel art-1_74
+  - first:
+      213: -3764829954113486516
+    second: Guerriero scheletro incappucciato in pixel art-1_75
+  - first:
+      213: 6124124955335796120
+    second: Guerriero scheletro incappucciato in pixel art-1_76
+  - first:
+      213: -6453791501373230448
+    second: Guerriero scheletro incappucciato in pixel art-1_77
+  - first:
+      213: 4003964179816740951
+    second: Guerriero scheletro incappucciato in pixel art-1_78
+  - first:
+      213: 5514387252946782223
+    second: Guerriero scheletro incappucciato in pixel art-1_79
+  - first:
+      213: -6511560091930595624
+    second: Guerriero scheletro incappucciato in pixel art-1_80
+  - first:
+      213: -7500538853488247302
+    second: Guerriero scheletro incappucciato in pixel art-1_81
+  - first:
+      213: 5115706520761603137
+    second: Guerriero scheletro incappucciato in pixel art-1_82
+  - first:
+      213: -1801742767368538471
+    second: Guerriero scheletro incappucciato in pixel art-1_83
+  - first:
+      213: -7532409812845709141
+    second: Guerriero scheletro incappucciato in pixel art-1_84
+  - first:
+      213: -27837681911144959
+    second: Guerriero scheletro incappucciato in pixel art-1_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45638e2d447713ad0800000000000000
+      internalID: -2724265162102524332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294955423a2dbdd20800000000000000
+      internalID: 3304466349737481362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfff72a8f2190ce0800000000000000
+      internalID: -1438597746880675873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc9e9333e50b01f0800000000000000
+      internalID: -1077761212443353911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 842
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d41369e8447ccf0800000000000000
+      internalID: -232141476590432963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aa1cc8ef8365900800000000000000
+      internalID: 672787860272818808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03602d1b8b6cfb910800000000000000
+      internalID: 1855420068059547184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225acedf7d4b391a0800000000000000
+      internalID: -6803895772255574750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93580e42d2ad6800800000000000000
+      internalID: 607320548900885404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_9
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 562
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8468edb03da09270800000000000000
+      internalID: 8255288541826278543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecb0229f40ea8520800000000000000
+      internalID: 2705221158548061422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61905f982819eae20800000000000000
+      internalID: 3363785961538652438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d54afc2d2a21570800000000000000
+      internalID: 8435984078328847632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bba10d156fe7d4f0800000000000000
+      internalID: -803910790904960073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 282
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbed1c7341a41fd0800000000000000
+      internalID: -2372093792500192314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efad2c7644a47fbf0800000000000000
+      internalID: -290681993283052802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3f9a8092303a570800000000000000
+      internalID: 8476622398415303658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff34dae557ab8c00800000000000000
+      internalID: 904000137671753719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_18
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e8b25feb112d40800000000000000
+      internalID: 5557754129850886388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guerriero scheletro incappucciato in pixel art-1_19
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffffe0a8a07490550800000000000000
+      internalID: 6127506878605754367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc231a29472f9b6409a3de17593e0f90
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":280.0,"y":280.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Guerriero scheletro incappucciato in pixel art-1_0: -2724265162102524332
+      Guerriero scheletro incappucciato in pixel art-1_1: 3304466349737481362
+      Guerriero scheletro incappucciato in pixel art-1_10: 2705221158548061422
+      Guerriero scheletro incappucciato in pixel art-1_11: 3363785961538652438
+      Guerriero scheletro incappucciato in pixel art-1_12: 8435984078328847632
+      Guerriero scheletro incappucciato in pixel art-1_13: -803910790904960073
+      Guerriero scheletro incappucciato in pixel art-1_14: -2372093792500192314
+      Guerriero scheletro incappucciato in pixel art-1_15: -290681993283052802
+      Guerriero scheletro incappucciato in pixel art-1_16: 8476622398415303658
+      Guerriero scheletro incappucciato in pixel art-1_17: 904000137671753719
+      Guerriero scheletro incappucciato in pixel art-1_18: 5557754129850886388
+      Guerriero scheletro incappucciato in pixel art-1_19: 6127506878605754367
+      Guerriero scheletro incappucciato in pixel art-1_2: -1438597746880675873
+      Guerriero scheletro incappucciato in pixel art-1_3: -1077761212443353911
+      Guerriero scheletro incappucciato in pixel art-1_4: -232141476590432963
+      Guerriero scheletro incappucciato in pixel art-1_5: 672787860272818808
+      Guerriero scheletro incappucciato in pixel art-1_6: 1855420068059547184
+      Guerriero scheletro incappucciato in pixel art-1_7: -6803895772255574750
+      Guerriero scheletro incappucciato in pixel art-1_8: 607320548900885404
+      Guerriero scheletro incappucciato in pixel art-1_9: 8255288541826278543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

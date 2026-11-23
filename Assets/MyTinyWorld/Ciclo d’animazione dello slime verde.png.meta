@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: fe2949722715a954fb258e54e3395f86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9052283057619315479
+    second: "Ciclo d\u2019animazione dello slime verde_0"
+  - first:
+      213: 2774439383107760909
+    second: "Ciclo d\u2019animazione dello slime verde_1"
+  - first:
+      213: 4562742133044799600
+    second: "Ciclo d\u2019animazione dello slime verde_2"
+  - first:
+      213: 313856888470553827
+    second: "Ciclo d\u2019animazione dello slime verde_3"
+  - first:
+      213: 6200995213239862536
+    second: "Ciclo d\u2019animazione dello slime verde_4"
+  - first:
+      213: -1019991888212230016
+    second: "Ciclo d\u2019animazione dello slime verde_5"
+  - first:
+      213: -3133504018997947389
+    second: "Ciclo d\u2019animazione dello slime verde_6"
+  - first:
+      213: 1017127553279550890
+    second: "Ciclo d\u2019animazione dello slime verde_7"
+  - first:
+      213: 2101059943020172263
+    second: "Ciclo d\u2019animazione dello slime verde_8"
+  - first:
+      213: 3748409992030731525
+    second: "Ciclo d\u2019animazione dello slime verde_9"
+  - first:
+      213: 1650760502628616031
+    second: "Ciclo d\u2019animazione dello slime verde_10"
+  - first:
+      213: 2362635401167692009
+    second: "Ciclo d\u2019animazione dello slime verde_11"
+  - first:
+      213: 4928736255688377844
+    second: "Ciclo d\u2019animazione dello slime verde_12"
+  - first:
+      213: 1354975307433524843
+    second: "Ciclo d\u2019animazione dello slime verde_13"
+  - first:
+      213: 3372841519382374289
+    second: "Ciclo d\u2019animazione dello slime verde_14"
+  - first:
+      213: 8775695245278621831
+    second: "Ciclo d\u2019animazione dello slime verde_15"
+  - first:
+      213: -93516190230575222
+    second: "Ciclo d\u2019animazione dello slime verde_16"
+  - first:
+      213: 8989518230781469517
+    second: "Ciclo d\u2019animazione dello slime verde_17"
+  - first:
+      213: -1041561509620363357
+    second: "Ciclo d\u2019animazione dello slime verde_18"
+  - first:
+      213: -5329993206536501571
+    second: "Ciclo d\u2019animazione dello slime verde_19"
+  - first:
+      213: -2440936778730853673
+    second: "Ciclo d\u2019animazione dello slime verde_20"
+  - first:
+      213: 5748078189106746546
+    second: "Ciclo d\u2019animazione dello slime verde_21"
+  - first:
+      213: -5363589661768950500
+    second: "Ciclo d\u2019animazione dello slime verde_22"
+  - first:
+      213: 8480951641373415287
+    second: "Ciclo d\u2019animazione dello slime verde_23"
+  - first:
+      213: 5471942377799852672
+    second: "Ciclo d\u2019animazione dello slime verde_24"
+  - first:
+      213: -7464420417444470871
+    second: "Ciclo d\u2019animazione dello slime verde_25"
+  - first:
+      213: 6024339085511251914
+    second: "Ciclo d\u2019animazione dello slime verde_26"
+  - first:
+      213: -5234015393384969153
+    second: "Ciclo d\u2019animazione dello slime verde_27"
+  - first:
+      213: 7777470230183114541
+    second: "Ciclo d\u2019animazione dello slime verde_28"
+  - first:
+      213: 8668248752310784148
+    second: "Ciclo d\u2019animazione dello slime verde_29"
+  - first:
+      213: 971760834002194955
+    second: "Ciclo d\u2019animazione dello slime verde_30"
+  - first:
+      213: -166612891655185999
+    second: "Ciclo d\u2019animazione dello slime verde_31"
+  - first:
+      213: -5199828340258450399
+    second: "Ciclo d\u2019animazione dello slime verde_32"
+  - first:
+      213: 3383040272234115031
+    second: "Ciclo d\u2019animazione dello slime verde_33"
+  - first:
+      213: 3670259294225358577
+    second: "Ciclo d\u2019animazione dello slime verde_34"
+  - first:
+      213: 1474922239225745973
+    second: "Ciclo d\u2019animazione dello slime verde_35"
+  - first:
+      213: 2680492029911815758
+    second: "Ciclo d\u2019animazione dello slime verde_36"
+  - first:
+      213: -5129794938762381021
+    second: "Ciclo d\u2019animazione dello slime verde_37"
+  - first:
+      213: -6867256797598012871
+    second: "Ciclo d\u2019animazione dello slime verde_38"
+  - first:
+      213: 8386067658883245042
+    second: "Ciclo d\u2019animazione dello slime verde_39"
+  - first:
+      213: -1546144444296359455
+    second: "Ciclo d\u2019animazione dello slime verde_40"
+  - first:
+      213: -7290162269169298717
+    second: "Ciclo d\u2019animazione dello slime verde_41"
+  - first:
+      213: 4853937811066236843
+    second: "Ciclo d\u2019animazione dello slime verde_42"
+  - first:
+      213: 3446004400710466020
+    second: "Ciclo d\u2019animazione dello slime verde_43"
+  - first:
+      213: 1873938133382382317
+    second: "Ciclo d\u2019animazione dello slime verde_44"
+  - first:
+      213: 7835250405364459331
+    second: "Ciclo d\u2019animazione dello slime verde_45"
+  - first:
+      213: 1197480343565261566
+    second: "Ciclo d\u2019animazione dello slime verde_46"
+  - first:
+      213: 5788224601465612066
+    second: "Ciclo d\u2019animazione dello slime verde_47"
+  - first:
+      213: 7573052706820753111
+    second: "Ciclo d\u2019animazione dello slime verde_48"
+  - first:
+      213: -2153484673013603193
+    second: "Ciclo d\u2019animazione dello slime verde_49"
+  - first:
+      213: -7784333512469721706
+    second: "Ciclo d\u2019animazione dello slime verde_50"
+  - first:
+      213: 1818037397707059191
+    second: "Ciclo d\u2019animazione dello slime verde_51"
+  - first:
+      213: -6373681845565656933
+    second: "Ciclo d\u2019animazione dello slime verde_52"
+  - first:
+      213: 6372154080752711235
+    second: "Ciclo d\u2019animazione dello slime verde_53"
+  - first:
+      213: 406820595341005787
+    second: "Ciclo d\u2019animazione dello slime verde_54"
+  - first:
+      213: 3720364766434716810
+    second: "Ciclo d\u2019animazione dello slime verde_55"
+  - first:
+      213: -7545849895775331849
+    second: "Ciclo d\u2019animazione dello slime verde_56"
+  - first:
+      213: -7971627633197117618
+    second: "Ciclo d\u2019animazione dello slime verde_57"
+  - first:
+      213: -6717797082721180339
+    second: "Ciclo d\u2019animazione dello slime verde_58"
+  - first:
+      213: -8703997683435108037
+    second: "Ciclo d\u2019animazione dello slime verde_59"
+  - first:
+      213: -1622950560109846049
+    second: "Ciclo d\u2019animazione dello slime verde_60"
+  - first:
+      213: -7764878194095579246
+    second: "Ciclo d\u2019animazione dello slime verde_61"
+  - first:
+      213: 4822567058631526984
+    second: "Ciclo d\u2019animazione dello slime verde_62"
+  - first:
+      213: -7638933774632637692
+    second: "Ciclo d\u2019animazione dello slime verde_63"
+  - first:
+      213: 5392758359582395636
+    second: "Ciclo d\u2019animazione dello slime verde_64"
+  - first:
+      213: -3241378171066583800
+    second: "Ciclo d\u2019animazione dello slime verde_65"
+  - first:
+      213: 5745342002674564640
+    second: "Ciclo d\u2019animazione dello slime verde_66"
+  - first:
+      213: -3551535260447450762
+    second: "Ciclo d\u2019animazione dello slime verde_67"
+  - first:
+      213: 1236858713187444243
+    second: "Ciclo d\u2019animazione dello slime verde_68"
+  - first:
+      213: -1695647009879299510
+    second: "Ciclo d\u2019animazione dello slime verde_69"
+  - first:
+      213: 7639188573792210754
+    second: "Ciclo d\u2019animazione dello slime verde_70"
+  - first:
+      213: -5188844348723296622
+    second: "Ciclo d\u2019animazione dello slime verde_71"
+  - first:
+      213: -4176577395362853212
+    second: "Ciclo d\u2019animazione dello slime verde_72"
+  - first:
+      213: -4772587846159508733
+    second: "Ciclo d\u2019animazione dello slime verde_73"
+  - first:
+      213: 1219670363548584458
+    second: "Ciclo d\u2019animazione dello slime verde_74"
+  - first:
+      213: -7211184550041031428
+    second: "Ciclo d\u2019animazione dello slime verde_75"
+  - first:
+      213: -4528798646612132561
+    second: "Ciclo d\u2019animazione dello slime verde_76"
+  - first:
+      213: -5216592295361331322
+    second: "Ciclo d\u2019animazione dello slime verde_77"
+  - first:
+      213: -7619937533305519177
+    second: "Ciclo d\u2019animazione dello slime verde_78"
+  - first:
+      213: 860717932752507992
+    second: "Ciclo d\u2019animazione dello slime verde_79"
+  - first:
+      213: -6906539385104070880
+    second: "Ciclo d\u2019animazione dello slime verde_80"
+  - first:
+      213: 4313943132497101349
+    second: "Ciclo d\u2019animazione dello slime verde_81"
+  - first:
+      213: -5109484065567871796
+    second: "Ciclo d\u2019animazione dello slime verde_82"
+  - first:
+      213: 5960399143400113692
+    second: "Ciclo d\u2019animazione dello slime verde_83"
+  - first:
+      213: 8856535497826013194
+    second: "Ciclo d\u2019animazione dello slime verde_84"
+  - first:
+      213: 654002306583130903
+    second: "Ciclo d\u2019animazione dello slime verde_85"
+  - first:
+      213: 8039122185525031193
+    second: "Ciclo d\u2019animazione dello slime verde_86"
+  - first:
+      213: 4164335657569099789
+    second: "Ciclo d\u2019animazione dello slime verde_87"
+  - first:
+      213: 6868263110344510962
+    second: "Ciclo d\u2019animazione dello slime verde_88"
+  - first:
+      213: -7224055098443076302
+    second: "Ciclo d\u2019animazione dello slime verde_89"
+  - first:
+      213: -5782573589012513977
+    second: "Ciclo d\u2019animazione dello slime verde_90"
+  - first:
+      213: 2675141116897726104
+    second: "Ciclo d\u2019animazione dello slime verde_91"
+  - first:
+      213: 5033672919462427152
+    second: "Ciclo d\u2019animazione dello slime verde_92"
+  - first:
+      213: 2378746056006646440
+    second: "Ciclo d\u2019animazione dello slime verde_93"
+  - first:
+      213: 7550854015346419107
+    second: "Ciclo d\u2019animazione dello slime verde_94"
+  - first:
+      213: 1995778257644026946
+    second: "Ciclo d\u2019animazione dello slime verde_95"
+  - first:
+      213: 3044060812622907231
+    second: "Ciclo d\u2019animazione dello slime verde_96"
+  - first:
+      213: -5494033624631004403
+    second: "Ciclo d\u2019animazione dello slime verde_97"
+  - first:
+      213: 4307464202577698868
+    second: "Ciclo d\u2019animazione dello slime verde_98"
+  - first:
+      213: 6173914790187852536
+    second: "Ciclo d\u2019animazione dello slime verde_99"
+  - first:
+      213: 7371867333579692597
+    second: "Ciclo d\u2019animazione dello slime verde_100"
+  - first:
+      213: 4772272928853713579
+    second: "Ciclo d\u2019animazione dello slime verde_101"
+  - first:
+      213: -1705635850511526052
+    second: "Ciclo d\u2019animazione dello slime verde_102"
+  - first:
+      213: 2162635429764015704
+    second: "Ciclo d\u2019animazione dello slime verde_103"
+  - first:
+      213: 2096285588711014258
+    second: "Ciclo d\u2019animazione dello slime verde_104"
+  - first:
+      213: 1403876794469348698
+    second: "Ciclo d\u2019animazione dello slime verde_105"
+  - first:
+      213: 1357839828688022706
+    second: "Ciclo d\u2019animazione dello slime verde_106"
+  - first:
+      213: 6964159836370722569
+    second: "Ciclo d\u2019animazione dello slime verde_107"
+  - first:
+      213: 279738254264001578
+    second: "Ciclo d\u2019animazione dello slime verde_108"
+  - first:
+      213: 1670827322540916369
+    second: "Ciclo d\u2019animazione dello slime verde_109"
+  - first:
+      213: -5742412521656755250
+    second: "Ciclo d\u2019animazione dello slime verde_110"
+  - first:
+      213: 3473247947051478713
+    second: "Ciclo d\u2019animazione dello slime verde_111"
+  - first:
+      213: 2318182957549768081
+    second: "Ciclo d\u2019animazione dello slime verde_112"
+  - first:
+      213: -148790185683298899
+    second: "Ciclo d\u2019animazione dello slime verde_113"
+  - first:
+      213: -6106683901796826781
+    second: "Ciclo d\u2019animazione dello slime verde_114"
+  - first:
+      213: -511873475371761050
+    second: "Ciclo d\u2019animazione dello slime verde_115"
+  - first:
+      213: 3914768991271746632
+    second: "Ciclo d\u2019animazione dello slime verde_116"
+  - first:
+      213: 4513788077046299980
+    second: "Ciclo d\u2019animazione dello slime verde_117"
+  - first:
+      213: 4317045272959971635
+    second: "Ciclo d\u2019animazione dello slime verde_118"
+  - first:
+      213: 5827555215222819812
+    second: "Ciclo d\u2019animazione dello slime verde_119"
+  - first:
+      213: -8162390397503263260
+    second: "Ciclo d\u2019animazione dello slime verde_120"
+  - first:
+      213: 4315178322514034159
+    second: "Ciclo d\u2019animazione dello slime verde_121"
+  - first:
+      213: 5831923644676793019
+    second: "Ciclo d\u2019animazione dello slime verde_122"
+  - first:
+      213: -678944090768473986
+    second: "Ciclo d\u2019animazione dello slime verde_123"
+  - first:
+      213: 6683785705233842398
+    second: "Ciclo d\u2019animazione dello slime verde_124"
+  - first:
+      213: 672886537788196337
+    second: "Ciclo d\u2019animazione dello slime verde_125"
+  - first:
+      213: -4324895156230015034
+    second: "Ciclo d\u2019animazione dello slime verde_126"
+  - first:
+      213: 4477326403788747493
+    second: "Ciclo d\u2019animazione dello slime verde_127"
+  - first:
+      213: 7435734487438891873
+    second: "Ciclo d\u2019animazione dello slime verde_128"
+  - first:
+      213: -3495335876441173165
+    second: "Ciclo d\u2019animazione dello slime verde_129"
+  - first:
+      213: 2332967701667653970
+    second: "Ciclo d\u2019animazione dello slime verde_130"
+  - first:
+      213: -8187514561921133510
+    second: "Ciclo d\u2019animazione dello slime verde_131"
+  - first:
+      213: -1496315706097811330
+    second: "Ciclo d\u2019animazione dello slime verde_132"
+  - first:
+      213: -1885263282712160868
+    second: "Ciclo d\u2019animazione dello slime verde_133"
+  - first:
+      213: 533553207112167804
+    second: "Ciclo d\u2019animazione dello slime verde_134"
+  - first:
+      213: 1066379049009203803
+    second: "Ciclo d\u2019animazione dello slime verde_135"
+  - first:
+      213: -8531930460990256599
+    second: "Ciclo d\u2019animazione dello slime verde_136"
+  - first:
+      213: -7712473678645292781
+    second: "Ciclo d\u2019animazione dello slime verde_137"
+  - first:
+      213: 7854412045045344070
+    second: "Ciclo d\u2019animazione dello slime verde_138"
+  - first:
+      213: 7594664477254951086
+    second: "Ciclo d\u2019animazione dello slime verde_139"
+  - first:
+      213: 5473713326698304362
+    second: "Ciclo d\u2019animazione dello slime verde_140"
+  - first:
+      213: 1268049851253699843
+    second: "Ciclo d\u2019animazione dello slime verde_141"
+  - first:
+      213: 6248342522692603036
+    second: "Ciclo d\u2019animazione dello slime verde_142"
+  - first:
+      213: -5779882644612375546
+    second: "Ciclo d\u2019animazione dello slime verde_143"
+  - first:
+      213: -1525574397960315490
+    second: "Ciclo d\u2019animazione dello slime verde_144"
+  - first:
+      213: -7254424782537412699
+    second: "Ciclo d\u2019animazione dello slime verde_145"
+  - first:
+      213: -3135222123059914000
+    second: "Ciclo d\u2019animazione dello slime verde_146"
+  - first:
+      213: -4205983044913313990
+    second: "Ciclo d\u2019animazione dello slime verde_147"
+  - first:
+      213: 4880293621157621325
+    second: "Ciclo d\u2019animazione dello slime verde_148"
+  - first:
+      213: 572663848658132852
+    second: "Ciclo d\u2019animazione dello slime verde_149"
+  - first:
+      213: 1619669418266569176
+    second: "Ciclo d\u2019animazione dello slime verde_150"
+  - first:
+      213: 7311801237831244729
+    second: "Ciclo d\u2019animazione dello slime verde_151"
+  - first:
+      213: -465832945140834097
+    second: "Ciclo d\u2019animazione dello slime verde_152"
+  - first:
+      213: -5512217220165651217
+    second: "Ciclo d\u2019animazione dello slime verde_153"
+  - first:
+      213: -5194420210704479058
+    second: "Ciclo d\u2019animazione dello slime verde_154"
+  - first:
+      213: 2738007929565083857
+    second: "Ciclo d\u2019animazione dello slime verde_155"
+  - first:
+      213: 5844092257999046539
+    second: "Ciclo d\u2019animazione dello slime verde_156"
+  - first:
+      213: 7646437818746710764
+    second: "Ciclo d\u2019animazione dello slime verde_157"
+  - first:
+      213: 3434633963014972232
+    second: "Ciclo d\u2019animazione dello slime verde_158"
+  - first:
+      213: -2441282466336948338
+    second: "Ciclo d\u2019animazione dello slime verde_159"
+  - first:
+      213: 8220278325389532653
+    second: "Ciclo d\u2019animazione dello slime verde_160"
+  - first:
+      213: -4114590400857748075
+    second: "Ciclo d\u2019animazione dello slime verde_161"
+  - first:
+      213: 4677365540606845996
+    second: "Ciclo d\u2019animazione dello slime verde_162"
+  - first:
+      213: -2296960216242200041
+    second: "Ciclo d\u2019animazione dello slime verde_163"
+  - first:
+      213: -9150020057476149648
+    second: "Ciclo d\u2019animazione dello slime verde_164"
+  - first:
+      213: 9134526310345528529
+    second: "Ciclo d\u2019animazione dello slime verde_165"
+  - first:
+      213: 8218999792392812312
+    second: "Ciclo d\u2019animazione dello slime verde_166"
+  - first:
+      213: -2977058018318933763
+    second: "Ciclo d\u2019animazione dello slime verde_167"
+  - first:
+      213: -2663721768317920491
+    second: "Ciclo d\u2019animazione dello slime verde_168"
+  - first:
+      213: -1808757491878964454
+    second: "Ciclo d\u2019animazione dello slime verde_169"
+  - first:
+      213: -910620481416275677
+    second: "Ciclo d\u2019animazione dello slime verde_170"
+  - first:
+      213: -5588459191757303656
+    second: "Ciclo d\u2019animazione dello slime verde_171"
+  - first:
+      213: -738608743467391622
+    second: "Ciclo d\u2019animazione dello slime verde_172"
+  - first:
+      213: 4754148766512375705
+    second: "Ciclo d\u2019animazione dello slime verde_173"
+  - first:
+      213: 5812050261785428935
+    second: "Ciclo d\u2019animazione dello slime verde_174"
+  - first:
+      213: -4308035663373202829
+    second: "Ciclo d\u2019animazione dello slime verde_175"
+  - first:
+      213: -4748198591094686770
+    second: "Ciclo d\u2019animazione dello slime verde_176"
+  - first:
+      213: 1512141685096035361
+    second: "Ciclo d\u2019animazione dello slime verde_177"
+  - first:
+      213: -5690170086836976190
+    second: "Ciclo d\u2019animazione dello slime verde_178"
+  - first:
+      213: 2267587416475289817
+    second: "Ciclo d\u2019animazione dello slime verde_179"
+  - first:
+      213: 822913656073109447
+    second: "Ciclo d\u2019animazione dello slime verde_180"
+  - first:
+      213: 1369105912700944804
+    second: "Ciclo d\u2019animazione dello slime verde_181"
+  - first:
+      213: 7492793020138931048
+    second: "Ciclo d\u2019animazione dello slime verde_182"
+  - first:
+      213: -5466519316849717076
+    second: "Ciclo d\u2019animazione dello slime verde_183"
+  - first:
+      213: 846302582561454102
+    second: "Ciclo d\u2019animazione dello slime verde_184"
+  - first:
+      213: 2860035834600918528
+    second: "Ciclo d\u2019animazione dello slime verde_185"
+  - first:
+      213: 1837542476559513202
+    second: "Ciclo d\u2019animazione dello slime verde_186"
+  - first:
+      213: 6934958828536367867
+    second: "Ciclo d\u2019animazione dello slime verde_187"
+  - first:
+      213: -5018644328130658757
+    second: "Ciclo d\u2019animazione dello slime verde_188"
+  - first:
+      213: -5587246119304224580
+    second: "Ciclo d\u2019animazione dello slime verde_189"
+  - first:
+      213: 600848457471390182
+    second: "Ciclo d\u2019animazione dello slime verde_190"
+  - first:
+      213: -8259892322625085509
+    second: "Ciclo d\u2019animazione dello slime verde_191"
+  - first:
+      213: -4897066436049489538
+    second: "Ciclo d\u2019animazione dello slime verde_192"
+  - first:
+      213: 3547514763462042835
+    second: "Ciclo d\u2019animazione dello slime verde_193"
+  - first:
+      213: -148243449947273940
+    second: "Ciclo d\u2019animazione dello slime verde_194"
+  - first:
+      213: -498815597997386895
+    second: "Ciclo d\u2019animazione dello slime verde_195"
+  - first:
+      213: 5728562786930804840
+    second: "Ciclo d\u2019animazione dello slime verde_196"
+  - first:
+      213: 333175125488950801
+    second: "Ciclo d\u2019animazione dello slime verde_197"
+  - first:
+      213: 7142684644347846848
+    second: "Ciclo d\u2019animazione dello slime verde_198"
+  - first:
+      213: 9015582222705371580
+    second: "Ciclo d\u2019animazione dello slime verde_199"
+  - first:
+      213: -3525268964591931145
+    second: "Ciclo d\u2019animazione dello slime verde_200"
+  - first:
+      213: -4809688433631018554
+    second: "Ciclo d\u2019animazione dello slime verde_201"
+  - first:
+      213: -729825485645524319
+    second: "Ciclo d\u2019animazione dello slime verde_202"
+  - first:
+      213: -1984711965193642776
+    second: "Ciclo d\u2019animazione dello slime verde_203"
+  - first:
+      213: -454785889205113273
+    second: "Ciclo d\u2019animazione dello slime verde_204"
+  - first:
+      213: 6570897471525411177
+    second: "Ciclo d\u2019animazione dello slime verde_205"
+  - first:
+      213: -807388461663900446
+    second: "Ciclo d\u2019animazione dello slime verde_206"
+  - first:
+      213: 8153947217890987808
+    second: "Ciclo d\u2019animazione dello slime verde_207"
+  - first:
+      213: -4703537932530460394
+    second: "Ciclo d\u2019animazione dello slime verde_208"
+  - first:
+      213: 8224031900802288635
+    second: "Ciclo d\u2019animazione dello slime verde_209"
+  - first:
+      213: -2024056649739992724
+    second: "Ciclo d\u2019animazione dello slime verde_210"
+  - first:
+      213: -4422042671690106967
+    second: "Ciclo d\u2019animazione dello slime verde_211"
+  - first:
+      213: 805416871097264898
+    second: "Ciclo d\u2019animazione dello slime verde_212"
+  - first:
+      213: 3803798681051100421
+    second: "Ciclo d\u2019animazione dello slime verde_213"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Ciclo d\u2019animazione dello slime verde_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 439
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bafa7da7b20ad70800000000000000
+      internalID: 9052283057619315479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ciclo d\u2019animazione dello slime verde_1"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 439
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03fdf85be9c08620800000000000000
+      internalID: 2774439383107760909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ciclo d\u2019animazione dello slime verde_2"
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 439
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078e7d9abcd125f30800000000000000
+      internalID: 4562742133044799600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ciclo d\u2019animazione dello slime verde_3"
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 0
+        width: 439
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4c89b5d2b0b5400800000000000000
+      internalID: 313856888470553827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ciclo d\u2019animazione dello slime verde_4"
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 0
+        width: 439
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8054f0bca4c5e0650800000000000000
+      internalID: 6200995213239862536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0c37541687f92a2488be751415a6c0b4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":1.0},"gridSpriteSize":{"x":439.0,"y":716.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Ciclo d\u2019animazione dello slime verde_0": 9052283057619315479
+      "Ciclo d\u2019animazione dello slime verde_1": 2774439383107760909
+      "Ciclo d\u2019animazione dello slime verde_2": 4562742133044799600
+      "Ciclo d\u2019animazione dello slime verde_3": 313856888470553827
+      "Ciclo d\u2019animazione dello slime verde_4": 6200995213239862536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

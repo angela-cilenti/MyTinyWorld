@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: a7222559986573e469a680fb8db8c7e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6094157333283221233
+    second: Sprite Assassin Chibi in Pixel Art-2_0
+  - first:
+      213: 1453232136211496987
+    second: Sprite Assassin Chibi in Pixel Art-2_1
+  - first:
+      213: 1674662535314027980
+    second: Sprite Assassin Chibi in Pixel Art-2_2
+  - first:
+      213: -3807726396475694216
+    second: Sprite Assassin Chibi in Pixel Art-2_3
+  - first:
+      213: -8423372306168781410
+    second: Sprite Assassin Chibi in Pixel Art-2_4
+  - first:
+      213: 7869803025879447978
+    second: Sprite Assassin Chibi in Pixel Art-2_5
+  - first:
+      213: -8647808389639741384
+    second: Sprite Assassin Chibi in Pixel Art-2_6
+  - first:
+      213: -235969899066499743
+    second: Sprite Assassin Chibi in Pixel Art-2_7
+  - first:
+      213: 7108907775841782971
+    second: Sprite Assassin Chibi in Pixel Art-2_8
+  - first:
+      213: -4088235934451875290
+    second: Sprite Assassin Chibi in Pixel Art-2_9
+  - first:
+      213: 3172901613647204191
+    second: Sprite Assassin Chibi in Pixel Art-2_10
+  - first:
+      213: 7526526824629170090
+    second: Sprite Assassin Chibi in Pixel Art-2_11
+  - first:
+      213: -2796539873933400810
+    second: Sprite Assassin Chibi in Pixel Art-2_12
+  - first:
+      213: 1088545503740941893
+    second: Sprite Assassin Chibi in Pixel Art-2_13
+  - first:
+      213: -5135870828753426353
+    second: Sprite Assassin Chibi in Pixel Art-2_14
+  - first:
+      213: -6830228180859172512
+    second: Sprite Assassin Chibi in Pixel Art-2_15
+  - first:
+      213: -6948289638475196898
+    second: Sprite Assassin Chibi in Pixel Art-2_16
+  - first:
+      213: -5422659473757435396
+    second: Sprite Assassin Chibi in Pixel Art-2_17
+  - first:
+      213: -1019933690153146576
+    second: Sprite Assassin Chibi in Pixel Art-2_18
+  - first:
+      213: 7006558371582489730
+    second: Sprite Assassin Chibi in Pixel Art-2_19
+  - first:
+      213: 6588414581038548212
+    second: Sprite Assassin Chibi in Pixel Art-2_20
+  - first:
+      213: -4608492033293709701
+    second: Sprite Assassin Chibi in Pixel Art-2_21
+  - first:
+      213: -5924814508551047936
+    second: Sprite Assassin Chibi in Pixel Art-2_22
+  - first:
+      213: -2541152179697390391
+    second: Sprite Assassin Chibi in Pixel Art-2_23
+  - first:
+      213: -3119313159767109043
+    second: Sprite Assassin Chibi in Pixel Art-2_24
+  - first:
+      213: -284297535977873046
+    second: Sprite Assassin Chibi in Pixel Art-2_25
+  - first:
+      213: -9083144684286286233
+    second: Sprite Assassin Chibi in Pixel Art-2_26
+  - first:
+      213: 7386944695330950657
+    second: Sprite Assassin Chibi in Pixel Art-2_27
+  - first:
+      213: -4862276529821450040
+    second: Sprite Assassin Chibi in Pixel Art-2_28
+  - first:
+      213: -3749546910184530488
+    second: Sprite Assassin Chibi in Pixel Art-2_29
+  - first:
+      213: 3577862967533172009
+    second: Sprite Assassin Chibi in Pixel Art-2_30
+  - first:
+      213: -2963887764299594028
+    second: Sprite Assassin Chibi in Pixel Art-2_31
+  - first:
+      213: 6096052467882916604
+    second: Sprite Assassin Chibi in Pixel Art-2_32
+  - first:
+      213: -1825736702754277114
+    second: Sprite Assassin Chibi in Pixel Art-2_33
+  - first:
+      213: -2157809902884961708
+    second: Sprite Assassin Chibi in Pixel Art-2_34
+  - first:
+      213: 5966889487764759240
+    second: Sprite Assassin Chibi in Pixel Art-2_35
+  - first:
+      213: -4235012614057673495
+    second: Sprite Assassin Chibi in Pixel Art-2_36
+  - first:
+      213: 6112587880752659211
+    second: Sprite Assassin Chibi in Pixel Art-2_37
+  - first:
+      213: -7513485953551527097
+    second: Sprite Assassin Chibi in Pixel Art-2_38
+  - first:
+      213: 5000775908179849438
+    second: Sprite Assassin Chibi in Pixel Art-2_39
+  - first:
+      213: -7886739675959860947
+    second: Sprite Assassin Chibi in Pixel Art-2_40
+  - first:
+      213: -5936873364389455548
+    second: Sprite Assassin Chibi in Pixel Art-2_41
+  - first:
+      213: 1111310478030309275
+    second: Sprite Assassin Chibi in Pixel Art-2_42
+  - first:
+      213: 4999795256720322226
+    second: Sprite Assassin Chibi in Pixel Art-2_43
+  - first:
+      213: -5127942048468610551
+    second: Sprite Assassin Chibi in Pixel Art-2_44
+  - first:
+      213: 2743056979916438647
+    second: Sprite Assassin Chibi in Pixel Art-2_45
+  - first:
+      213: -6929518380301401354
+    second: Sprite Assassin Chibi in Pixel Art-2_46
+  - first:
+      213: -7778264890323030341
+    second: Sprite Assassin Chibi in Pixel Art-2_47
+  - first:
+      213: -1110359292002353157
+    second: Sprite Assassin Chibi in Pixel Art-2_48
+  - first:
+      213: 7228437596906913486
+    second: Sprite Assassin Chibi in Pixel Art-2_49
+  - first:
+      213: -688108379263040518
+    second: Sprite Assassin Chibi in Pixel Art-2_50
+  - first:
+      213: 6750790367580939025
+    second: Sprite Assassin Chibi in Pixel Art-2_51
+  - first:
+      213: 8407034024472728029
+    second: Sprite Assassin Chibi in Pixel Art-2_52
+  - first:
+      213: 1297217942137466001
+    second: Sprite Assassin Chibi in Pixel Art-2_53
+  - first:
+      213: -6472262645919567603
+    second: Sprite Assassin Chibi in Pixel Art-2_54
+  - first:
+      213: -2260654462300964767
+    second: Sprite Assassin Chibi in Pixel Art-2_55
+  - first:
+      213: 1476676266076879050
+    second: Sprite Assassin Chibi in Pixel Art-2_56
+  - first:
+      213: 1050648942220064329
+    second: Sprite Assassin Chibi in Pixel Art-2_57
+  - first:
+      213: -5249752687514999819
+    second: Sprite Assassin Chibi in Pixel Art-2_58
+  - first:
+      213: 258309660208618439
+    second: Sprite Assassin Chibi in Pixel Art-2_59
+  - first:
+      213: -633919190688487296
+    second: Sprite Assassin Chibi in Pixel Art-2_60
+  - first:
+      213: -17509587413606055
+    second: Sprite Assassin Chibi in Pixel Art-2_61
+  - first:
+      213: -3235824576759581810
+    second: Sprite Assassin Chibi in Pixel Art-2_62
+  - first:
+      213: -5296181032554206443
+    second: Sprite Assassin Chibi in Pixel Art-2_63
+  - first:
+      213: -3839858613415045526
+    second: Sprite Assassin Chibi in Pixel Art-2_64
+  - first:
+      213: -7585150698252136661
+    second: Sprite Assassin Chibi in Pixel Art-2_65
+  - first:
+      213: -6439815835607165717
+    second: Sprite Assassin Chibi in Pixel Art-2_66
+  - first:
+      213: 4753282324687603362
+    second: Sprite Assassin Chibi in Pixel Art-2_67
+  - first:
+      213: 964842603629223691
+    second: Sprite Assassin Chibi in Pixel Art-2_68
+  - first:
+      213: 6437342002978677822
+    second: Sprite Assassin Chibi in Pixel Art-2_69
+  - first:
+      213: -8684288755352403779
+    second: Sprite Assassin Chibi in Pixel Art-2_70
+  - first:
+      213: 2857858393381917368
+    second: Sprite Assassin Chibi in Pixel Art-2_71
+  - first:
+      213: 1306816234882201192
+    second: Sprite Assassin Chibi in Pixel Art-2_72
+  - first:
+      213: 6432364257625838458
+    second: Sprite Assassin Chibi in Pixel Art-2_73
+  - first:
+      213: -1789952133010280939
+    second: Sprite Assassin Chibi in Pixel Art-2_74
+  - first:
+      213: 3653243838974375976
+    second: Sprite Assassin Chibi in Pixel Art-2_75
+  - first:
+      213: 2204677290261681127
+    second: Sprite Assassin Chibi in Pixel Art-2_76
+  - first:
+      213: -7152142319756686595
+    second: Sprite Assassin Chibi in Pixel Art-2_77
+  - first:
+      213: -7503288877534633800
+    second: Sprite Assassin Chibi in Pixel Art-2_78
+  - first:
+      213: -6225190564629344824
+    second: Sprite Assassin Chibi in Pixel Art-2_79
+  - first:
+      213: 6557534510864924223
+    second: Sprite Assassin Chibi in Pixel Art-2_80
+  - first:
+      213: 1517064607950355923
+    second: Sprite Assassin Chibi in Pixel Art-2_81
+  - first:
+      213: 1236755798201596765
+    second: Sprite Assassin Chibi in Pixel Art-2_82
+  - first:
+      213: 8299376846830849116
+    second: Sprite Assassin Chibi in Pixel Art-2_83
+  - first:
+      213: 2071651378972999616
+    second: Sprite Assassin Chibi in Pixel Art-2_84
+  - first:
+      213: -6932900963883880283
+    second: Sprite Assassin Chibi in Pixel Art-2_85
+  - first:
+      213: 7732759279286808065
+    second: Sprite Assassin Chibi in Pixel Art-2_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1388
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01df4091343d6ba0800000000000000
+      internalID: -6094157333283221233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1388
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b108117adeaea2410800000000000000
+      internalID: 1453232136211496987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1388
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc53c0004b89d3710800000000000000
+      internalID: 1674662535314027980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1388
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8732030440d382bc0800000000000000
+      internalID: -3807726396475694216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_4
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1388
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9562f7348b2a1b80800000000000000
+      internalID: -8423372306168781410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1190
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9b6d1f728273d60800000000000000
+      internalID: 7869803025879447978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1190
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83061e17610dcf780800000000000000
+      internalID: -8647808389639741384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1190
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dd47480aaa9bcf0800000000000000
+      internalID: -235969899066499743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_8
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1190
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbccf0025f9e7a260800000000000000
+      internalID: 7108907775841782971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1190
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6224209f31ba347c0800000000000000
+      internalID: -4088235934451875290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f84b4f439680c20800000000000000
+      internalID: 3172901613647204191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 992
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf687e0548937860800000000000000
+      internalID: 7526526824629170090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_12
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 992
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615ebf52dc1b039d0800000000000000
+      internalID: -2796539873933400810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_13
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 991
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546d3584e5a4b1f00800000000000000
+      internalID: 1088545503740941893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_14
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 992
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f486cd731b8b9b8b0800000000000000
+      internalID: -5135870828753426353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069c60958a72631a0800000000000000
+      internalID: -6830228180859172512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 794
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16982e2367b29f90800000000000000
+      internalID: -6948289638475196898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_17
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 794
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf908c860f7deb4b0800000000000000
+      internalID: -5422659473757435396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_18
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 794
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037e7ff66b778d1f0800000000000000
+      internalID: -1019933690153146576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_19
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 794
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284b63477bb4c3160800000000000000
+      internalID: 7006558371582489730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f48ecf8720ce6b50800000000000000
+      internalID: 6588414581038548212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_21
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 596
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e8f4d99e85b00c0800000000000000
+      internalID: -4608492033293709701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 596
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005fbb17894d6cda0800000000000000
+      internalID: -5924814508551047936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_23
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 596
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc6de06e830cbcd0800000000000000
+      internalID: -2541152179697390391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_24
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 596
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4251e04539f5b4d0800000000000000
+      internalID: -3119313159767109043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a612585b5e8fd0cf0800000000000000
+      internalID: -284297535977873046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 398
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76663a1c80032f180800000000000000
+      internalID: -9083144684286286233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 398
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e48ac0013b38660800000000000000
+      internalID: 7386944695330950657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_28
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 398
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c00640f149b58cb0800000000000000
+      internalID: -4862276529821450040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_29
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 398
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd99cd73fee6fbc0800000000000000
+      internalID: -3749546910184530488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925f6d2a96f17a130800000000000000
+      internalID: 3577862967533172009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 200
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6cbce18c72ed6d0800000000000000
+      internalID: -2963887764299594028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 200
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfafd48db67899450800000000000000
+      internalID: 6096052467882916604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_33
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 200
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60930fa542ea9a6e0800000000000000
+      internalID: -1825736702754277114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_34
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 200
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452c8bd635bed02e0800000000000000
+      internalID: -2157809902884961708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c22b3c0066aec250800000000000000
+      internalID: 5966889487764759240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_36
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec3bcf27763a35c0800000000000000
+      internalID: -4235012614057673495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bbe9aaa4644d450800000000000000
+      internalID: 6112587880752659211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_38
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7439ca9555cbab790800000000000000
+      internalID: -7513485953551527097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Assassin Chibi in Pixel Art-2_39
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed034687133566540800000000000000
+      internalID: 5000775908179849438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1bd1d2e3892f4e04aa8c9c9324ca6eb2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":8.0},"gridSpriteSize":{"x":198.0,"y":198.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sprite Assassin Chibi in Pixel Art-2_0: -6094157333283221233
+      Sprite Assassin Chibi in Pixel Art-2_1: 1453232136211496987
+      Sprite Assassin Chibi in Pixel Art-2_10: 3172901613647204191
+      Sprite Assassin Chibi in Pixel Art-2_11: 7526526824629170090
+      Sprite Assassin Chibi in Pixel Art-2_12: -2796539873933400810
+      Sprite Assassin Chibi in Pixel Art-2_13: 1088545503740941893
+      Sprite Assassin Chibi in Pixel Art-2_14: -5135870828753426353
+      Sprite Assassin Chibi in Pixel Art-2_15: -6830228180859172512
+      Sprite Assassin Chibi in Pixel Art-2_16: -6948289638475196898
+      Sprite Assassin Chibi in Pixel Art-2_17: -5422659473757435396
+      Sprite Assassin Chibi in Pixel Art-2_18: -1019933690153146576
+      Sprite Assassin Chibi in Pixel Art-2_19: 7006558371582489730
+      Sprite Assassin Chibi in Pixel Art-2_2: 1674662535314027980
+      Sprite Assassin Chibi in Pixel Art-2_20: 6588414581038548212
+      Sprite Assassin Chibi in Pixel Art-2_21: -4608492033293709701
+      Sprite Assassin Chibi in Pixel Art-2_22: -5924814508551047936
+      Sprite Assassin Chibi in Pixel Art-2_23: -2541152179697390391
+      Sprite Assassin Chibi in Pixel Art-2_24: -3119313159767109043
+      Sprite Assassin Chibi in Pixel Art-2_25: -284297535977873046
+      Sprite Assassin Chibi in Pixel Art-2_26: -9083144684286286233
+      Sprite Assassin Chibi in Pixel Art-2_27: 7386944695330950657
+      Sprite Assassin Chibi in Pixel Art-2_28: -4862276529821450040
+      Sprite Assassin Chibi in Pixel Art-2_29: -3749546910184530488
+      Sprite Assassin Chibi in Pixel Art-2_3: -3807726396475694216
+      Sprite Assassin Chibi in Pixel Art-2_30: 3577862967533172009
+      Sprite Assassin Chibi in Pixel Art-2_31: -2963887764299594028
+      Sprite Assassin Chibi in Pixel Art-2_32: 6096052467882916604
+      Sprite Assassin Chibi in Pixel Art-2_33: -1825736702754277114
+      Sprite Assassin Chibi in Pixel Art-2_34: -2157809902884961708
+      Sprite Assassin Chibi in Pixel Art-2_35: 5966889487764759240
+      Sprite Assassin Chibi in Pixel Art-2_36: -4235012614057673495
+      Sprite Assassin Chibi in Pixel Art-2_37: 6112587880752659211
+      Sprite Assassin Chibi in Pixel Art-2_38: -7513485953551527097
+      Sprite Assassin Chibi in Pixel Art-2_39: 5000775908179849438
+      Sprite Assassin Chibi in Pixel Art-2_4: -8423372306168781410
+      Sprite Assassin Chibi in Pixel Art-2_5: 7869803025879447978
+      Sprite Assassin Chibi in Pixel Art-2_6: -8647808389639741384
+      Sprite Assassin Chibi in Pixel Art-2_7: -235969899066499743
+      Sprite Assassin Chibi in Pixel Art-2_8: 7108907775841782971
+      Sprite Assassin Chibi in Pixel Art-2_9: -4088235934451875290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

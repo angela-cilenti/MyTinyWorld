@@ -1,0 +1,3991 @@
+fileFormatVersion: 2
+guid: 7babb4a6bd2feed45bcae70e6a0bf013
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4358117219010328855
+    second: CreamyUI_0
+  - first:
+      213: -7928853193634723114
+    second: CreamyUI_1
+  - first:
+      213: 2894242063483776440
+    second: CreamyUI_2
+  - first:
+      213: 6522720477806702494
+    second: CreamyUI_3
+  - first:
+      213: 5391841919538637615
+    second: CreamyUI_4
+  - first:
+      213: -1999942625552011178
+    second: CreamyUI_5
+  - first:
+      213: 2641015811053345686
+    second: CreamyUI_6
+  - first:
+      213: 3291339436826729020
+    second: CreamyUI_7
+  - first:
+      213: 7334130327112652229
+    second: CreamyUI_8
+  - first:
+      213: -8046717309606663084
+    second: CreamyUI_9
+  - first:
+      213: -3382055466379671310
+    second: CreamyUI_10
+  - first:
+      213: 6006531521657029254
+    second: CreamyUI_11
+  - first:
+      213: 8202987099045729711
+    second: CreamyUI_12
+  - first:
+      213: 7493060717869124694
+    second: CreamyUI_13
+  - first:
+      213: 8192144587807879823
+    second: CreamyUI_14
+  - first:
+      213: -3839068634541151037
+    second: CreamyUI_15
+  - first:
+      213: -3942936170400014765
+    second: CreamyUI_16
+  - first:
+      213: 2598949165528094636
+    second: CreamyUI_17
+  - first:
+      213: -6503249915533537756
+    second: CreamyUI_18
+  - first:
+      213: -969615463927380199
+    second: CreamyUI_19
+  - first:
+      213: 1962668705398755116
+    second: CreamyUI_20
+  - first:
+      213: 8297982366212421060
+    second: CreamyUI_21
+  - first:
+      213: -5025996627125055105
+    second: CreamyUI_22
+  - first:
+      213: 5114717418077833170
+    second: CreamyUI_23
+  - first:
+      213: 1363355075957077375
+    second: CreamyUI_24
+  - first:
+      213: -7496132434408269623
+    second: CreamyUI_25
+  - first:
+      213: 1152623978412519626
+    second: CreamyUI_26
+  - first:
+      213: 1016917438705717470
+    second: CreamyUI_27
+  - first:
+      213: -3653465621107224670
+    second: CreamyUI_28
+  - first:
+      213: 5865120104026029516
+    second: CreamyUI_29
+  - first:
+      213: -4120880306215342482
+    second: CreamyUI_30
+  - first:
+      213: -5024874239466308171
+    second: CreamyUI_31
+  - first:
+      213: 8875059749394539413
+    second: CreamyUI_32
+  - first:
+      213: 7673544729302440396
+    second: CreamyUI_33
+  - first:
+      213: -919743043548048704
+    second: CreamyUI_34
+  - first:
+      213: 7589407953722737627
+    second: CreamyUI_35
+  - first:
+      213: 9197793842090225649
+    second: CreamyUI_36
+  - first:
+      213: 5100685470282334834
+    second: CreamyUI_37
+  - first:
+      213: -832574470911883770
+    second: CreamyUI_38
+  - first:
+      213: -411436343378338510
+    second: CreamyUI_39
+  - first:
+      213: -4591451500737089459
+    second: CreamyUI_40
+  - first:
+      213: -5291522854797039267
+    second: CreamyUI_41
+  - first:
+      213: -9046231257926623835
+    second: CreamyUI_42
+  - first:
+      213: 4130638859756147049
+    second: CreamyUI_43
+  - first:
+      213: -5859333122810022991
+    second: CreamyUI_44
+  - first:
+      213: -9077170879583656114
+    second: CreamyUI_45
+  - first:
+      213: -6737825051576008741
+    second: CreamyUI_46
+  - first:
+      213: 5991540287045437147
+    second: CreamyUI_47
+  - first:
+      213: -321081509527200875
+    second: CreamyUI_48
+  - first:
+      213: -5044501780556647613
+    second: CreamyUI_49
+  - first:
+      213: 6805951549829899629
+    second: CreamyUI_50
+  - first:
+      213: 1403569152432910047
+    second: CreamyUI_51
+  - first:
+      213: -3777792044945871555
+    second: CreamyUI_52
+  - first:
+      213: -8445217751230899129
+    second: CreamyUI_53
+  - first:
+      213: 6260695080696633562
+    second: CreamyUI_54
+  - first:
+      213: -8699022901153190308
+    second: CreamyUI_55
+  - first:
+      213: 5253100229286482543
+    second: CreamyUI_56
+  - first:
+      213: 4143039444868179373
+    second: CreamyUI_57
+  - first:
+      213: 6158689013842529627
+    second: CreamyUI_58
+  - first:
+      213: 1639996328191499662
+    second: CreamyUI_59
+  - first:
+      213: 4834939341534569997
+    second: CreamyUI_60
+  - first:
+      213: -6483752448662966474
+    second: CreamyUI_61
+  - first:
+      213: 6299893116101342482
+    second: CreamyUI_62
+  - first:
+      213: 2927309314848318756
+    second: CreamyUI_63
+  - first:
+      213: -7785542278317360798
+    second: CreamyUI_64
+  - first:
+      213: -5749534477761996989
+    second: CreamyUI_65
+  - first:
+      213: -3617950913238299847
+    second: CreamyUI_66
+  - first:
+      213: -5615351179190892270
+    second: CreamyUI_67
+  - first:
+      213: 9135890361885050669
+    second: CreamyUI_68
+  - first:
+      213: -2692961898884021361
+    second: CreamyUI_69
+  - first:
+      213: -5900096150765006128
+    second: CreamyUI_70
+  - first:
+      213: -6153688726467662333
+    second: CreamyUI_71
+  - first:
+      213: 8933736596112763325
+    second: CreamyUI_72
+  - first:
+      213: 288888392268989065
+    second: CreamyUI_73
+  - first:
+      213: 490902742304252180
+    second: CreamyUI_74
+  - first:
+      213: 5574566687087937685
+    second: CreamyUI_75
+  - first:
+      213: 907057370467205270
+    second: CreamyUI_76
+  - first:
+      213: 1939875946505027455
+    second: CreamyUI_77
+  - first:
+      213: -7519734665619464446
+    second: CreamyUI_78
+  - first:
+      213: -4796723013614495912
+    second: CreamyUI_79
+  - first:
+      213: 4132015076434900216
+    second: CreamyUI_80
+  - first:
+      213: -6074216361682107488
+    second: CreamyUI_81
+  - first:
+      213: 1474504740154449964
+    second: CreamyUI_82
+  - first:
+      213: 1173088805018148791
+    second: CreamyUI_83
+  - first:
+      213: -1693523498212178623
+    second: CreamyUI_84
+  - first:
+      213: 6566619422658641904
+    second: CreamyUI_85
+  - first:
+      213: -9031016183392442218
+    second: CreamyUI_86
+  - first:
+      213: 6804996983396905590
+    second: CreamyUI_87
+  - first:
+      213: 9099217542737447946
+    second: CreamyUI_88
+  - first:
+      213: -6223672083836632576
+    second: CreamyUI_89
+  - first:
+      213: -6648868212703312580
+    second: CreamyUI_90
+  - first:
+      213: 6104620682868775156
+    second: CreamyUI_91
+  - first:
+      213: -6544708546231527969
+    second: CreamyUI_92
+  - first:
+      213: -7197539339418989538
+    second: CreamyUI_93
+  - first:
+      213: 4385950554921250884
+    second: CreamyUI_94
+  - first:
+      213: 653956749692724914
+    second: CreamyUI_95
+  - first:
+      213: 5251675807458955757
+    second: CreamyUI_96
+  - first:
+      213: 4749661253457105492
+    second: CreamyUI_97
+  - first:
+      213: -6751029016050596777
+    second: CreamyUI_98
+  - first:
+      213: 5010921931684326506
+    second: CreamyUI_99
+  - first:
+      213: -7340325482868095064
+    second: CreamyUI_100
+  - first:
+      213: -5718781830646089388
+    second: CreamyUI_101
+  - first:
+      213: -5469933868725231683
+    second: CreamyUI_102
+  - first:
+      213: 727269892974597932
+    second: CreamyUI_103
+  - first:
+      213: 2286283170399042166
+    second: CreamyUI_104
+  - first:
+      213: 1163653812165556500
+    second: CreamyUI_105
+  - first:
+      213: -4942221546652581533
+    second: CreamyUI_106
+  - first:
+      213: -1150374189571565314
+    second: CreamyUI_107
+  - first:
+      213: -1505342154125158810
+    second: CreamyUI_108
+  - first:
+      213: 6263526901880865985
+    second: CreamyUI_109
+  - first:
+      213: 1848014356626703810
+    second: CreamyUI_110
+  - first:
+      213: 5093149628623973123
+    second: CreamyUI_111
+  - first:
+      213: 3927222049135446147
+    second: CreamyUI_112
+  - first:
+      213: -7646831174135858056
+    second: CreamyUI_113
+  - first:
+      213: 3630668087448135938
+    second: CreamyUI_114
+  - first:
+      213: -773366311410995397
+    second: CreamyUI_115
+  - first:
+      213: 220951795516502436
+    second: CreamyUI_116
+  - first:
+      213: -319056888540936941
+    second: CreamyUI_117
+  - first:
+      213: -202791874086482258
+    second: CreamyUI_118
+  - first:
+      213: -1793031696855625678
+    second: CreamyUI_119
+  - first:
+      213: -3696615096072427925
+    second: CreamyUI_120
+  - first:
+      213: -1726320980374964935
+    second: CreamyUI_121
+  - first:
+      213: -8323774433260686995
+    second: CreamyUI_122
+  - first:
+      213: -7271237395010209941
+    second: CreamyUI_123
+  - first:
+      213: -1587886160369528683
+    second: CreamyUI_124
+  - first:
+      213: -8920825132819138380
+    second: CreamyUI_125
+  - first:
+      213: 1458817965572562599
+    second: CreamyUI_126
+  - first:
+      213: -1639136885441536117
+    second: CreamyUI_127
+  - first:
+      213: -7364794022751686945
+    second: CreamyUI_128
+  - first:
+      213: -2878053780506779352
+    second: CreamyUI_129
+  - first:
+      213: -2786380106162720241
+    second: CreamyUI_130
+  - first:
+      213: -9114852711651411658
+    second: CreamyUI_131
+  - first:
+      213: -8513219980847251464
+    second: CreamyUI_132
+  - first:
+      213: 146144552314986991
+    second: CreamyUI_133
+  - first:
+      213: -4303080922118636436
+    second: CreamyUI_134
+  - first:
+      213: 1758016373688526777
+    second: CreamyUI_135
+  - first:
+      213: -7400690519392542271
+    second: CreamyUI_136
+  - first:
+      213: 3951296021658877936
+    second: CreamyUI_137
+  - first:
+      213: -3785516038108417171
+    second: CreamyUI_138
+  - first:
+      213: 7463290085553099304
+    second: CreamyUI_139
+  - first:
+      213: 4732182124177938056
+    second: CreamyUI_140
+  - first:
+      213: -5830078520823325842
+    second: CreamyUI_141
+  - first:
+      213: 1639493191078802909
+    second: CreamyUI_142
+  - first:
+      213: -1865897599655424942
+    second: CreamyUI_143
+  - first:
+      213: 2972888420366823646
+    second: CreamyUI_144
+  - first:
+      213: 3779203165872326865
+    second: CreamyUI_145
+  - first:
+      213: -90767634288110252
+    second: CreamyUI_146
+  - first:
+      213: -7398430927883488403
+    second: CreamyUI_147
+  - first:
+      213: 7208166421916892629
+    second: CreamyUI_148
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CreamyUI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719bf9835842b7c30800000000000000
+      internalID: 4358117219010328855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da4e2d770e07f190800000000000000
+      internalID: -7928853193634723114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bda1f782d96a2820800000000000000
+      internalID: 2894242063483776440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 175
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fa5d837bb558a50800000000000000
+      internalID: 6522720477806702494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 176
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b292b98aba3da40800000000000000
+      internalID: 5391841919538637615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6507fc837c6ce34e0800000000000000
+      internalID: -1999942625552011178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b560033e5c6a420800000000000000
+      internalID: 2641015811053345686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 161
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a9a4f87cf2dad20800000000000000
+      internalID: 3291339436826729020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c518f3bca018c560800000000000000
+      internalID: 7334130327112652229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c68e08d31545090800000000000000
+      internalID: -8046717309606663084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f885c3e8768011d0800000000000000
+      internalID: -3382055466379671310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682cd80589c7b5350800000000000000
+      internalID: 6006531521657029254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa59bb72e4dd6d170800000000000000
+      internalID: 8202987099045729711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 160
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cc501e503bcf760800000000000000
+      internalID: 7493060717869124694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 160
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f827de8491850b170800000000000000
+      internalID: 8192144587807879823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cca4d9ca63e8bac0800000000000000
+      internalID: -3839068634541151037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e944f8170e749c0800000000000000
+      internalID: -3942936170400014765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca799980f72511420800000000000000
+      internalID: 2598949165528094636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ec80358a0dfb5a0800000000000000
+      internalID: -6503249915533537756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91702ef6fdb3b82f0800000000000000
+      internalID: -969615463927380199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f8115f9cccc3b10800000000000000
+      internalID: 1962668705398755116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5fb8a5ffa582370800000000000000
+      internalID: 8297982366212421060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7156ed42b2104ab0800000000000000
+      internalID: -5025996627125055105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7480f84602bf640800000000000000
+      internalID: 5114717418077833170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75b52dd73c9be210800000000000000
+      internalID: 1363355075957077375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c89fc1644368f790800000000000000
+      internalID: -7496132434408269623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 144
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac030e8c661feff00800000000000000
+      internalID: 1152623978412519626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed054fbc501dc1e00800000000000000
+      internalID: 1016917438705717470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af4dcedf584c4dc0800000000000000
+      internalID: -3653465621107224670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd397de8a7156150800000000000000
+      internalID: 5865120104026029516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ea122e131bfc6c0800000000000000
+      internalID: -4120880306215342482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd799b808f044ab0800000000000000
+      internalID: -5024874239466308171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 130
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593670be1db8a2b70800000000000000
+      internalID: 8875059749394539413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9942e6648ed7a60800000000000000
+      internalID: 7673544729302440396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c29eac239a6c33f0800000000000000
+      internalID: -919743043548048704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 121
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd30b21d25ef25960800000000000000
+      internalID: 7589407953722737627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 121
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff201374c025af70800000000000000
+      internalID: 9197793842090225649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272cc2f196649c640800000000000000
+      internalID: 5100685470282334834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6060d3c0ee91274f0800000000000000
+      internalID: -832574470911883770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d9f3953d84a4af0800000000000000
+      internalID: -411436343378338510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_40
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40b127cf23e740c0800000000000000
+      internalID: -4591451500737089459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5926fecffbb096b0800000000000000
+      internalID: -5291522854797039267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad9f339994557280800000000000000
+      internalID: -9046231257926623835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 122
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961903b682af25930800000000000000
+      internalID: 4130638859756147049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b37a32a1977faea0800000000000000
+      internalID: -5859333122810022991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 122
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4765ec8d29670280800000000000000
+      internalID: -9077170879583656114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 117
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf751a60df6e72a0800000000000000
+      internalID: -6737825051576008741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd609c2852a362350800000000000000
+      internalID: 5991540287045437147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 105
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b5fa8711a4b8bf0800000000000000
+      internalID: -321081509527200875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34378158b545ef9b0800000000000000
+      internalID: -5044501780556647613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_50
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65612600e8937e50800000000000000
+      internalID: 6805951549829899629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdea57c25ba7a7310800000000000000
+      internalID: 1403569152432910047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d64b59626929bc0800000000000000
+      internalID: -3777792044945871555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c1f0f233f8cca80800000000000000
+      internalID: -8445217751230899129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_54
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 111
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad855fb510572e650800000000000000
+      internalID: 6260695080696633562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ea6c3c2ccd64780800000000000000
+      internalID: -8699022901153190308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62d42093d2c6e840800000000000000
+      internalID: 5253100229286482543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_57
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 102
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5acc1ac680f7930800000000000000
+      internalID: 4143039444868179373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d4f28270f087550800000000000000
+      internalID: 6158689013842529627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d9ccea8ff62c610800000000000000
+      internalID: 1639996328191499662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06aabae6b7291340800000000000000
+      internalID: 4834939341534569997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_61
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 112
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fefd510851506a0800000000000000
+      internalID: -6483752448662966474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_62
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215362c2967bd6750800000000000000
+      internalID: 6299893116101342482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425e933ff44ef9820800000000000000
+      internalID: 2927309314848318756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269bb152c8234f390800000000000000
+      internalID: -7785542278317360798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_65
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3479225dadc8530b0800000000000000
+      internalID: -5749534477761996989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b81a920d47acdc0800000000000000
+      internalID: -3617950913238299847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_67
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 90
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219814b9ad34212b0800000000000000
+      internalID: -5615351179190892270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_68
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27c21f41e339ce70800000000000000
+      internalID: 9135890361885050669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_69
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f834b5fbb6da0aad0800000000000000
+      internalID: -2692961898884021361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_70
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 90
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d290099fc5ae1ea0800000000000000
+      internalID: -5900096150765006128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ea198f4b4b99aa0800000000000000
+      internalID: -6153688726467662333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db96538e9120bfb70800000000000000
+      internalID: 8933736596112763325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9824de05676520400800000000000000
+      internalID: 288888392268989065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4116f46717900d600800000000000000
+      internalID: 490902742304252180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_75
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5984a98ddd6dc5d40800000000000000
+      internalID: 5574566687087937685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_76
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 95
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69009956fd3869c00800000000000000
+      internalID: 907057370467205270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fb1cb35e2dbea10800000000000000
+      internalID: 1939875946505027455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f9f82b92984a790800000000000000
+      internalID: -7519734665619464446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857119f45dd9e6db0800000000000000
+      internalID: -4796723013614495912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4f575d1ddd75930800000000000000
+      internalID: 4132015076434900216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_81
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a38211d66c04bba0800000000000000
+      internalID: -6074216361682107488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c202988bf3e767410800000000000000
+      internalID: 1474504740154449964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf18198d06a74010800000000000000
+      internalID: 1173088805018148791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145494ed9556f78e0800000000000000
+      internalID: -1693523498212178623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffbfbec291512b50800000000000000
+      internalID: 6566619422658641904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_86
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 80
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698e61c21a26ba280800000000000000
+      internalID: -9031016183392442218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6723af4b3b4307e50800000000000000
+      internalID: 6804996983396905590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_88
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 80
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c4ed8352ae64e70800000000000000
+      internalID: 9099217542737447946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_89
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0020764d63311a9a0800000000000000
+      internalID: -6223672083836632576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_90
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 80
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35ce6776997ab3a0800000000000000
+      internalID: -6648868212703312580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_91
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 31
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f855eada28f7b450800000000000000
+      internalID: 6104620682868775156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_92
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 61
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd51867a0468c25a0800000000000000
+      internalID: -6544708546231527969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c0801ea143d1c90800000000000000
+      internalID: -7197539339418989538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440328cbac60edc30800000000000000
+      internalID: 4385950554921250884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b667e3f232531900800000000000000
+      internalID: 653956749692724914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de19a138253b1e840800000000000000
+      internalID: 5251675807458955757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4525fb7cebf2ae140800000000000000
+      internalID: 4749661253457105492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_98
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 48
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75403fdd0e68f42a0800000000000000
+      internalID: -6751029016050596777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_99
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 64
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c2247a2fe5a8540800000000000000
+      internalID: 5010921931684326506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a746e13ddce12a90800000000000000
+      internalID: -7340325482868095064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459b164793ec2a0b0800000000000000
+      internalID: -5718781830646089388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_102
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 39
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf11c99024e614b0800000000000000
+      internalID: -5469933868725231683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27569a4d18c71a00800000000000000
+      internalID: 727269892974597932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_104
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ab6932e628abf10800000000000000
+      internalID: 2286283170399042166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_105
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41938a31af0262010800000000000000
+      internalID: 1163653812165556500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_106
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 42
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361cd7630b3b96bb0800000000000000
+      internalID: -4942221546652581533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef81fcff4cc0900f0800000000000000
+      internalID: -1150374189571565314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_108
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 30
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666d2f55943fb1be0800000000000000
+      internalID: -1505342154125158810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c446bb18848ce650800000000000000
+      internalID: 6263526901880865985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c58e82244775a910800000000000000
+      internalID: 1848014356626703810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b6b024a908ea640800000000000000
+      internalID: 5093149628623973123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388ccc875ab408630800000000000000
+      internalID: 3927222049135446147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cbf30df8ff0e590800000000000000
+      internalID: -7646831174135858056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_114
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20961b1b369b26230800000000000000
+      internalID: 3630668087448135938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_115
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fe71fef637445f0800000000000000
+      internalID: -773366311410995397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1fe34cc7af01300800000000000000
+      internalID: 220951795516502436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_117
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3154067437b729bf0800000000000000
+      internalID: -319056888540936941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_118
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae4dbd6dd98f2df0800000000000000
+      internalID: -202791874086482258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23097edeb2fdd17e0800000000000000
+      internalID: -1793031696855625678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66a147d72cf2bcc0800000000000000
+      internalID: -3696615096072427925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 42
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935327cf630ea08e0800000000000000
+      internalID: -1726320980374964935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_122
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61b40311430c7c80800000000000000
+      internalID: -8323774433260686995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_123
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6731e82d10671b90800000000000000
+      internalID: -7271237395010209941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_124
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5905a6b33f1b6f9e0800000000000000
+      internalID: -1587886160369528683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_125
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b830f66eccd23480800000000000000
+      internalID: -8920825132819138380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_126
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae19e5e533ce3410800000000000000
+      internalID: 1458817965572562599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_127
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f540defad9049e0800000000000000
+      internalID: -1639136885441536117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_128
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 17
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde27fd4bdefac990800000000000000
+      internalID: -7364794022751686945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 17
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8216c60d5591f08d0800000000000000
+      internalID: -2878053780506779352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_130
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 17
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02b4fa6e0ac459d0800000000000000
+      internalID: -2786380106162720241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_131
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 14
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639f20650c9818180800000000000000
+      internalID: -9114852711651411658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_132
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff77da4887fad980800000000000000
+      internalID: -8513219980847251464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_133
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1e79e22b5370200800000000000000
+      internalID: 146144552314986991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_134
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cbb5533b26844c0800000000000000
+      internalID: -4303080922118636436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_135
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b76607d39ab56810800000000000000
+      internalID: 1758016373688526777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1a103ee277b4990800000000000000
+      internalID: -7400690519392542271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff346dfbc2d5d630800000000000000
+      internalID: 3951296021658877936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63f0094835277bc0800000000000000
+      internalID: -3785516038108417171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_139
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82256156acee29760800000000000000
+      internalID: 7463290085553099304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_140
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886541cd1961ca140800000000000000
+      internalID: 4732182124177938056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_141
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bd0b17976671fa0800000000000000
+      internalID: -5830078520823325842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_142
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd57ce1fe56a0c610800000000000000
+      internalID: 1639493191078802909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_143
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cc841e4000b16e0800000000000000
+      internalID: -1865897599655424942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_144
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed036dc6442d14920800000000000000
+      internalID: 2972888420366823646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_145
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d80adb914d627430800000000000000
+      internalID: 3779203165872326865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_146
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455972941578dbef0800000000000000
+      internalID: -90767634288110252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_147
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63bd38054e735990800000000000000
+      internalID: -7398430927883488403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CreamyUI_148
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd31449b2d880460800000000000000
+      internalID: 7208166421916892629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CreamyUI_0: 4358117219010328855
+      CreamyUI_1: -7928853193634723114
+      CreamyUI_10: -3382055466379671310
+      CreamyUI_100: -7340325482868095064
+      CreamyUI_101: -5718781830646089388
+      CreamyUI_102: -5469933868725231683
+      CreamyUI_103: 727269892974597932
+      CreamyUI_104: 2286283170399042166
+      CreamyUI_105: 1163653812165556500
+      CreamyUI_106: -4942221546652581533
+      CreamyUI_107: -1150374189571565314
+      CreamyUI_108: -1505342154125158810
+      CreamyUI_109: 6263526901880865985
+      CreamyUI_11: 6006531521657029254
+      CreamyUI_110: 1848014356626703810
+      CreamyUI_111: 5093149628623973123
+      CreamyUI_112: 3927222049135446147
+      CreamyUI_113: -7646831174135858056
+      CreamyUI_114: 3630668087448135938
+      CreamyUI_115: -773366311410995397
+      CreamyUI_116: 220951795516502436
+      CreamyUI_117: -319056888540936941
+      CreamyUI_118: -202791874086482258
+      CreamyUI_119: -1793031696855625678
+      CreamyUI_12: 8202987099045729711
+      CreamyUI_120: -3696615096072427925
+      CreamyUI_121: -1726320980374964935
+      CreamyUI_122: -8323774433260686995
+      CreamyUI_123: -7271237395010209941
+      CreamyUI_124: -1587886160369528683
+      CreamyUI_125: -8920825132819138380
+      CreamyUI_126: 1458817965572562599
+      CreamyUI_127: -1639136885441536117
+      CreamyUI_128: -7364794022751686945
+      CreamyUI_129: -2878053780506779352
+      CreamyUI_13: 7493060717869124694
+      CreamyUI_130: -2786380106162720241
+      CreamyUI_131: -9114852711651411658
+      CreamyUI_132: -8513219980847251464
+      CreamyUI_133: 146144552314986991
+      CreamyUI_134: -4303080922118636436
+      CreamyUI_135: 1758016373688526777
+      CreamyUI_136: -7400690519392542271
+      CreamyUI_137: 3951296021658877936
+      CreamyUI_138: -3785516038108417171
+      CreamyUI_139: 7463290085553099304
+      CreamyUI_14: 8192144587807879823
+      CreamyUI_140: 4732182124177938056
+      CreamyUI_141: -5830078520823325842
+      CreamyUI_142: 1639493191078802909
+      CreamyUI_143: -1865897599655424942
+      CreamyUI_144: 2972888420366823646
+      CreamyUI_145: 3779203165872326865
+      CreamyUI_146: -90767634288110252
+      CreamyUI_147: -7398430927883488403
+      CreamyUI_148: 7208166421916892629
+      CreamyUI_15: -3839068634541151037
+      CreamyUI_16: -3942936170400014765
+      CreamyUI_17: 2598949165528094636
+      CreamyUI_18: -6503249915533537756
+      CreamyUI_19: -969615463927380199
+      CreamyUI_2: 2894242063483776440
+      CreamyUI_20: 1962668705398755116
+      CreamyUI_21: 8297982366212421060
+      CreamyUI_22: -5025996627125055105
+      CreamyUI_23: 5114717418077833170
+      CreamyUI_24: 1363355075957077375
+      CreamyUI_25: -7496132434408269623
+      CreamyUI_26: 1152623978412519626
+      CreamyUI_27: 1016917438705717470
+      CreamyUI_28: -3653465621107224670
+      CreamyUI_29: 5865120104026029516
+      CreamyUI_3: 6522720477806702494
+      CreamyUI_30: -4120880306215342482
+      CreamyUI_31: -5024874239466308171
+      CreamyUI_32: 8875059749394539413
+      CreamyUI_33: 7673544729302440396
+      CreamyUI_34: -919743043548048704
+      CreamyUI_35: 7589407953722737627
+      CreamyUI_36: 9197793842090225649
+      CreamyUI_37: 5100685470282334834
+      CreamyUI_38: -832574470911883770
+      CreamyUI_39: -411436343378338510
+      CreamyUI_4: 5391841919538637615
+      CreamyUI_40: -4591451500737089459
+      CreamyUI_41: -5291522854797039267
+      CreamyUI_42: -9046231257926623835
+      CreamyUI_43: 4130638859756147049
+      CreamyUI_44: -5859333122810022991
+      CreamyUI_45: -9077170879583656114
+      CreamyUI_46: -6737825051576008741
+      CreamyUI_47: 5991540287045437147
+      CreamyUI_48: -321081509527200875
+      CreamyUI_49: -5044501780556647613
+      CreamyUI_5: -1999942625552011178
+      CreamyUI_50: 6805951549829899629
+      CreamyUI_51: 1403569152432910047
+      CreamyUI_52: -3777792044945871555
+      CreamyUI_53: -8445217751230899129
+      CreamyUI_54: 6260695080696633562
+      CreamyUI_55: -8699022901153190308
+      CreamyUI_56: 5253100229286482543
+      CreamyUI_57: 4143039444868179373
+      CreamyUI_58: 6158689013842529627
+      CreamyUI_59: 1639996328191499662
+      CreamyUI_6: 2641015811053345686
+      CreamyUI_60: 4834939341534569997
+      CreamyUI_61: -6483752448662966474
+      CreamyUI_62: 6299893116101342482
+      CreamyUI_63: 2927309314848318756
+      CreamyUI_64: -7785542278317360798
+      CreamyUI_65: -5749534477761996989
+      CreamyUI_66: -3617950913238299847
+      CreamyUI_67: -5615351179190892270
+      CreamyUI_68: 9135890361885050669
+      CreamyUI_69: -2692961898884021361
+      CreamyUI_7: 3291339436826729020
+      CreamyUI_70: -5900096150765006128
+      CreamyUI_71: -6153688726467662333
+      CreamyUI_72: 8933736596112763325
+      CreamyUI_73: 288888392268989065
+      CreamyUI_74: 490902742304252180
+      CreamyUI_75: 5574566687087937685
+      CreamyUI_76: 907057370467205270
+      CreamyUI_77: 1939875946505027455
+      CreamyUI_78: -7519734665619464446
+      CreamyUI_79: -4796723013614495912
+      CreamyUI_8: 7334130327112652229
+      CreamyUI_80: 4132015076434900216
+      CreamyUI_81: -6074216361682107488
+      CreamyUI_82: 1474504740154449964
+      CreamyUI_83: 1173088805018148791
+      CreamyUI_84: -1693523498212178623
+      CreamyUI_85: 6566619422658641904
+      CreamyUI_86: -9031016183392442218
+      CreamyUI_87: 6804996983396905590
+      CreamyUI_88: 9099217542737447946
+      CreamyUI_89: -6223672083836632576
+      CreamyUI_9: -8046717309606663084
+      CreamyUI_90: -6648868212703312580
+      CreamyUI_91: 6104620682868775156
+      CreamyUI_92: -6544708546231527969
+      CreamyUI_93: -7197539339418989538
+      CreamyUI_94: 4385950554921250884
+      CreamyUI_95: 653956749692724914
+      CreamyUI_96: 5251675807458955757
+      CreamyUI_97: 4749661253457105492
+      CreamyUI_98: -6751029016050596777
+      CreamyUI_99: 5010921931684326506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
