@@ -3305,6 +3305,7 @@ GameObject:
   - component: {fileID: 53437412}
   - component: {fileID: 53437411}
   - component: {fileID: 53437414}
+  - component: {fileID: 53437415}
   m_Layer: 6
   m_Name: Scheletro (2)
   m_TagString: Untagged
@@ -3484,7 +3485,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36ade2a7f42020f45b73404632667aa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nemico
-  nomePersonaggio: Personaggio
+  nomePersonaggio: Nemico
 --- !u!114 &53437412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3498,12 +3499,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CervelloNPC
   modalita: 0
-  puntiPattuglia: []
+  puntiPattuglia:
+  - {fileID: 1639237125}
+  - {fileID: 1065747057}
+  - {fileID: 740856062}
   raggioMovimento: 3
   raggioControlloOstacoli: 0.25
   ostacoli:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   pausaMinima: 1
   pausaMassima: 3
   velocitaInseguimento: 3
@@ -3544,6 +3548,24 @@ MonoBehaviour:
   vitaMassima: 100
   forza: 10
   difesa: 5
+--- !u!114 &53437415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 53437401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e32879fb66c28040b907fc5011b9926, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RilevamentoNPC
+  componenteBersaglio: {fileID: 246677806}
+  raggioRilevamento: 4
+  raggioPerdita: 6
+  ostacoliVista:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!1 &58661895
 GameObject:
   m_ObjectHideFlags: 0
@@ -5925,6 +5947,7 @@ GameObject:
   - component: {fileID: 327185118}
   - component: {fileID: 327185120}
   - component: {fileID: 327185119}
+  - component: {fileID: 327185121}
   m_Layer: 0
   m_Name: SfondoVita
   m_TagString: Untagged
@@ -5991,6 +6014,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 327185117}
   m_CullTransparentMesh: 1
+--- !u!114 &327185121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 327185117}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a17b20a92fe16f44dae25f0f56b08f2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BarraVitaUI
+  statistiche: {fileID: 246677807}
+  riempimentoVita: {fileID: 1966896426}
+  testoVita: {fileID: 205849327}
+  animatoreTesto: {fileID: 205849329}
 --- !u!1 &332347370
 GameObject:
   m_ObjectHideFlags: 0
@@ -17020,6 +17059,7 @@ GameObject:
   - component: {fileID: 631377802}
   - component: {fileID: 631377801}
   - component: {fileID: 631377804}
+  - component: {fileID: 631377805}
   m_Layer: 6
   m_Name: Scheletro (1)
   m_TagString: Untagged
@@ -17199,7 +17239,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36ade2a7f42020f45b73404632667aa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nemico
-  nomePersonaggio: Personaggio
+  nomePersonaggio: Nemico
 --- !u!114 &631377802
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17213,12 +17253,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CervelloNPC
   modalita: 0
-  puntiPattuglia: []
+  puntiPattuglia:
+  - {fileID: 1639237125}
+  - {fileID: 1065747057}
+  - {fileID: 740856062}
   raggioMovimento: 3
   raggioControlloOstacoli: 0.25
   ostacoli:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   pausaMinima: 1
   pausaMassima: 3
   velocitaInseguimento: 3
@@ -17259,6 +17302,24 @@ MonoBehaviour:
   vitaMassima: 100
   forza: 10
   difesa: 5
+--- !u!114 &631377805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 631377791}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e32879fb66c28040b907fc5011b9926, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RilevamentoNPC
+  componenteBersaglio: {fileID: 246677806}
+  raggioRilevamento: 4
+  raggioPerdita: 6
+  ostacoliVista:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!1 &634932052
 GameObject:
   m_ObjectHideFlags: 0
@@ -18024,6 +18085,7 @@ GameObject:
   m_Component:
   - component: {fileID: 872383630}
   - component: {fileID: 872383632}
+  - component: {fileID: 872383633}
   m_Layer: 0
   m_Name: Basso
   m_TagString: Untagged
@@ -18092,6 +18154,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 7.986229, y: 1.3000717}
   m_EdgeRadius: 0
+--- !u!114 &872383633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 872383629}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db5660406228c874783ae6c8cf459d0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PassaggioScala
+  pianoDestinazione: 0
 --- !u!1 &1065747056
 GameObject:
   m_ObjectHideFlags: 0
@@ -2063756,6 +2063831,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1299589881}
   - component: {fileID: 1299589883}
+  - component: {fileID: 1299589884}
   m_Layer: 0
   m_Name: Alto
   m_TagString: Untagged
@@ -2063824,6 +2063900,19 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 7.999489, y: 1.6843338}
   m_EdgeRadius: 0
+--- !u!114 &1299589884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1299589880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db5660406228c874783ae6c8cf459d0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PassaggioScala
+  pianoDestinazione: 1
 --- !u!1 &1301676559
 GameObject:
   m_ObjectHideFlags: 0
@@ -2071505,6 +2071594,7 @@ GameObject:
   - component: {fileID: 1330536061}
   - component: {fileID: 1330536060}
   - component: {fileID: 1330536063}
+  - component: {fileID: 1330536064}
   m_Layer: 6
   m_Name: Scheletro (4)
   m_TagString: Untagged
@@ -2071684,7 +2071774,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36ade2a7f42020f45b73404632667aa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nemico
-  nomePersonaggio: Personaggio
+  nomePersonaggio: Nemico
 --- !u!114 &1330536061
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2071697,13 +2071787,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38b0618e2bd9eaf4995185abd6398036, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CervelloNPC
-  modalita: 0
-  puntiPattuglia: []
+  modalita: 2
+  puntiPattuglia:
+  - {fileID: 1639237125}
+  - {fileID: 1065747057}
+  - {fileID: 740856062}
   raggioMovimento: 3
   raggioControlloOstacoli: 0.25
   ostacoli:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   pausaMinima: 1
   pausaMassima: 3
   velocitaInseguimento: 3
@@ -2071744,6 +2071837,24 @@ MonoBehaviour:
   vitaMassima: 100
   forza: 10
   difesa: 5
+--- !u!114 &1330536064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1330536050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e32879fb66c28040b907fc5011b9926, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RilevamentoNPC
+  componenteBersaglio: {fileID: 246677806}
+  raggioRilevamento: 4
+  raggioPerdita: 6
+  ostacoliVista:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!1 &1342494988
 GameObject:
   m_ObjectHideFlags: 0
@@ -2071761,6 +2071872,7 @@ GameObject:
   - component: {fileID: 1342495000}
   - component: {fileID: 1342494999}
   - component: {fileID: 1342495002}
+  - component: {fileID: 1342495003}
   m_Layer: 6
   m_Name: Scheletro
   m_TagString: Untagged
@@ -2071940,7 +2072052,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36ade2a7f42020f45b73404632667aa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nemico
-  nomePersonaggio: Personaggio
+  nomePersonaggio: Nemico
 --- !u!114 &1342495000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2071953,13 +2072065,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38b0618e2bd9eaf4995185abd6398036, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CervelloNPC
-  modalita: 0
-  puntiPattuglia: []
+  modalita: 1
+  puntiPattuglia:
+  - {fileID: 1639237125}
+  - {fileID: 1065747057}
+  - {fileID: 740856062}
   raggioMovimento: 3
   raggioControlloOstacoli: 0.25
   ostacoli:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   pausaMinima: 1
   pausaMassima: 3
   velocitaInseguimento: 3
@@ -2072000,6 +2072115,24 @@ MonoBehaviour:
   vitaMassima: 100
   forza: 10
   difesa: 5
+--- !u!114 &1342495003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342494988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e32879fb66c28040b907fc5011b9926, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RilevamentoNPC
+  componenteBersaglio: {fileID: 246677806}
+  raggioRilevamento: 4
+  raggioPerdita: 6
+  ostacoliVista:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!1 &1352747692
 GameObject:
   m_ObjectHideFlags: 0
@@ -2097370,10 +2097503,10 @@ GameObject:
   - component: {fileID: 2047696532}
   - component: {fileID: 2047696533}
   - component: {fileID: 2047696543}
-  - component: {fileID: 2047696542}
   - component: {fileID: 2047696541}
   - component: {fileID: 2047696540}
   - component: {fileID: 2047696544}
+  - component: {fileID: 2047696545}
   m_Layer: 6
   m_Name: Scheletro (3)
   m_TagString: Untagged
@@ -2097553,7 +2097686,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36ade2a7f42020f45b73404632667aa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nemico
-  nomePersonaggio: Personaggio
+  nomePersonaggio: Nemico
 --- !u!114 &2047696541
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2097567,12 +2097700,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CervelloNPC
   modalita: 0
-  puntiPattuglia: []
+  puntiPattuglia:
+  - {fileID: 1639237125}
+  - {fileID: 1065747057}
+  - {fileID: 740856062}
   raggioMovimento: 3
   raggioControlloOstacoli: 0.25
   ostacoli:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   pausaMinima: 1
   pausaMassima: 3
   velocitaInseguimento: 3
@@ -2097583,24 +2097719,6 @@ MonoBehaviour:
   velocitaRitorno: 2.5
   distanzaAttacco: 0.85
   mostraTransizione: 1
---- !u!114 &2047696542
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2047696530}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e32879fb66c28040b907fc5011b9926, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::RilevamentoNPC
-  componenteBersaglio: {fileID: 246677806}
-  raggioRilevamento: 4
-  raggioPerdita: 6
-  ostacoliVista:
-    serializedVersion: 2
-    m_Bits: 0
 --- !u!114 &2047696543
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2097631,6 +2097749,24 @@ MonoBehaviour:
   vitaMassima: 100
   forza: 10
   difesa: 5
+--- !u!114 &2047696545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2047696530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e32879fb66c28040b907fc5011b9926, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RilevamentoNPC
+  componenteBersaglio: {fileID: 246677806}
+  raggioRilevamento: 4
+  raggioPerdita: 6
+  ostacoliVista:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!1 &2059813978
 GameObject:
   m_ObjectHideFlags: 0
