@@ -43,7 +43,7 @@ public class MovimentoGiocatore : MonoBehaviour
             animatore.SetFloat("MoveX", orientamento.x);
             animatore.SetFloat("MoveY", orientamento.y);
         }
-
+        Debug.Log(azioneMovimento.ReadValue<Vector2>());
         animatore.SetBool("isMoving", inMovimento);
     }
 

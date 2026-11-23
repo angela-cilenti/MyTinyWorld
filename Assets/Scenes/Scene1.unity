@@ -3301,10 +3301,10 @@ GameObject:
   - component: {fileID: 53437405}
   - component: {fileID: 53437403}
   - component: {fileID: 53437404}
-  - component: {fileID: 53437410}
   - component: {fileID: 53437413}
   - component: {fileID: 53437412}
   - component: {fileID: 53437411}
+  - component: {fileID: 53437414}
   m_Layer: 6
   m_Name: Scheletro (2)
   m_TagString: Untagged
@@ -3472,21 +3472,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1352747693}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &53437410
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 53437401}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1611d0306f40ff94cb4a0598c843c5cf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
-  vitaMassima: 100
-  forza: 10
-  difesa: 5
 --- !u!114 &53437411
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3527,6 +3512,7 @@ MonoBehaviour:
   raggioRicerca: 3
   tempoUltimaPosizione: 4
   velocitaRitorno: 2.5
+  distanzaAttacco: 0.85
   mostraTransizione: 1
 --- !u!114 &53437413
 MonoBehaviour:
@@ -3543,6 +3529,21 @@ MonoBehaviour:
   velocita: 2.5
   direzioneIniziale: {x: 0, y: -1}
   distanzaArrivo: 0.1
+--- !u!114 &53437414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 53437401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 722b6de9abf148c47a293eb8658a7f48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
+  vitaMassima: 100
+  forza: 10
+  difesa: 5
 --- !u!1 &58661895
 GameObject:
   m_ObjectHideFlags: 0
@@ -5435,7 +5436,7 @@ Animator:
   m_GameObject: {fileID: 205849325}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 6d96743ba48efeb4198fc9f9ff7144d1, type: 2}
+  m_Controller: {fileID: 9100000, guid: 48025c0535885f44299abac5ee388651, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -5461,12 +5462,15 @@ GameObject:
   - component: {fileID: 246677801}
   - component: {fileID: 246677797}
   - component: {fileID: 246677806}
-  - component: {fileID: 246677805}
-  - component: {fileID: 246677804}
+  - component: {fileID: 246677807}
   - component: {fileID: 246677803}
+  - component: {fileID: 246677810}
+  - component: {fileID: 246677809}
+  - component: {fileID: 246677808}
+  - component: {fileID: 246677811}
   m_Layer: 6
   m_Name: Assassina
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5643,35 +5647,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c87562e18469f0409c0812ec3a14f65, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Giocatore
-  nomePersonaggio: Personaggio
---- !u!114 &246677804
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 246677796}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1611d0306f40ff94cb4a0598c843c5cf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
-  vitaMassima: 100
-  forza: 10
-  difesa: 5
---- !u!114 &246677805
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 246677796}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e2ebcbddc70f7249842a84080218104, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MovimentoGiocatore
-  velocita: 5
+  nomePersonaggio: Assassina
 --- !u!114 &246677806
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5684,6 +5660,80 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 85c362cfd64fad54c85826d4fdf4285c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BersaglioGiocatore
+--- !u!114 &246677807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246677796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 722b6de9abf148c47a293eb8658a7f48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
+  vitaMassima: 100
+  forza: 10
+  difesa: 5
+--- !u!114 &246677808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246677796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b095a0ec6290d249bbcde22d17405e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AttaccoGiocatore
+--- !u!114 &246677809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246677796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54a028e5991f425449ff4342e5797fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AttaccoPersonaggio
+  distanzaColpo: 0.55
+  raggioColpo: 0.45
+  intervalloAttacchi: 0.8
+  layerBersagli:
+    serializedVersion: 2
+    m_Bits: 2048
+  ostacoliColpo:
+    serializedVersion: 2
+    m_Bits: 256
+--- !u!114 &246677810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246677796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c3821ad3ee9e0c45b2aa9d3dcc8a02c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GestionePiano
+  pianoIniziale: 0
+--- !u!114 &246677811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246677796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e2ebcbddc70f7249842a84080218104, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MovimentoGiocatore
+  velocita: 5
 --- !u!1 &326631188
 GameObject:
   m_ObjectHideFlags: 0
@@ -5875,7 +5925,6 @@ GameObject:
   - component: {fileID: 327185118}
   - component: {fileID: 327185120}
   - component: {fileID: 327185119}
-  - component: {fileID: 327185121}
   m_Layer: 0
   m_Name: SfondoVita
   m_TagString: Untagged
@@ -5942,22 +5991,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 327185117}
   m_CullTransparentMesh: 1
---- !u!114 &327185121
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 327185117}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 126fa251d088901479dfd5b0a5df520e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::BarraVitaUI
-  statistiche: {fileID: 0}
-  riempimentoVita: {fileID: 1966896426}
-  testoVita: {fileID: 205849327}
-  animatoreTesto: {fileID: 205849329}
 --- !u!1 &332347370
 GameObject:
   m_ObjectHideFlags: 0
@@ -16983,10 +17016,10 @@ GameObject:
   - component: {fileID: 631377795}
   - component: {fileID: 631377793}
   - component: {fileID: 631377794}
-  - component: {fileID: 631377800}
   - component: {fileID: 631377803}
   - component: {fileID: 631377802}
   - component: {fileID: 631377801}
+  - component: {fileID: 631377804}
   m_Layer: 6
   m_Name: Scheletro (1)
   m_TagString: Untagged
@@ -17154,21 +17187,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1352747693}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &631377800
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 631377791}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1611d0306f40ff94cb4a0598c843c5cf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
-  vitaMassima: 100
-  forza: 10
-  difesa: 5
 --- !u!114 &631377801
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17209,6 +17227,7 @@ MonoBehaviour:
   raggioRicerca: 3
   tempoUltimaPosizione: 4
   velocitaRitorno: 2.5
+  distanzaAttacco: 0.85
   mostraTransizione: 1
 --- !u!114 &631377803
 MonoBehaviour:
@@ -17225,6 +17244,21 @@ MonoBehaviour:
   velocita: 2.5
   direzioneIniziale: {x: 0, y: -1}
   distanzaArrivo: 0.1
+--- !u!114 &631377804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 631377791}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 722b6de9abf148c47a293eb8658a7f48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
+  vitaMassima: 100
+  forza: 10
+  difesa: 5
 --- !u!1 &634932052
 GameObject:
   m_ObjectHideFlags: 0
@@ -17990,7 +18024,6 @@ GameObject:
   m_Component:
   - component: {fileID: 872383630}
   - component: {fileID: 872383632}
-  - component: {fileID: 872383631}
   m_Layer: 0
   m_Name: Basso
   m_TagString: Untagged
@@ -18013,19 +18046,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 703591780}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &872383631
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 872383629}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f30f147fa43cc534fb8e56aecd15a26c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PassaggioScala
-  pianoDestinazione: 0
 --- !u!61 &872383632
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2063736,7 +2063756,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1299589881}
   - component: {fileID: 1299589883}
-  - component: {fileID: 1299589882}
   m_Layer: 0
   m_Name: Alto
   m_TagString: Untagged
@@ -2063759,19 +2063778,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 703591780}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1299589882
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1299589880}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f30f147fa43cc534fb8e56aecd15a26c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PassaggioScala
-  pianoDestinazione: 1
 --- !u!61 &1299589883
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2071495,10 +2071501,10 @@ GameObject:
   - component: {fileID: 1330536054}
   - component: {fileID: 1330536052}
   - component: {fileID: 1330536053}
-  - component: {fileID: 1330536059}
   - component: {fileID: 1330536062}
   - component: {fileID: 1330536061}
   - component: {fileID: 1330536060}
+  - component: {fileID: 1330536063}
   m_Layer: 6
   m_Name: Scheletro (4)
   m_TagString: Untagged
@@ -2071666,21 +2071672,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1352747693}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1330536059
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1330536050}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1611d0306f40ff94cb4a0598c843c5cf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
-  vitaMassima: 100
-  forza: 10
-  difesa: 5
 --- !u!114 &1330536060
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2071721,6 +2071712,7 @@ MonoBehaviour:
   raggioRicerca: 3
   tempoUltimaPosizione: 4
   velocitaRitorno: 2.5
+  distanzaAttacco: 0.85
   mostraTransizione: 1
 --- !u!114 &1330536062
 MonoBehaviour:
@@ -2071737,6 +2071729,21 @@ MonoBehaviour:
   velocita: 2.5
   direzioneIniziale: {x: 0, y: -1}
   distanzaArrivo: 0.1
+--- !u!114 &1330536063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1330536050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 722b6de9abf148c47a293eb8658a7f48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
+  vitaMassima: 100
+  forza: 10
+  difesa: 5
 --- !u!1 &1342494988
 GameObject:
   m_ObjectHideFlags: 0
@@ -2071750,10 +2071757,10 @@ GameObject:
   - component: {fileID: 1342494992}
   - component: {fileID: 1342494990}
   - component: {fileID: 1342494991}
-  - component: {fileID: 1342494998}
   - component: {fileID: 1342495001}
   - component: {fileID: 1342495000}
   - component: {fileID: 1342494999}
+  - component: {fileID: 1342495002}
   m_Layer: 6
   m_Name: Scheletro
   m_TagString: Untagged
@@ -2071921,21 +2071928,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1352747693}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1342494998
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1342494988}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1611d0306f40ff94cb4a0598c843c5cf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
-  vitaMassima: 100
-  forza: 10
-  difesa: 5
 --- !u!114 &1342494999
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2071976,6 +2071968,7 @@ MonoBehaviour:
   raggioRicerca: 3
   tempoUltimaPosizione: 4
   velocitaRitorno: 2.5
+  distanzaAttacco: 0.85
   mostraTransizione: 1
 --- !u!114 &1342495001
 MonoBehaviour:
@@ -2071992,6 +2071985,21 @@ MonoBehaviour:
   velocita: 2.5
   direzioneIniziale: {x: 0, y: -1}
   distanzaArrivo: 0.1
+--- !u!114 &1342495002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342494988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 722b6de9abf148c47a293eb8658a7f48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
+  vitaMassima: 100
+  forza: 10
+  difesa: 5
 --- !u!1 &1352747692
 GameObject:
   m_ObjectHideFlags: 0
@@ -2097364,8 +2097372,8 @@ GameObject:
   - component: {fileID: 2047696543}
   - component: {fileID: 2047696542}
   - component: {fileID: 2047696541}
-  - component: {fileID: 2047696539}
   - component: {fileID: 2047696540}
+  - component: {fileID: 2047696544}
   m_Layer: 6
   m_Name: Scheletro (3)
   m_TagString: Untagged
@@ -2097533,21 +2097541,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1352747693}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2047696539
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2047696530}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1611d0306f40ff94cb4a0598c843c5cf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
-  vitaMassima: 100
-  forza: 10
-  difesa: 5
 --- !u!114 &2047696540
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2097588,6 +2097581,7 @@ MonoBehaviour:
   raggioRicerca: 3
   tempoUltimaPosizione: 4
   velocitaRitorno: 2.5
+  distanzaAttacco: 0.85
   mostraTransizione: 1
 --- !u!114 &2047696542
 MonoBehaviour:
@@ -2097601,7 +2097595,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e32879fb66c28040b907fc5011b9926, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RilevamentoNPC
-  componenteBersaglio: {fileID: 0}
+  componenteBersaglio: {fileID: 246677806}
   raggioRilevamento: 4
   raggioPerdita: 6
   ostacoliVista:
@@ -2097622,6 +2097616,21 @@ MonoBehaviour:
   velocita: 2.5
   direzioneIniziale: {x: 0, y: -1}
   distanzaArrivo: 0.1
+--- !u!114 &2047696544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2047696530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 722b6de9abf148c47a293eb8658a7f48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StatistichePersonaggio
+  vitaMassima: 100
+  forza: 10
+  difesa: 5
 --- !u!1 &2059813978
 GameObject:
   m_ObjectHideFlags: 0
