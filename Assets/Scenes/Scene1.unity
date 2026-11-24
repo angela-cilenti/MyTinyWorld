@@ -3301,14 +3301,17 @@ GameObject:
   - component: {fileID: 53437405}
   - component: {fileID: 53437403}
   - component: {fileID: 53437404}
-  - component: {fileID: 53437413}
-  - component: {fileID: 53437412}
   - component: {fileID: 53437411}
   - component: {fileID: 53437414}
+  - component: {fileID: 53437413}
+  - component: {fileID: 53437412}
   - component: {fileID: 53437415}
+  - component: {fileID: 53437418}
+  - component: {fileID: 53437417}
+  - component: {fileID: 53437416}
   m_Layer: 6
   m_Name: Scheletro (2)
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3485,7 +3488,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36ade2a7f42020f45b73404632667aa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nemico
-  nomePersonaggio: Nemico
+  nomePersonaggio: Nemico1
 --- !u!114 &53437412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3498,7 +3501,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38b0618e2bd9eaf4995185abd6398036, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CervelloNPC
-  modalita: 0
+  modalita: 3
   puntiPattuglia:
   - {fileID: 1639237125}
   - {fileID: 1065747057}
@@ -3564,6 +3567,53 @@ MonoBehaviour:
   raggioRilevamento: 4
   raggioPerdita: 6
   ostacoliVista:
+    serializedVersion: 2
+    m_Bits: 256
+--- !u!114 &53437416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 53437401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd52613a01aa2f24cbc84a8ae782179a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MortePersonaggio
+  pannelloGameOver: {fileID: 0}
+--- !u!114 &53437417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 53437401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 550db7b0a0dc6ae4db6f2489a1750506, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RicompensaEsperienzaNemico
+  esperienzaFornita: 40
+--- !u!114 &53437418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 53437401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54a028e5991f425449ff4342e5797fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AttaccoPersonaggio
+  distanzaColpo: 0.55
+  raggioColpo: 0.45
+  intervalloAttacchi: 0.8
+  layerBersagli:
+    serializedVersion: 2
+    m_Bits: 64
+  ostacoliColpo:
     serializedVersion: 2
     m_Bits: 256
 --- !u!1 &58661895
@@ -5143,9 +5193,9 @@ GameObject:
   - component: {fileID: 169187294}
   - component: {fileID: 169187293}
   - component: {fileID: 169187292}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Slime (6)
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5484,15 +5534,17 @@ GameObject:
   - component: {fileID: 246677801}
   - component: {fileID: 246677797}
   - component: {fileID: 246677806}
+  - component: {fileID: 246677811}
   - component: {fileID: 246677807}
   - component: {fileID: 246677803}
   - component: {fileID: 246677810}
   - component: {fileID: 246677809}
   - component: {fileID: 246677808}
-  - component: {fileID: 246677811}
+  - component: {fileID: 246677813}
+  - component: {fileID: 246677812}
   m_Layer: 6
   m_Name: Assassina
-  m_TagString: Player
+  m_TagString: Giocatore
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5721,8 +5773,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 54a028e5991f425449ff4342e5797fd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AttaccoPersonaggio
-  distanzaColpo: 0.55
-  raggioColpo: 0.45
+  distanzaColpo: 1
+  raggioColpo: 1
   intervalloAttacchi: 0.8
   layerBersagli:
     serializedVersion: 2
@@ -5756,6 +5808,34 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MovimentoGiocatore
   velocita: 5
+--- !u!114 &246677812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246677796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d6640cc097c8d0438fd6920a41eb551, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EsperienzaGiocatore
+  bonusVita: 10
+  bonusForza: 2
+  bonusDifesa: 1
+--- !u!114 &246677813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246677796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd52613a01aa2f24cbc84a8ae782179a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MortePersonaggio
+  pannelloGameOver: {fileID: 0}
 --- !u!1 &326631188
 GameObject:
   m_ObjectHideFlags: 0
@@ -5769,9 +5849,9 @@ GameObject:
   - component: {fileID: 326631191}
   - component: {fileID: 326631190}
   - component: {fileID: 326631189}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Slime (8)
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6043,9 +6123,9 @@ GameObject:
   - component: {fileID: 332347373}
   - component: {fileID: 332347372}
   - component: {fileID: 332347371}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Slime (4)
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17055,14 +17135,17 @@ GameObject:
   - component: {fileID: 631377795}
   - component: {fileID: 631377793}
   - component: {fileID: 631377794}
-  - component: {fileID: 631377803}
-  - component: {fileID: 631377802}
   - component: {fileID: 631377801}
   - component: {fileID: 631377804}
+  - component: {fileID: 631377803}
+  - component: {fileID: 631377802}
   - component: {fileID: 631377805}
+  - component: {fileID: 631377808}
+  - component: {fileID: 631377807}
+  - component: {fileID: 631377806}
   m_Layer: 6
   m_Name: Scheletro (1)
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17239,7 +17322,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36ade2a7f42020f45b73404632667aa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nemico
-  nomePersonaggio: Nemico
+  nomePersonaggio: Nemico1
 --- !u!114 &631377802
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17252,7 +17335,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38b0618e2bd9eaf4995185abd6398036, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CervelloNPC
-  modalita: 0
+  modalita: 3
   puntiPattuglia:
   - {fileID: 1639237125}
   - {fileID: 1065747057}
@@ -17320,6 +17403,53 @@ MonoBehaviour:
   ostacoliVista:
     serializedVersion: 2
     m_Bits: 256
+--- !u!114 &631377806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 631377791}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd52613a01aa2f24cbc84a8ae782179a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MortePersonaggio
+  pannelloGameOver: {fileID: 0}
+--- !u!114 &631377807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 631377791}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 550db7b0a0dc6ae4db6f2489a1750506, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RicompensaEsperienzaNemico
+  esperienzaFornita: 40
+--- !u!114 &631377808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 631377791}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54a028e5991f425449ff4342e5797fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AttaccoPersonaggio
+  distanzaColpo: 0.55
+  raggioColpo: 0.45
+  intervalloAttacchi: 0.8
+  layerBersagli:
+    serializedVersion: 2
+    m_Bits: 64
+  ostacoliColpo:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!1 &634932052
 GameObject:
   m_ObjectHideFlags: 0
@@ -17333,9 +17463,9 @@ GameObject:
   - component: {fileID: 634932055}
   - component: {fileID: 634932054}
   - component: {fileID: 634932053}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Slime (1)
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18211,9 +18341,9 @@ GameObject:
   - component: {fileID: 1072488543}
   - component: {fileID: 1072488542}
   - component: {fileID: 1072488541}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Slime (5)
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2050064,9 +2050194,9 @@ GameObject:
   - component: {fileID: 1105555223}
   - component: {fileID: 1105555227}
   - component: {fileID: 1105555226}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Slime
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2071590,14 +2071720,17 @@ GameObject:
   - component: {fileID: 1330536054}
   - component: {fileID: 1330536052}
   - component: {fileID: 1330536053}
-  - component: {fileID: 1330536062}
-  - component: {fileID: 1330536061}
   - component: {fileID: 1330536060}
   - component: {fileID: 1330536063}
+  - component: {fileID: 1330536062}
+  - component: {fileID: 1330536061}
   - component: {fileID: 1330536064}
+  - component: {fileID: 1330536067}
+  - component: {fileID: 1330536066}
+  - component: {fileID: 1330536065}
   m_Layer: 6
   m_Name: Scheletro (4)
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2071774,7 +2071907,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36ade2a7f42020f45b73404632667aa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nemico
-  nomePersonaggio: Nemico
+  nomePersonaggio: Nemico1
 --- !u!114 &1330536061
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2071787,7 +2071920,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38b0618e2bd9eaf4995185abd6398036, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CervelloNPC
-  modalita: 2
+  modalita: 3
   puntiPattuglia:
   - {fileID: 1639237125}
   - {fileID: 1065747057}
@@ -2071855,6 +2071988,53 @@ MonoBehaviour:
   ostacoliVista:
     serializedVersion: 2
     m_Bits: 256
+--- !u!114 &1330536065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1330536050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd52613a01aa2f24cbc84a8ae782179a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MortePersonaggio
+  pannelloGameOver: {fileID: 0}
+--- !u!114 &1330536066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1330536050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 550db7b0a0dc6ae4db6f2489a1750506, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RicompensaEsperienzaNemico
+  esperienzaFornita: 40
+--- !u!114 &1330536067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1330536050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54a028e5991f425449ff4342e5797fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AttaccoPersonaggio
+  distanzaColpo: 0.55
+  raggioColpo: 0.45
+  intervalloAttacchi: 0.8
+  layerBersagli:
+    serializedVersion: 2
+    m_Bits: 64
+  ostacoliColpo:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!1 &1342494988
 GameObject:
   m_ObjectHideFlags: 0
@@ -2071868,14 +2072048,17 @@ GameObject:
   - component: {fileID: 1342494992}
   - component: {fileID: 1342494990}
   - component: {fileID: 1342494991}
-  - component: {fileID: 1342495001}
-  - component: {fileID: 1342495000}
   - component: {fileID: 1342494999}
   - component: {fileID: 1342495002}
+  - component: {fileID: 1342495001}
+  - component: {fileID: 1342495000}
   - component: {fileID: 1342495003}
+  - component: {fileID: 1342495006}
+  - component: {fileID: 1342495005}
+  - component: {fileID: 1342495004}
   m_Layer: 6
   m_Name: Scheletro
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2072052,7 +2072235,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36ade2a7f42020f45b73404632667aa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nemico
-  nomePersonaggio: Nemico
+  nomePersonaggio: Nemico1
 --- !u!114 &1342495000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2072065,7 +2072248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38b0618e2bd9eaf4995185abd6398036, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CervelloNPC
-  modalita: 1
+  modalita: 3
   puntiPattuglia:
   - {fileID: 1639237125}
   - {fileID: 1065747057}
@@ -2072131,6 +2072314,53 @@ MonoBehaviour:
   raggioRilevamento: 4
   raggioPerdita: 6
   ostacoliVista:
+    serializedVersion: 2
+    m_Bits: 256
+--- !u!114 &1342495004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342494988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd52613a01aa2f24cbc84a8ae782179a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MortePersonaggio
+  pannelloGameOver: {fileID: 0}
+--- !u!114 &1342495005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342494988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 550db7b0a0dc6ae4db6f2489a1750506, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RicompensaEsperienzaNemico
+  esperienzaFornita: 40
+--- !u!114 &1342495006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342494988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54a028e5991f425449ff4342e5797fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AttaccoPersonaggio
+  distanzaColpo: 0.55
+  raggioColpo: 0.45
+  intervalloAttacchi: 0.8
+  layerBersagli:
+    serializedVersion: 2
+    m_Bits: 64
+  ostacoliColpo:
     serializedVersion: 2
     m_Bits: 256
 --- !u!1 &1352747692
@@ -2072327,9 +2072557,9 @@ GameObject:
   - component: {fileID: 1533236576}
   - component: {fileID: 1533236575}
   - component: {fileID: 1533236574}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Slime (3)
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2097502,14 +2097732,17 @@ GameObject:
   - component: {fileID: 2047696534}
   - component: {fileID: 2047696532}
   - component: {fileID: 2047696533}
-  - component: {fileID: 2047696543}
-  - component: {fileID: 2047696541}
   - component: {fileID: 2047696540}
   - component: {fileID: 2047696544}
+  - component: {fileID: 2047696543}
+  - component: {fileID: 2047696541}
   - component: {fileID: 2047696545}
+  - component: {fileID: 2047696548}
+  - component: {fileID: 2047696547}
+  - component: {fileID: 2047696546}
   m_Layer: 6
   m_Name: Scheletro (3)
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2097686,7 +2097919,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36ade2a7f42020f45b73404632667aa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Nemico
-  nomePersonaggio: Nemico
+  nomePersonaggio: Nemico1
 --- !u!114 &2047696541
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2097699,7 +2097932,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38b0618e2bd9eaf4995185abd6398036, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CervelloNPC
-  modalita: 0
+  modalita: 3
   puntiPattuglia:
   - {fileID: 1639237125}
   - {fileID: 1065747057}
@@ -2097767,6 +2098000,53 @@ MonoBehaviour:
   ostacoliVista:
     serializedVersion: 2
     m_Bits: 256
+--- !u!114 &2047696546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2047696530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd52613a01aa2f24cbc84a8ae782179a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MortePersonaggio
+  pannelloGameOver: {fileID: 0}
+--- !u!114 &2047696547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2047696530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 550db7b0a0dc6ae4db6f2489a1750506, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RicompensaEsperienzaNemico
+  esperienzaFornita: 40
+--- !u!114 &2047696548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2047696530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54a028e5991f425449ff4342e5797fd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AttaccoPersonaggio
+  distanzaColpo: 0.55
+  raggioColpo: 0.45
+  intervalloAttacchi: 0.8
+  layerBersagli:
+    serializedVersion: 2
+    m_Bits: 64
+  ostacoliColpo:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!1 &2059813978
 GameObject:
   m_ObjectHideFlags: 0
@@ -2097780,9 +2098060,9 @@ GameObject:
   - component: {fileID: 2059813981}
   - component: {fileID: 2059813980}
   - component: {fileID: 2059813979}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Slime (7)
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2097960,9 +2098240,9 @@ GameObject:
   - component: {fileID: 2104404648}
   - component: {fileID: 2104404647}
   - component: {fileID: 2104404646}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Slime (2)
-  m_TagString: Untagged
+  m_TagString: Nemico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
