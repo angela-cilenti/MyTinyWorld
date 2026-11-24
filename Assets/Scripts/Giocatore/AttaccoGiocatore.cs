@@ -1,3 +1,4 @@
+
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -19,9 +20,9 @@ public class AttaccoGiocatore : MonoBehaviour
 
     private void Update()
     {
-        if(!azioneAttacco.WasPressedThisFrame()) { return; }
+        if (!azioneAttacco.WasPressedThisFrame()) { return; }
         Vector2 direzione = new Vector2(animatore.GetFloat("MoveX"), animatore.GetFloat("MoveY"));
-        if(direzione.sqrMagnitude < 0.01f) { direzione = Vector2.down; }
+        if (direzione.sqrMagnitude < 0.01f) { direzione = Vector2.down; }
         attacco.ProvaAttacco(direzione);
     }
 

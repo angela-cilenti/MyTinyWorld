@@ -31,7 +31,7 @@ public class MovimentoNPC : MonoBehaviour
 
     private void Start()
     {
-       AggiornaAnimazione(Vector2.zero, false);
+        AggiornaAnimazione(Vector2.zero, false);
     }
 
     public void MuoviVerso(Vector2 punto, float velocitaPersonalizzata = -1f)
@@ -54,12 +54,12 @@ public class MovimentoNPC : MonoBehaviour
 
     private void FixedUpdate()
     {
-       if(!haDestinazione || Arrivato(destinazione))
-       {
+        if (!haDestinazione || Arrivato(destinazione))
+        {
             corpo.linearVelocity = Vector2.zero;
             AggiornaAnimazione(Vector2.zero, false);
             return;
-       }
+        }
 
         Vector2 spostamento = destinazione - corpo.position;
         Vector2 direzione = spostamento.normalized;
@@ -115,7 +115,7 @@ public class MovimentoNPC : MonoBehaviour
             corpo.linearVelocity = Vector2.zero;
         }
 
-        if(animatore != null)
+        if (animatore != null)
         {
             AggiornaAnimazione(Vector2.zero, false);
         }

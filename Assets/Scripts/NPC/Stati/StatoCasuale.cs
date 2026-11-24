@@ -53,7 +53,7 @@ public class StatoCasuale : IStatoNPC
             destinazioneValida = false;
             tempoPausa = Random.Range(pausaMinima, pausaMassima);
             movimento.Ferma();
-        } 
+        }
         else
         {
             movimento.MuoviVerso(destinazione);

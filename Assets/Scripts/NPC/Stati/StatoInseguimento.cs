@@ -24,7 +24,7 @@ public class StatoInseguimento : IStatoNPC
     {
         Vector2 destinazione = rilevamento.PosizioneBersaglio;
         float distanza = Vector2.Distance(movimento.Posizione, destinazione);
-        if(distanza <= distanzaArresto)
+        if (distanza <= distanzaArresto)
         {
             movimento.Ferma();
             return;

@@ -25,7 +25,7 @@ public class StatoRicerca : IStatoNPC
     {
         get { return Mathf.Max(0f, durataRicerca - tempoTrascorso); }
     }
-    public StatoRicerca(MovimentoNPC movimento, float durataRicerca, float raggioRicerca, float raggioOstacoli , LayerMask ostacoli, float pausaMinima, float pausaMassima)
+    public StatoRicerca(MovimentoNPC movimento, float durataRicerca, float raggioRicerca, float raggioOstacoli, LayerMask ostacoli, float pausaMinima, float pausaMassima)
     {
         this.movimento = movimento;
         this.durataRicerca = durataRicerca;
@@ -80,7 +80,7 @@ public class StatoRicerca : IStatoNPC
             ProssimaDestinazione();
             return;
         }
-        if(!movimento.PercorsoLibero(destinazione, raggioOstacoli, ostacoli))
+        if (!movimento.PercorsoLibero(destinazione, raggioOstacoli, ostacoli))
         {
             ProssimaDestinazione();
             return;
@@ -98,12 +98,12 @@ public class StatoRicerca : IStatoNPC
         for (int tentativo = 0; tentativo < 10; tentativo++)
         {
             Vector2 punto = centroRicerca + Random.insideUnitCircle * raggioRicerca;
-            
+
             if (Vector2.Distance(movimento.Posizione, punto) < 0.5f)
             {
                 continue;
             }
-            if(!movimento.PercorsoLibero(punto, raggioOstacoli, ostacoli)) { continue; }
+            if (!movimento.PercorsoLibero(punto, raggioOstacoli, ostacoli)) { continue; }
             destinazione = punto;
             controllo.Reimposta(movimento.Posizione);
             return true;

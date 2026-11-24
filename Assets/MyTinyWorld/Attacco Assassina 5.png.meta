@@ -1,0 +1,699 @@
+fileFormatVersion: 2
+guid: 7241ee02258c11c478026793073623a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7355280840566062999
+    second: Attacco Assassina 5_0
+  - first:
+      213: -7391156161794884656
+    second: Attacco Assassina 5_1
+  - first:
+      213: -2629604428534305952
+    second: Attacco Assassina 5_2
+  - first:
+      213: -5464155461929563005
+    second: Attacco Assassina 5_3
+  - first:
+      213: 8471320615712453619
+    second: Attacco Assassina 5_4
+  - first:
+      213: 5395739002015544661
+    second: Attacco Assassina 5_5
+  - first:
+      213: 2079399638988338751
+    second: Attacco Assassina 5_6
+  - first:
+      213: -3371560702730144079
+    second: Attacco Assassina 5_7
+  - first:
+      213: 1900881984445913939
+    second: Attacco Assassina 5_8
+  - first:
+      213: 1922025515577723168
+    second: Attacco Assassina 5_9
+  - first:
+      213: -2442238466525227735
+    second: Attacco Assassina 5_10
+  - first:
+      213: 9142257892753323008
+    second: Attacco Assassina 5_11
+  - first:
+      213: -195699147073988696
+    second: Attacco Assassina 5_12
+  - first:
+      213: 2612248989074627509
+    second: Attacco Assassina 5_13
+  - first:
+      213: 928577556115085153
+    second: Attacco Assassina 5_14
+  - first:
+      213: 6153654125842309031
+    second: Attacco Assassina 5_15
+  - first:
+      213: -3035169970920898679
+    second: Attacco Assassina 5_16
+  - first:
+      213: -1237111835218860584
+    second: Attacco Assassina 5_17
+  - first:
+      213: 4909638489168482614
+    second: Attacco Assassina 5_18
+  - first:
+      213: -5823738925943093302
+    second: Attacco Assassina 5_19
+  - first:
+      213: -4188029781367825844
+    second: Attacco Assassina 5_20
+  - first:
+      213: 2337069877071976052
+    second: Attacco Assassina 5_21
+  - first:
+      213: 6661065784839772542
+    second: Attacco Assassina 5_22
+  - first:
+      213: 223706464080580555
+    second: Attacco Assassina 5_23
+  - first:
+      213: -4481665489718604737
+    second: Attacco Assassina 5_24
+  - first:
+      213: -7819841496752178076
+    second: Attacco Assassina 5_25
+  - first:
+      213: 6084037428203532960
+    second: Attacco Assassina 5_26
+  - first:
+      213: -1397880468468533399
+    second: Attacco Assassina 5_27
+  - first:
+      213: 5995207256309295467
+    second: Attacco Assassina 5_28
+  - first:
+      213: 6779828439104005199
+    second: Attacco Assassina 5_29
+  - first:
+      213: -7481210798389975305
+    second: Attacco Assassina 5_30
+  - first:
+      213: -7773958951331526021
+    second: Attacco Assassina 5_31
+  - first:
+      213: 5869997030070939579
+    second: Attacco Assassina 5_32
+  - first:
+      213: -6952272410952924213
+    second: Attacco Assassina 5_33
+  - first:
+      213: -2624418575061746792
+    second: Attacco Assassina 5_34
+  - first:
+      213: -4010776444809397593
+    second: Attacco Assassina 5_35
+  - first:
+      213: -5876810282836560143
+    second: Attacco Assassina 5_36
+  - first:
+      213: 1503906476462702076
+    second: Attacco Assassina 5_37
+  - first:
+      213: -4404660087081696764
+    second: Attacco Assassina 5_38
+  - first:
+      213: 4061594804171492185
+    second: Attacco Assassina 5_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attacco Assassina 5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f3d2d54f4331660800000000000000
+      internalID: 7355280840566062999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1032
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbb6c081a65d6990800000000000000
+      internalID: -7391156161794884656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1032
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b2b6954b4c18bd0800000000000000
+      internalID: -2629604428534305952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_3
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1032
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c8d26ce8b6b24b0800000000000000
+      internalID: -5464155461929563005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1032
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3fbfd873d209570800000000000000
+      internalID: 8471320615712453619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5557bd3d80481ea40800000000000000
+      internalID: 5395739002015544661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 688
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36b9fb54f28bdc10800000000000000
+      internalID: 2079399638988338751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 688
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b67a17776fc531d0800000000000000
+      internalID: -3371560702730144079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_8
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 688
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b96d2f71a416a10800000000000000
+      internalID: 1900881984445913939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_9
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 688
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0294f39e5086caa10800000000000000
+      internalID: 1922025515577723168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92518f1ed0d6b1ed0800000000000000
+      internalID: -2442238466525227735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 344
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004b29e9d13dfde70800000000000000
+      internalID: 9142257892753323008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 344
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7decf99acb84df0800000000000000
+      internalID: -195699147073988696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_13
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 344
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb9aa28d92904420800000000000000
+      internalID: 2612248989074627509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_14
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 344
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167d3a21e58f2ec00800000000000000
+      internalID: 928577556115085153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af9271f2db266550800000000000000
+      internalID: 6153654125842309031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fb3521ef8e0e5d0800000000000000
+      internalID: -3035169970920898679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d529522755e4dee0800000000000000
+      internalID: -1237111835218860584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_18
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631197a813a822440800000000000000
+      internalID: 4909638489168482614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attacco Assassina 5_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 228
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac70c866d4ced2fa0800000000000000
+      internalID: -5823738925943093302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e45d6dca5df10ca438189c7fc66d5669
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":228.0,"y":344.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Attacco Assassina 5_0: 7355280840566062999
+      Attacco Assassina 5_1: -7391156161794884656
+      Attacco Assassina 5_10: -2442238466525227735
+      Attacco Assassina 5_11: 9142257892753323008
+      Attacco Assassina 5_12: -195699147073988696
+      Attacco Assassina 5_13: 2612248989074627509
+      Attacco Assassina 5_14: 928577556115085153
+      Attacco Assassina 5_15: 6153654125842309031
+      Attacco Assassina 5_16: -3035169970920898679
+      Attacco Assassina 5_17: -1237111835218860584
+      Attacco Assassina 5_18: 4909638489168482614
+      Attacco Assassina 5_19: -5823738925943093302
+      Attacco Assassina 5_2: -2629604428534305952
+      Attacco Assassina 5_3: -5464155461929563005
+      Attacco Assassina 5_4: 8471320615712453619
+      Attacco Assassina 5_5: 5395739002015544661
+      Attacco Assassina 5_6: 2079399638988338751
+      Attacco Assassina 5_7: -3371560702730144079
+      Attacco Assassina 5_8: 1900881984445913939
+      Attacco Assassina 5_9: 1922025515577723168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

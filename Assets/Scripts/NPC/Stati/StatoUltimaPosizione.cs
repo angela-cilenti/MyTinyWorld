@@ -38,7 +38,7 @@ public class StatoUltimaPosizione : IStatoNPC
     }
     public void Aggiorna()
     {
-        if (Terminato) { return;  }
+        if (Terminato) { return; }
         if (movimento.Arrivato(destinazione))
         {
             Raggiunto = true;
@@ -47,12 +47,12 @@ public class StatoUltimaPosizione : IStatoNPC
 
         }
         tempoTrascorso += Time.deltaTime;
-        if(tempoTrascorso >= tempoMassimo)
+        if (tempoTrascorso >= tempoMassimo)
         {
             Termina();
             return;
         }
-        if(!movimento.PercorsoLibero(
+        if (!movimento.PercorsoLibero(
             destinazione, raggioOstacoli, ostacoli))
         {
             Termina();

@@ -27,7 +27,7 @@ public class CervelloNPC : MonoBehaviour
     [SerializeField] private float distanzaAttacco = 0.85f;
     [Header("Debug")]
     [SerializeField] private bool mostraTransizione = true;
-    
+
     private MovimentoNPC movimento;
     private RilevamentoNPC rilevamento;
     private AttaccoPersonaggio attacco;
@@ -62,20 +62,20 @@ public class CervelloNPC : MonoBehaviour
                 statoNormale = new StatoPattuglia(movimento, puntiPattuglia, pausaMinima, pausaMassima);
                 break;
             case ModalitaNPC.Casuale:
-                statoNormale = new StatoCasuale(movimento, centroMovimento, raggioMovimento,raggioControlloOstacoli, ostacoli, pausaMinima, pausaMassima);
+                statoNormale = new StatoCasuale(movimento, centroMovimento, raggioMovimento, raggioControlloOstacoli, ostacoli, pausaMinima, pausaMassima);
                 break;
             default:
                 statoNormale = new StatoFermo(movimento);
                 break;
         }
-        if(GetComponent<Nemico>() != null && rilevamento != null)
+        if (GetComponent<Nemico>() != null && rilevamento != null)
         {
             statoInseguimento = new StatoInseguimento(movimento, rilevamento, velocitaInseguimento, distanzaArresto);
             statoUltimaPosizione = new StatoUltimaPosizione(movimento, tempoUltimaPosizione, raggioControlloOstacoli, ostacoli);
             statoRicerca = new StatoRicerca(movimento, durataRicerca, raggioRicerca, raggioControlloOstacoli, ostacoli, pausaMinima, pausaMassima);
             StatoPattuglia pattuglia = statoNormale as StatoPattuglia;
             statoRitorno = new StatoRitorno(movimento, pattuglia, centroMovimento, velocitaRitorno, raggioControlloOstacoli, ostacoli);
-            if(attacco != null)
+            if (attacco != null)
             {
                 statoAttacco = new StatoAttacco(movimento, rilevamento, attacco);
             }
@@ -85,9 +85,9 @@ public class CervelloNPC : MonoBehaviour
 
     private void Update()
     {
-        if (statoAttuale == null) { return;  }
+        if (statoAttuale == null) { return; }
 
-        if(statistiche != null && statistiche.VitaAttuale <= 0)
+        if (statistiche != null && statistiche.VitaAttuale <= 0)
         {
             enabled = false;
             return;
@@ -109,16 +109,16 @@ public class CervelloNPC : MonoBehaviour
                     ultimaPosizioneNota = rilevamento.PosizioneBersaglio;
                     float distanza = Vector2.Distance(movimento.Posizione, ultimaPosizioneNota);
 
-                    if(statoAttacco != null && distanza <= distanzaAttacco)
+                    if (statoAttacco != null && distanza <= distanzaAttacco)
                     {
                         CambiaStato(statoAttacco);
                     }
                     else
                     {
-                       CambiaStato(statoInseguimento);
+                        CambiaStato(statoInseguimento);
                     }
                 }
-                else if(statoAttuale == statoInseguimento || statoAttuale == statoAttacco)
+                else if (statoAttuale == statoInseguimento || statoAttuale == statoAttacco)
                 {
                     statoUltimaPosizione.ImpostaDestinazione(ultimaPosizioneNota);
                     CambiaStato(statoUltimaPosizione);
@@ -126,7 +126,7 @@ public class CervelloNPC : MonoBehaviour
             }
         }
         statoAttuale.Aggiorna();
-        if(statoAttuale == statoUltimaPosizione && statoUltimaPosizione.Terminato)
+        if (statoAttuale == statoUltimaPosizione && statoUltimaPosizione.Terminato)
         {
             Vector2 centroRicerca = statoUltimaPosizione.Raggiunto ? ultimaPosizioneNota : movimento.Posizione;
             statoRicerca.ImpostaCentro(centroRicerca);
@@ -136,7 +136,7 @@ public class CervelloNPC : MonoBehaviour
         {
             CambiaStato(statoRitorno);
         }
-        else if(statoAttuale == statoRitorno && statoRitorno.Terminato)
+        else if (statoAttuale == statoRitorno && statoRitorno.Terminato)
         {
             CambiaStato(statoNormale);
         }
@@ -144,8 +144,8 @@ public class CervelloNPC : MonoBehaviour
 
     private void CambiaStato(IStatoNPC nuovoStato)
     {
-        if(nuovoStato == null || statoAttuale == nuovoStato) { return;  }
-        if(statoAttuale != null)
+        if (nuovoStato == null || statoAttuale == nuovoStato) { return; }
+        if (statoAttuale != null)
         {
             statoAttuale.Esci();
         }
@@ -159,7 +159,7 @@ public class CervelloNPC : MonoBehaviour
 
     private void OnEnable()
     {
-        if(statoNormale != null && statoAttuale == null)
+        if (statoNormale != null && statoAttuale == null)
         {
             CambiaStato(statoAttuale);
         }
@@ -167,13 +167,13 @@ public class CervelloNPC : MonoBehaviour
 
     private void OnDisable()
     {
-        if(statoAttuale != null)
+        if (statoAttuale != null)
         {
             statoAttuale.Esci();
             statoAttuale = null;
         }
 
-        if(movimento != null)
+        if (movimento != null)
         {
             movimento.Ferma();
         }

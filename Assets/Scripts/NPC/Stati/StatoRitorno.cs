@@ -34,7 +34,7 @@ public class StatoRitorno : IStatoNPC
     public void Aggiorna()
     {
         if (Terminato) { return; }
-        if(tempoRiprova > 0f)
+        if (tempoRiprova > 0f)
         {
             tempoRiprova -= Time.deltaTime;
             movimento.Ferma();
@@ -56,7 +56,7 @@ public class StatoRitorno : IStatoNPC
             movimento.Ferma();
             return;
         }
-        if(!movimento.PercorsoLibero(
+        if (!movimento.PercorsoLibero(
             destinazione, raggioOstacoli, ostacoli))
         {
             Riprova();
@@ -79,7 +79,7 @@ public class StatoRitorno : IStatoNPC
     {
         bool trovato;
 
-        if(pattuglia != null)
+        if (pattuglia != null)
         {
             trovato = pattuglia.SelezionaPuntoRaggiungibile(raggioOstacoli, ostacoli, out destinazione);
         }
