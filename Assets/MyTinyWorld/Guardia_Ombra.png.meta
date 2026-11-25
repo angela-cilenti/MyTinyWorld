@@ -1,457 +1,457 @@
 fileFormatVersion: 2
-guid: 26a990e2d6c8eb24e988f91f78fbbd82
+guid: 8c3846bb50422d14d80b3a642c597c9d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3373013623544799033
-    second: Spritesheet_without_Shadows_0
+      213: -8728209698594506395
+    second: Spritesheet_with_Shadows_0
   - first:
-      213: -7362506490005875622
-    second: Spritesheet_without_Shadows_1
+      213: -6233184398336571582
+    second: Spritesheet_with_Shadows_1
   - first:
-      213: -2585592499792036272
-    second: Spritesheet_without_Shadows_2
+      213: -8303038796944189457
+    second: Spritesheet_with_Shadows_2
   - first:
-      213: -5352277105158745905
-    second: Spritesheet_without_Shadows_3
+      213: -4577210306945095880
+    second: Spritesheet_with_Shadows_3
   - first:
-      213: -2990209844062396501
-    second: Spritesheet_without_Shadows_4
+      213: 3320654193573002646
+    second: Spritesheet_with_Shadows_4
   - first:
-      213: 2105079515628621988
-    second: Spritesheet_without_Shadows_5
+      213: 5400656283416358604
+    second: Spritesheet_with_Shadows_5
   - first:
-      213: 7185927318711132835
-    second: Spritesheet_without_Shadows_6
+      213: -336818887813855562
+    second: Spritesheet_with_Shadows_6
   - first:
-      213: 5419233652529361054
-    second: Spritesheet_without_Shadows_7
+      213: -9187789418570043613
+    second: Spritesheet_with_Shadows_7
   - first:
-      213: 6129270549019891721
-    second: Spritesheet_without_Shadows_8
+      213: -7771619884216561113
+    second: Spritesheet_with_Shadows_8
   - first:
-      213: -3633705382914023292
-    second: Spritesheet_without_Shadows_9
+      213: 4263413413526266185
+    second: Spritesheet_with_Shadows_9
   - first:
-      213: 5794928585857434481
-    second: Spritesheet_without_Shadows_10
+      213: -2263712828825242326
+    second: Spritesheet_with_Shadows_10
   - first:
-      213: -4477353239143216233
-    second: Spritesheet_without_Shadows_11
+      213: 3370251185714265493
+    second: Spritesheet_with_Shadows_11
   - first:
-      213: -5254824773395893114
-    second: Spritesheet_without_Shadows_12
+      213: -8851945002839075685
+    second: Spritesheet_with_Shadows_12
   - first:
-      213: -785648408608562920
-    second: Spritesheet_without_Shadows_13
+      213: 9096085597368196653
+    second: Spritesheet_with_Shadows_13
   - first:
-      213: -683815341089604045
-    second: Spritesheet_without_Shadows_14
+      213: -5179405438390068302
+    second: Spritesheet_with_Shadows_14
   - first:
-      213: -8203728964016634019
-    second: Spritesheet_without_Shadows_15
+      213: 6810061496680997938
+    second: Spritesheet_with_Shadows_15
   - first:
-      213: 7731922251570186893
-    second: Spritesheet_without_Shadows_16
+      213: 5102286344281275751
+    second: Spritesheet_with_Shadows_16
   - first:
-      213: -8284755219380847591
-    second: Spritesheet_without_Shadows_17
+      213: -4364196685657963560
+    second: Spritesheet_with_Shadows_17
   - first:
-      213: 5000370979684076
-    second: Spritesheet_without_Shadows_18
+      213: 3539888659563273610
+    second: Spritesheet_with_Shadows_18
   - first:
-      213: -1746237121191746188
-    second: Spritesheet_without_Shadows_19
+      213: -192453433582861006
+    second: Spritesheet_with_Shadows_19
   - first:
-      213: 2364644314091708066
-    second: Spritesheet_without_Shadows_20
+      213: 6316963119948138794
+    second: Spritesheet_with_Shadows_20
   - first:
-      213: -4771843296941949692
-    second: Spritesheet_without_Shadows_21
+      213: 14147019002374116
+    second: Spritesheet_with_Shadows_21
   - first:
-      213: 935454730990897009
-    second: Spritesheet_without_Shadows_22
+      213: 2809511739311348735
+    second: Spritesheet_with_Shadows_22
   - first:
-      213: -4456498212096346429
-    second: Spritesheet_without_Shadows_23
+      213: -1519576230792504052
+    second: Spritesheet_with_Shadows_23
   - first:
-      213: 6315253062379159989
-    second: Spritesheet_without_Shadows_24
+      213: 699991429598312858
+    second: Spritesheet_with_Shadows_24
   - first:
-      213: -3337751061699970359
-    second: Spritesheet_without_Shadows_25
+      213: -7038149949989121947
+    second: Spritesheet_with_Shadows_25
   - first:
-      213: -2863064003518049718
-    second: Spritesheet_without_Shadows_26
+      213: 3559591416713374747
+    second: Spritesheet_with_Shadows_26
   - first:
-      213: -1751310824518161825
-    second: Spritesheet_without_Shadows_27
+      213: -764916777276804064
+    second: Spritesheet_with_Shadows_27
   - first:
-      213: -586654239661424785
-    second: Spritesheet_without_Shadows_28
+      213: -4229608738605723700
+    second: Spritesheet_with_Shadows_28
   - first:
-      213: -8895733737449145864
-    second: Spritesheet_without_Shadows_29
+      213: 7676710305529036397
+    second: Spritesheet_with_Shadows_29
   - first:
-      213: 4239492807953696378
-    second: Spritesheet_without_Shadows_30
+      213: -3489109612473611737
+    second: Spritesheet_with_Shadows_30
   - first:
-      213: 8618210157343529813
-    second: Spritesheet_without_Shadows_31
+      213: -1386084036532538508
+    second: Spritesheet_with_Shadows_31
   - first:
-      213: 3900016222329194825
-    second: Spritesheet_without_Shadows_32
+      213: -6729837590574270492
+    second: Spritesheet_with_Shadows_32
   - first:
-      213: -3243596431004727034
-    second: Spritesheet_without_Shadows_33
+      213: 272561652336239572
+    second: Spritesheet_with_Shadows_33
   - first:
-      213: -5131514412781007994
-    second: Spritesheet_without_Shadows_34
+      213: 9074955854144660412
+    second: Spritesheet_with_Shadows_34
   - first:
-      213: 3795604208612799383
-    second: Spritesheet_without_Shadows_35
+      213: 684423275186112541
+    second: Spritesheet_with_Shadows_35
   - first:
-      213: 6880630898443649292
-    second: Spritesheet_without_Shadows_36
+      213: -5006948340615696994
+    second: Spritesheet_with_Shadows_36
   - first:
-      213: 6957356362713509031
-    second: Spritesheet_without_Shadows_37
+      213: 7973069838718057258
+    second: Spritesheet_with_Shadows_37
   - first:
-      213: -516235590276096532
-    second: Spritesheet_without_Shadows_38
+      213: 6683098623323720061
+    second: Spritesheet_with_Shadows_38
   - first:
-      213: 5965472149175956788
-    second: Spritesheet_without_Shadows_39
+      213: -4464556105115337861
+    second: Spritesheet_with_Shadows_39
   - first:
-      213: -7319406633093723275
-    second: Spritesheet_without_Shadows_40
+      213: -1253930784296497250
+    second: Spritesheet_with_Shadows_40
   - first:
-      213: 3991780396325797939
-    second: Spritesheet_without_Shadows_41
+      213: 6643698257446071284
+    second: Spritesheet_with_Shadows_41
   - first:
-      213: 1186479444900340769
-    second: Spritesheet_without_Shadows_42
+      213: -1778449724103371147
+    second: Spritesheet_with_Shadows_42
   - first:
-      213: 4998861783926835384
-    second: Spritesheet_without_Shadows_43
+      213: 5899058254945567645
+    second: Spritesheet_with_Shadows_43
   - first:
-      213: 1235571906865548429
-    second: Spritesheet_without_Shadows_44
+      213: -5680105728055301801
+    second: Spritesheet_with_Shadows_44
   - first:
-      213: 3542749993203899060
-    second: Spritesheet_without_Shadows_45
+      213: 5193054920572689619
+    second: Spritesheet_with_Shadows_45
   - first:
-      213: 5329015293636186598
-    second: Spritesheet_without_Shadows_46
+      213: 2819326166284229875
+    second: Spritesheet_with_Shadows_46
   - first:
-      213: 867119711081068234
-    second: Spritesheet_without_Shadows_47
+      213: -4009409670854199840
+    second: Spritesheet_with_Shadows_47
   - first:
-      213: 2835062633053559515
-    second: Spritesheet_without_Shadows_48
+      213: -2790201171989599624
+    second: Spritesheet_with_Shadows_48
   - first:
-      213: -851198124264771533
-    second: Spritesheet_without_Shadows_49
+      213: -4148552356238598074
+    second: Spritesheet_with_Shadows_49
   - first:
-      213: -5353540094948641812
-    second: Spritesheet_without_Shadows_50
+      213: 5886031518171574288
+    second: Spritesheet_with_Shadows_50
   - first:
-      213: -2796301283396609103
-    second: Spritesheet_without_Shadows_51
+      213: -695774378643533039
+    second: Spritesheet_with_Shadows_51
   - first:
-      213: -434047694460472827
-    second: Spritesheet_without_Shadows_52
+      213: -8566956744456972357
+    second: Spritesheet_with_Shadows_52
   - first:
-      213: -6692873670002274292
-    second: Spritesheet_without_Shadows_53
+      213: -4150610485135668344
+    second: Spritesheet_with_Shadows_53
   - first:
-      213: -5752104800617734208
-    second: Spritesheet_without_Shadows_54
+      213: -4802436319026745242
+    second: Spritesheet_with_Shadows_54
   - first:
-      213: -9087825678380939130
-    second: Spritesheet_without_Shadows_55
+      213: 4547988481081023109
+    second: Spritesheet_with_Shadows_55
   - first:
-      213: -6840800253602280364
-    second: Spritesheet_without_Shadows_56
+      213: 3511582956180750051
+    second: Spritesheet_with_Shadows_56
   - first:
-      213: -1814907748150892240
-    second: Spritesheet_without_Shadows_57
+      213: 6202082850801188721
+    second: Spritesheet_with_Shadows_57
   - first:
-      213: 8533652864518635057
-    second: Spritesheet_without_Shadows_58
+      213: 6788095115396605047
+    second: Spritesheet_with_Shadows_58
   - first:
-      213: 1092205334992256462
-    second: Spritesheet_without_Shadows_59
+      213: -9183359873613968597
+    second: Spritesheet_with_Shadows_59
   - first:
-      213: -7347807958464158704
-    second: Spritesheet_without_Shadows_60
+      213: -2360588660077214727
+    second: Spritesheet_with_Shadows_60
   - first:
-      213: -6789126505455238858
-    second: Spritesheet_without_Shadows_61
+      213: 6141933301044154906
+    second: Spritesheet_with_Shadows_61
   - first:
-      213: -6260285446785865861
-    second: Spritesheet_without_Shadows_62
+      213: -4837805158236434417
+    second: Spritesheet_with_Shadows_62
   - first:
-      213: -6877540315270472182
-    second: Spritesheet_without_Shadows_63
+      213: -5781491718562874944
+    second: Spritesheet_with_Shadows_63
   - first:
-      213: -8477898154094695666
-    second: Spritesheet_without_Shadows_64
+      213: -9137759898362831948
+    second: Spritesheet_with_Shadows_64
   - first:
-      213: 8287943535813066799
-    second: Spritesheet_without_Shadows_65
+      213: 5065072209421680112
+    second: Spritesheet_with_Shadows_65
   - first:
-      213: 3565927143456216652
-    second: Spritesheet_without_Shadows_66
+      213: 6926048925623290681
+    second: Spritesheet_with_Shadows_66
   - first:
-      213: 5662388837188397001
-    second: Spritesheet_without_Shadows_67
+      213: 3931196484889014381
+    second: Spritesheet_with_Shadows_67
   - first:
-      213: 8023008080255873219
-    second: Spritesheet_without_Shadows_68
+      213: -916636616877576739
+    second: Spritesheet_with_Shadows_68
   - first:
-      213: 3159614146820098974
-    second: Spritesheet_without_Shadows_69
+      213: -4338053115205679780
+    second: Spritesheet_with_Shadows_69
   - first:
-      213: 8406911657212907300
-    second: Spritesheet_without_Shadows_70
+      213: -611490556679730507
+    second: Spritesheet_with_Shadows_70
   - first:
-      213: -3634647466855814693
-    second: Spritesheet_without_Shadows_71
+      213: -2463700793269813249
+    second: Spritesheet_with_Shadows_71
   - first:
-      213: 7043131044321310603
-    second: Spritesheet_without_Shadows_72
+      213: -8025640284842754187
+    second: Spritesheet_with_Shadows_72
   - first:
-      213: 3067561936263859840
-    second: Spritesheet_without_Shadows_73
+      213: 1815115617003009265
+    second: Spritesheet_with_Shadows_73
   - first:
-      213: 4824842596026857357
-    second: Spritesheet_without_Shadows_74
+      213: 1283494397827396709
+    second: Spritesheet_with_Shadows_74
   - first:
-      213: -5889114777566610341
-    second: Spritesheet_without_Shadows_75
+      213: 8113805113979486552
+    second: Spritesheet_with_Shadows_75
   - first:
-      213: -7197217721570310675
-    second: Spritesheet_without_Shadows_76
+      213: 5060073273482519635
+    second: Spritesheet_with_Shadows_76
   - first:
-      213: 210804697219956090
-    second: Spritesheet_without_Shadows_77
+      213: -3278220696498665736
+    second: Spritesheet_with_Shadows_77
   - first:
-      213: 6981463265773555989
-    second: Spritesheet_without_Shadows_78
+      213: -7935404863828528113
+    second: Spritesheet_with_Shadows_78
   - first:
-      213: -1924265728779221863
-    second: Spritesheet_without_Shadows_79
+      213: -2415152874999267119
+    second: Spritesheet_with_Shadows_79
   - first:
-      213: -2737427279560984101
-    second: Spritesheet_without_Shadows_80
+      213: 1945258613836015965
+    second: Spritesheet_with_Shadows_80
   - first:
-      213: 9212723782484017760
-    second: Spritesheet_without_Shadows_81
+      213: -8738727409608866428
+    second: Spritesheet_with_Shadows_81
   - first:
-      213: 7318187866039984171
-    second: Spritesheet_without_Shadows_82
+      213: -6453314956020609807
+    second: Spritesheet_with_Shadows_82
   - first:
-      213: 9195494133109113692
-    second: Spritesheet_without_Shadows_83
+      213: 2632661786853613466
+    second: Spritesheet_with_Shadows_83
   - first:
-      213: 348107030711391680
-    second: Spritesheet_without_Shadows_84
+      213: 427338612538886919
+    second: Spritesheet_with_Shadows_84
   - first:
-      213: 3736013334982324912
-    second: Spritesheet_without_Shadows_85
+      213: -4851369841102573898
+    second: Spritesheet_with_Shadows_85
   - first:
-      213: 7740748622869254423
-    second: Spritesheet_without_Shadows_86
+      213: -6107130713945762189
+    second: Spritesheet_with_Shadows_86
   - first:
-      213: -7007076738931375446
-    second: Spritesheet_without_Shadows_87
+      213: 6894436483475835691
+    second: Spritesheet_with_Shadows_87
   - first:
-      213: 355141347853089294
-    second: Spritesheet_without_Shadows_88
+      213: 4524684039412713064
+    second: Spritesheet_with_Shadows_88
   - first:
-      213: 1331890496154440541
-    second: Spritesheet_without_Shadows_89
+      213: -3560745308682515675
+    second: Spritesheet_with_Shadows_89
   - first:
-      213: 4471477820690220788
-    second: Spritesheet_without_Shadows_90
+      213: -3530679578200089120
+    second: Spritesheet_with_Shadows_90
   - first:
-      213: -7361198261757535589
-    second: Spritesheet_without_Shadows_91
+      213: 7312817092814961005
+    second: Spritesheet_with_Shadows_91
   - first:
-      213: 6296833072299381457
-    second: Spritesheet_without_Shadows_92
+      213: 8621113165853245843
+    second: Spritesheet_with_Shadows_92
   - first:
-      213: -3322559031760678901
-    second: Spritesheet_without_Shadows_93
+      213: -2659575025567545456
+    second: Spritesheet_with_Shadows_93
   - first:
-      213: 5653105907987137740
-    second: Spritesheet_without_Shadows_94
+      213: -5314747832194536785
+    second: Spritesheet_with_Shadows_94
   - first:
-      213: -9199425022535559417
-    second: Spritesheet_without_Shadows_95
+      213: -1023280025694007652
+    second: Spritesheet_with_Shadows_95
   - first:
-      213: 3273815570049313675
-    second: Spritesheet_without_Shadows_96
+      213: 6188931422730307181
+    second: Spritesheet_with_Shadows_96
   - first:
-      213: -260344859084817022
-    second: Spritesheet_without_Shadows_97
+      213: 9117832746899917138
+    second: Spritesheet_with_Shadows_97
   - first:
-      213: 7967191438910437849
-    second: Spritesheet_without_Shadows_98
+      213: -8492154111626056274
+    second: Spritesheet_with_Shadows_98
   - first:
-      213: -3830848210364097166
-    second: Spritesheet_without_Shadows_99
+      213: -2112795775831806735
+    second: Spritesheet_with_Shadows_99
   - first:
-      213: 2969683463634776906
-    second: Spritesheet_without_Shadows_100
+      213: -6584693781040777812
+    second: Spritesheet_with_Shadows_100
   - first:
-      213: 3358504125341309821
-    second: Spritesheet_without_Shadows_101
+      213: -8011201957192381911
+    second: Spritesheet_with_Shadows_101
   - first:
-      213: 6118724716058670410
-    second: Spritesheet_without_Shadows_102
+      213: -215005519933829575
+    second: Spritesheet_with_Shadows_102
   - first:
-      213: -2827778633445152723
-    second: Spritesheet_without_Shadows_103
+      213: -4969288887083419618
+    second: Spritesheet_with_Shadows_103
   - first:
-      213: 797844172253180315
-    second: Spritesheet_without_Shadows_104
+      213: -280837801559111271
+    second: Spritesheet_with_Shadows_104
   - first:
-      213: -8888222239603356314
-    second: Spritesheet_without_Shadows_105
+      213: 1658666582858554144
+    second: Spritesheet_with_Shadows_105
   - first:
-      213: -2042536288803400856
-    second: Spritesheet_without_Shadows_106
+      213: -6317481891881687707
+    second: Spritesheet_with_Shadows_106
   - first:
-      213: -3071836571223426862
-    second: Spritesheet_without_Shadows_107
+      213: 5830241777215751114
+    second: Spritesheet_with_Shadows_107
   - first:
-      213: -298437883232239286
-    second: Spritesheet_without_Shadows_108
+      213: -2651173588152481162
+    second: Spritesheet_with_Shadows_108
   - first:
-      213: 2371792799067787116
-    second: Spritesheet_without_Shadows_109
+      213: 1553531094456175385
+    second: Spritesheet_with_Shadows_109
   - first:
-      213: -8800402505742386230
-    second: Spritesheet_without_Shadows_110
+      213: -6214110908567481320
+    second: Spritesheet_with_Shadows_110
   - first:
-      213: 4239035068373113423
-    second: Spritesheet_without_Shadows_111
+      213: -5118118728238266957
+    second: Spritesheet_with_Shadows_111
   - first:
-      213: 1633907705095877326
-    second: Spritesheet_without_Shadows_112
+      213: -7115060987556380564
+    second: Spritesheet_with_Shadows_112
   - first:
-      213: 412338774777269971
-    second: Spritesheet_without_Shadows_113
+      213: -5491313860126964891
+    second: Spritesheet_with_Shadows_113
   - first:
-      213: -2916566958712620269
-    second: Spritesheet_without_Shadows_114
+      213: -7409166874763604507
+    second: Spritesheet_with_Shadows_114
   - first:
-      213: -2834173401905637385
-    second: Spritesheet_without_Shadows_115
+      213: 3363506516713195532
+    second: Spritesheet_with_Shadows_115
   - first:
-      213: 6279541158255256118
-    second: Spritesheet_without_Shadows_116
+      213: 2354632277558290803
+    second: Spritesheet_with_Shadows_116
   - first:
-      213: -8632543694792168618
-    second: Spritesheet_without_Shadows_117
+      213: -6582889883990950047
+    second: Spritesheet_with_Shadows_117
   - first:
-      213: -5514956657410403282
-    second: Spritesheet_without_Shadows_118
+      213: -6458078575791036779
+    second: Spritesheet_with_Shadows_118
   - first:
-      213: -1223096950458865212
-    second: Spritesheet_without_Shadows_119
+      213: 2192618744535346931
+    second: Spritesheet_with_Shadows_119
   - first:
-      213: 696084330722066306
-    second: Spritesheet_without_Shadows_120
+      213: 7534319281954229099
+    second: Spritesheet_with_Shadows_120
   - first:
-      213: 5774498332972260672
-    second: Spritesheet_without_Shadows_121
+      213: -2771884704430157347
+    second: Spritesheet_with_Shadows_121
   - first:
-      213: 4688749849745776461
-    second: Spritesheet_without_Shadows_122
+      213: -1164345806584605642
+    second: Spritesheet_with_Shadows_122
   - first:
-      213: 8370242850560359348
-    second: Spritesheet_without_Shadows_123
+      213: 7615921551433883879
+    second: Spritesheet_with_Shadows_123
   - first:
-      213: -4727837278173983554
-    second: Spritesheet_without_Shadows_124
+      213: -3490450417906807730
+    second: Spritesheet_with_Shadows_124
   - first:
-      213: 448102908155770306
-    second: Spritesheet_without_Shadows_125
+      213: -3442534568871689611
+    second: Spritesheet_with_Shadows_125
   - first:
-      213: -1972988416011734275
-    second: Spritesheet_without_Shadows_126
+      213: -2958650793585380782
+    second: Spritesheet_with_Shadows_126
   - first:
-      213: -6797399487396373215
-    second: Spritesheet_without_Shadows_127
+      213: -4120423823991453325
+    second: Spritesheet_with_Shadows_127
   - first:
-      213: -6140180800140640009
-    second: Spritesheet_without_Shadows_128
+      213: 1779774910769859260
+    second: Spritesheet_with_Shadows_128
   - first:
-      213: -7591953856329716150
-    second: Spritesheet_without_Shadows_129
+      213: -1395105370443094759
+    second: Spritesheet_with_Shadows_129
   - first:
-      213: -356866057012816227
-    second: Spritesheet_without_Shadows_130
+      213: -1473934885197117077
+    second: Spritesheet_with_Shadows_130
   - first:
-      213: -4527958236816038375
-    second: Spritesheet_without_Shadows_131
+      213: -363141444884191017
+    second: Spritesheet_with_Shadows_131
   - first:
-      213: 1257850488666357270
-    second: Spritesheet_without_Shadows_132
+      213: -4614521859425730170
+    second: Spritesheet_with_Shadows_132
   - first:
-      213: 5907773514837200825
-    second: Spritesheet_without_Shadows_133
+      213: 7537459788603227527
+    second: Spritesheet_with_Shadows_133
   - first:
-      213: -2441845598971456848
-    second: Spritesheet_without_Shadows_134
+      213: -3782081351276186751
+    second: Spritesheet_with_Shadows_134
   - first:
-      213: 1106489878042940045
-    second: Spritesheet_without_Shadows_135
+      213: 936401540553704616
+    second: Spritesheet_with_Shadows_135
   - first:
-      213: 4154049209085338661
-    second: Spritesheet_without_Shadows_136
+      213: -8087168931832333281
+    second: Spritesheet_with_Shadows_136
   - first:
-      213: 217792620943470339
-    second: Spritesheet_without_Shadows_137
+      213: -7362166977370962010
+    second: Spritesheet_with_Shadows_137
   - first:
-      213: -5012199151894504510
-    second: Spritesheet_without_Shadows_138
+      213: -4895984918564107845
+    second: Spritesheet_with_Shadows_138
   - first:
-      213: 7322854280560811805
-    second: Spritesheet_without_Shadows_139
+      213: 1454337816104069797
+    second: Spritesheet_with_Shadows_139
   - first:
-      213: 8481238861456367718
-    second: Spritesheet_without_Shadows_140
+      213: 6004526174704747284
+    second: Spritesheet_with_Shadows_140
   - first:
-      213: 271519139969166266
-    second: Spritesheet_without_Shadows_141
+      213: -4501447031634081440
+    second: Spritesheet_with_Shadows_141
   - first:
-      213: -2337903844937451534
-    second: Spritesheet_without_Shadows_142
+      213: -4989461635947272153
+    second: Spritesheet_with_Shadows_142
   - first:
-      213: 1239769078718171334
-    second: Spritesheet_without_Shadows_143
+      213: 8728809450445660721
+    second: Spritesheet_with_Shadows_143
   - first:
-      213: 8308041062591313784
-    second: Spritesheet_without_Shadows_144
+      213: 2451814802871517572
+    second: Spritesheet_with_Shadows_144
   - first:
-      213: 3750578782302570665
-    second: Spritesheet_without_Shadows_145
+      213: -8124181732437428874
+    second: Spritesheet_with_Shadows_145
   - first:
-      213: 6110625171813238736
-    second: Spritesheet_without_Shadows_146
+      213: -4218379661582226138
+    second: Spritesheet_with_Shadows_146
   - first:
-      213: -7188678310783009339
-    second: Spritesheet_without_Shadows_147
+      213: -2323433125651767437
+    second: Spritesheet_with_Shadows_147
   - first:
-      213: -8325094646774758409
-    second: Spritesheet_without_Shadows_148
+      213: -5614294926166266606
+    second: Spritesheet_with_Shadows_148
   - first:
-      213: -5791517635209644862
-    second: Spritesheet_without_Shadows_149
+      213: 6432183727188086333
+    second: Spritesheet_with_Shadows_149
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -498,7 +498,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 10
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -547,7 +547,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_0
+      name: Guardia_Ombra_0
       rect:
         serializedVersion: 2
         x: 0
@@ -560,16 +560,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 93fd0f5050a5fce20800000000000000
-      internalID: 3373013623544799033
+      spriteID: 59d9c31fd5e753c46b014da01f253bf9
+      internalID: -1135656557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_1
+      name: Guardia_Ombra_1
       rect:
         serializedVersion: 2
         x: 48
@@ -582,16 +582,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a5411b60b5f13d990800000000000000
-      internalID: -7362506490005875622
+      spriteID: fc18cca8215227e4ebe8fd81c48f1bcf
+      internalID: 1501119307
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_2
+      name: Guardia_Ombra_2
       rect:
         serializedVersion: 2
         x: 96
@@ -604,16 +604,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 05e3bfb02512e1cd0800000000000000
-      internalID: -2585592499792036272
+      spriteID: 1d2a5044944930341bcf7ef9133d6de0
+      internalID: -54665024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_3
+      name: Guardia_Ombra_3
       rect:
         serializedVersion: 2
         x: 144
@@ -626,16 +626,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fc09e879454e8b5b0800000000000000
-      internalID: -5352277105158745905
+      spriteID: d4c4f101a1049e64d8d5c7389c7e8e3e
+      internalID: -1800941093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_4
+      name: Guardia_Ombra_4
       rect:
         serializedVersion: 2
         x: 192
@@ -648,16 +648,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bafd8c85df3a086d0800000000000000
-      internalID: -2990209844062396501
+      spriteID: 6ca02c06ad9e104439eefeafe950d87a
+      internalID: -1761026699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_5
+      name: Guardia_Ombra_5
       rect:
         serializedVersion: 2
         x: 240
@@ -670,16 +670,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4a0def09aaeb63d10800000000000000
-      internalID: 2105079515628621988
+      spriteID: aa18c51e4b43b6b47b7ee074d05808a1
+      internalID: 1604313624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_6
+      name: Guardia_Ombra_6
       rect:
         serializedVersion: 2
         x: 0
@@ -692,16 +692,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3a26d8dd2da89b360800000000000000
-      internalID: 7185927318711132835
+      spriteID: a49d2718066d97741bab08521111c0aa
+      internalID: -898740066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_7
+      name: Guardia_Ombra_7
       rect:
         serializedVersion: 2
         x: 48
@@ -714,16 +714,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e90fadd6b4cf43b40800000000000000
-      internalID: 5419233652529361054
+      spriteID: 390e8da05adb1574394cbb95dd720d1b
+      internalID: -302322632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_8
+      name: Guardia_Ombra_8
       rect:
         serializedVersion: 2
         x: 96
@@ -736,16 +736,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 908189e071b8f0550800000000000000
-      internalID: 6129270549019891721
+      spriteID: c4879c2c0f18a914f82259e282c2bee9
+      internalID: 2082522047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_9
+      name: Guardia_Ombra_9
       rect:
         serializedVersion: 2
         x: 144
@@ -758,16 +758,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4802cf8d43c729dc0800000000000000
-      internalID: -3633705382914023292
+      spriteID: a11aaabe832b22b4f9dee9985db4212b
+      internalID: -689514100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_10
+      name: Guardia_Ombra_10
       rect:
         serializedVersion: 2
         x: 192
@@ -780,16 +780,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1730ac298d8bb6050800000000000000
-      internalID: 5794928585857434481
+      spriteID: 3f419edb736b68b45b99ae765e159094
+      internalID: 1682911156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_11
+      name: Guardia_Ombra_11
       rect:
         serializedVersion: 2
         x: 240
@@ -802,16 +802,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 79b8ce673fe3dd1c0800000000000000
-      internalID: -4477353239143216233
+      spriteID: 1cf6b171c25fa2a4a830e096341da381
+      internalID: -641018504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_12
+      name: Guardia_Ombra_12
       rect:
         serializedVersion: 2
         x: 0
@@ -824,16 +824,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 684b0d8b5bc1317b0800000000000000
-      internalID: -5254824773395893114
+      spriteID: 9b1e1f117c500964c956454d3206a0bf
+      internalID: 2097651149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_13
+      name: Guardia_Ombra_13
       rect:
         serializedVersion: 2
         x: 48
@@ -846,16 +846,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 81129865fe0d815f0800000000000000
-      internalID: -785648408608562920
+      spriteID: 76f44d9cdf7cd5448b3531c143731326
+      internalID: 1199550090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_14
+      name: Guardia_Ombra_14
       rect:
         serializedVersion: 2
         x: 96
@@ -868,16 +868,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 33e346ef1999286f0800000000000000
-      internalID: -683815341089604045
+      spriteID: 4d01db02dd88c62468abd81e7ce6ac46
+      internalID: -1146770144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_15
+      name: Guardia_Ombra_15
       rect:
         serializedVersion: 2
         x: 144
@@ -890,16 +890,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d578432f8ff762e80800000000000000
-      internalID: -8203728964016634019
+      spriteID: ac0dcc22cd322374e8e6829d9f94cebc
+      internalID: 216530449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_16
+      name: Guardia_Ombra_16
       rect:
         serializedVersion: 2
         x: 192
@@ -912,16 +912,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d8a87c3825e4d4b60800000000000000
-      internalID: 7731922251570186893
+      spriteID: cebb1e40c07467b4296a41ad2c10bfc9
+      internalID: 1594244600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_17
+      name: Guardia_Ombra_17
       rect:
         serializedVersion: 2
         x: 240
@@ -934,16 +934,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 91cbdb1c503a60d80800000000000000
-      internalID: -8284755219380847591
+      spriteID: 35c231a66215551479718f61e3ba888c
+      internalID: 849441788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_18
+      name: Guardia_Ombra_18
       rect:
         serializedVersion: 2
         x: 0
@@ -956,16 +956,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cee3df79fc3c11000800000000000000
-      internalID: 5000370979684076
+      spriteID: d1fb5e965b1c8f84981ab864e05096cb
+      internalID: 488542431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_19
+      name: Guardia_Ombra_19
       rect:
         serializedVersion: 2
         x: 48
@@ -978,16 +978,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 475e3c9179e14c7e0800000000000000
-      internalID: -1746237121191746188
+      spriteID: b2d5b4148bd90634c93fcec881f6445f
+      internalID: 883974227
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_20
+      name: Guardia_Ombra_20
       rect:
         serializedVersion: 2
         x: 96
@@ -1000,16 +1000,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2ae5599a977e0d020800000000000000
-      internalID: 2364644314091708066
+      spriteID: 853febeff139ec645ab84bfd8d2f7001
+      internalID: -365876130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_21
+      name: Guardia_Ombra_21
       rect:
         serializedVersion: 2
         x: 144
@@ -1022,16 +1022,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 40d32f1cdc107cdb0800000000000000
-      internalID: -4771843296941949692
+      spriteID: dc42d584a9ec6bd4a8c85feb307091de
+      internalID: 1662471354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_22
+      name: Guardia_Ombra_22
       rect:
         serializedVersion: 2
         x: 192
@@ -1044,16 +1044,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 177cb202f176bfc00800000000000000
-      internalID: 935454730990897009
+      spriteID: 582f09c92bc75564b8be5bb3445c9e85
+      internalID: -1188459288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_23
+      name: Guardia_Ombra_23
       rect:
         serializedVersion: 2
         x: 240
@@ -1066,16 +1066,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3c675d5dc765722c0800000000000000
-      internalID: -4456498212096346429
+      spriteID: 1fccacf86570281418fad31c65af2f17
+      internalID: -1003395008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_24
+      name: Guardia_Ombra_24
       rect:
         serializedVersion: 2
         x: 0
@@ -1088,16 +1088,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5b1cec9533944a750800000000000000
-      internalID: 6315253062379159989
+      spriteID: 2d12e0b3310e1c74e811c392d9f40dc6
+      internalID: -1458330254
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_25
+      name: Guardia_Ombra_25
       rect:
         serializedVersion: 2
         x: 48
@@ -1110,16 +1110,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9cab0b2f71deda1d0800000000000000
-      internalID: -3337751061699970359
+      spriteID: cf8147952a4a39a4d98c4d8b00401308
+      internalID: -352014065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_26
+      name: Guardia_Ombra_26
       rect:
         serializedVersion: 2
         x: 96
@@ -1132,16 +1132,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a42591d357a5448d0800000000000000
-      internalID: -2863064003518049718
+      spriteID: 2a3b608cd26e11c40b89d380a1c96389
+      internalID: -1307041595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_27
+      name: Guardia_Ombra_27
       rect:
         serializedVersion: 2
         x: 144
@@ -1154,16 +1154,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f5a6c4d751812b7e0800000000000000
-      internalID: -1751310824518161825
+      spriteID: ebe127f01e31a554397bb4d14dbbf5b9
+      internalID: 1999194940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_28
+      name: Guardia_Ombra_28
       rect:
         serializedVersion: 2
         x: 192
@@ -1176,16 +1176,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f6ff007c319cbd7f0800000000000000
-      internalID: -586654239661424785
+      spriteID: c882bdb2a3a92384094adc5618a2f421
+      internalID: 151246567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_29
+      name: Guardia_Ombra_29
       rect:
         serializedVersion: 2
         x: 240
@@ -1198,16 +1198,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8f9b2e22c410c8480800000000000000
-      internalID: -8895733737449145864
+      spriteID: 72636486d36325741847aa7c1341b3eb
+      internalID: 1626584946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_30
+      name: Guardia_Ombra_30
       rect:
         serializedVersion: 2
         x: 0
@@ -1220,16 +1220,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a7647ed3f34b5da30800000000000000
-      internalID: 4239492807953696378
+      spriteID: 23acf6ea7ff2d4a42aa48f703280da93
+      internalID: 1107289500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_31
+      name: Guardia_Ombra_31
       rect:
         serializedVersion: 2
         x: 48
@@ -1242,16 +1242,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 55bdf141a780a9770800000000000000
-      internalID: 8618210157343529813
+      spriteID: 227d61ff3ae6edc429122c63fb83a23d
+      internalID: 1743476820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_32
+      name: Guardia_Ombra_32
       rect:
         serializedVersion: 2
         x: 96
@@ -1264,16 +1264,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 949413e4714af1630800000000000000
-      internalID: 3900016222329194825
+      spriteID: 12aaee04867e4e34b9e291197998c34f
+      internalID: -1988164539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_33
+      name: Guardia_Ombra_33
       rect:
         serializedVersion: 2
         x: 144
@@ -1286,16 +1286,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6090d373b3e6cf2d0800000000000000
-      internalID: -3243596431004727034
+      spriteID: 989c7381dad08cd4ea5b537877585213
+      internalID: 1862391081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_34
+      name: Guardia_Ombra_34
       rect:
         serializedVersion: 2
         x: 192
@@ -1308,16 +1308,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 68b046a54d239c8b0800000000000000
-      internalID: -5131514412781007994
+      spriteID: 3556b6be3ba477c44a20bcf3f994dffd
+      internalID: 614441935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_35
+      name: Guardia_Ombra_35
       rect:
         serializedVersion: 2
         x: 240
@@ -1330,16 +1330,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 793f752fae1bca430800000000000000
-      internalID: 3795604208612799383
+      spriteID: 407f47eb1f48e1a458b2d198df4183de
+      internalID: 519491529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_36
+      name: Guardia_Ombra_36
       rect:
         serializedVersion: 2
         x: 0
@@ -1352,16 +1352,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c018f44d859ec7f50800000000000000
-      internalID: 6880630898443649292
+      spriteID: 62b646a522d78d446852df8d8c9a2307
+      internalID: 145988314
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_37
+      name: Guardia_Ombra_37
       rect:
         serializedVersion: 2
         x: 48
@@ -1374,16 +1374,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7aca75f00ce7d8060800000000000000
-      internalID: 6957356362713509031
+      spriteID: 3b7459a737383f04da1e56fe49b8ce9e
+      internalID: 509843185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_38
+      name: Guardia_Ombra_38
       rect:
         serializedVersion: 2
         x: 96
@@ -1396,16 +1396,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ceddd2d3776f5d8f0800000000000000
-      internalID: -516235590276096532
+      spriteID: b4733faa413cd1f46892f9d5f3f5112a
+      internalID: -1119993222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_39
+      name: Guardia_Ombra_39
       rect:
         serializedVersion: 2
         x: 144
@@ -1418,16 +1418,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4357e11305d99c250800000000000000
-      internalID: 5965472149175956788
+      spriteID: 2c2e876783e71a746a643fa33ad57d4f
+      internalID: -1090226033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_40
+      name: Guardia_Ombra_40
       rect:
         serializedVersion: 2
         x: 192
@@ -1440,16 +1440,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 57b8fc3727e3c6a90800000000000000
-      internalID: -7319406633093723275
+      spriteID: 0bbb1902bd4f0f34785ee06e782cc112
+      internalID: -679047025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_41
+      name: Guardia_Ombra_41
       rect:
         serializedVersion: 2
         x: 240
@@ -1462,16 +1462,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3300e500f17a56730800000000000000
-      internalID: 3991780396325797939
+      spriteID: 8349b9c182e4efb47ae9fb66fa614ffd
+      internalID: -1272050044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_42
+      name: Guardia_Ombra_42
       rect:
         serializedVersion: 2
         x: 0
@@ -1484,16 +1484,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1246696d4c8377010800000000000000
-      internalID: 1186479444900340769
+      spriteID: d7a07c4ac47746547966b91f6c3ee00e
+      internalID: 25017096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_43
+      name: Guardia_Ombra_43
       rect:
         serializedVersion: 2
         x: 48
@@ -1506,16 +1506,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8b80c30be468f5540800000000000000
-      internalID: 4998861783926835384
+      spriteID: 28fa51e7205622044b8a37807b0d7c43
+      internalID: 896739883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_44
+      name: Guardia_Ombra_44
       rect:
         serializedVersion: 2
         x: 96
@@ -1528,16 +1528,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d8c4c2b5a12a52110800000000000000
-      internalID: 1235571906865548429
+      spriteID: 0c80cc415082a904b9444e4e8f6db841
+      internalID: -2105703254
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_45
+      name: Guardia_Ombra_45
       rect:
         serializedVersion: 2
         x: 144
@@ -1550,16 +1550,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4ba9fe839506a2130800000000000000
-      internalID: 3542749993203899060
+      spriteID: 385fe628c5444c9409cd541c525d7ce0
+      internalID: -923820090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_46
+      name: Guardia_Ombra_46
       rect:
         serializedVersion: 2
         x: 192
@@ -1572,16 +1572,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6e11fcbdc2774f940800000000000000
-      internalID: 5329015293636186598
+      spriteID: ec839b045cc271246a80e1ad3066e193
+      internalID: -859024898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_47
+      name: Guardia_Ombra_47
       rect:
         serializedVersion: 2
         x: 240
@@ -1594,16 +1594,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ac6f9b478c0a80c00800000000000000
-      internalID: 867119711081068234
+      spriteID: 14d8e1e87fc83994f999d947680e8807
+      internalID: -272106353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_48
+      name: Guardia_Ombra_48
       rect:
         serializedVersion: 2
         x: 0
@@ -1616,16 +1616,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bda1427a17a285720800000000000000
-      internalID: 2835062633053559515
+      spriteID: 7a42867f966d0f543a941925f7aba6f0
+      internalID: 1264442570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_49
+      name: Guardia_Ombra_49
       rect:
         serializedVersion: 2
         x: 48
@@ -1638,16 +1638,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 33038b9d0dfef24f0800000000000000
-      internalID: -851198124264771533
+      spriteID: ca35106f94578ef40be31abca0050bb5
+      internalID: 1006977479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_50
+      name: Guardia_Ombra_50
       rect:
         serializedVersion: 2
         x: 96
@@ -1660,16 +1660,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ce376cdd5a764b5b0800000000000000
-      internalID: -5353540094948641812
+      spriteID: e41ac7ec5daae6143accdca2cd8938ae
+      internalID: -1227355576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_51
+      name: Guardia_Ombra_51
       rect:
         serializedVersion: 2
         x: 144
@@ -1682,16 +1682,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1bb1d265cca8139d0800000000000000
-      internalID: -2796301283396609103
+      spriteID: 5731097d4e84e7b48ad91c5f3239d3ba
+      internalID: 343728070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_52
+      name: Guardia_Ombra_52
       rect:
         serializedVersion: 2
         x: 0
@@ -1704,16 +1704,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5023b1cebe3f9f9f0800000000000000
-      internalID: -434047694460472827
+      spriteID: a36f0ad6ab2f2a74ebe5ec22cfc97951
+      internalID: 1610728674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_53
+      name: Guardia_Ombra_53
       rect:
         serializedVersion: 2
         x: 48
@@ -1726,16 +1726,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c0013f48bd22e13a0800000000000000
-      internalID: -6692873670002274292
+      spriteID: d78c942d39d04ca48a4d728316039629
+      internalID: 799636995
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_54
+      name: Guardia_Ombra_54
       rect:
         serializedVersion: 2
         x: 96
@@ -1748,16 +1748,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0cf5c58e82b6c20b0800000000000000
-      internalID: -5752104800617734208
+      spriteID: 68c80732cea40aa4fad242e6d634cd1a
+      internalID: -1610465284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_55
+      name: Guardia_Ombra_55
       rect:
         serializedVersion: 2
         x: 144
@@ -1770,16 +1770,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6884e63e1be81e180800000000000000
-      internalID: -9087825678380939130
+      spriteID: 1f0dc8f2dbe281641853fe57c1bcffe4
+      internalID: 2069844241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_56
+      name: Guardia_Ombra_56
       rect:
         serializedVersion: 2
         x: 0
@@ -1792,16 +1792,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 45c42a8d9689011a0800000000000000
-      internalID: -6840800253602280364
+      spriteID: 588a71486bb88144480925cd2577cd8e
+      internalID: 919802513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_57
+      name: Guardia_Ombra_57
       rect:
         serializedVersion: 2
         x: 48
@@ -1814,16 +1814,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 039ac53d40720d6e0800000000000000
-      internalID: -1814907748150892240
+      spriteID: 59c0ce2eb2a5d9046b330c8826c00296
+      internalID: -1400766954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_58
+      name: Guardia_Ombra_58
       rect:
         serializedVersion: 2
         x: 96
@@ -1836,16 +1836,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 13eb02a2110ad6670800000000000000
-      internalID: 8533652864518635057
+      spriteID: 994b10de2d135cf4f978b9bb5801a2be
+      internalID: -1247784799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_59
+      name: Guardia_Ombra_59
       rect:
         serializedVersion: 2
         x: 144
@@ -1858,16 +1858,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ecdfff527fa482f00800000000000000
-      internalID: 1092205334992256462
+      spriteID: b5fbb2133da1d3440be1edd4b9e5540e
+      internalID: 363406183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_60
+      name: Guardia_Ombra_60
       rect:
         serializedVersion: 2
         x: 0
@@ -1880,16 +1880,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 014a4f59797570a90800000000000000
-      internalID: -7347807958464158704
+      spriteID: e74cc9a0c57830444bceceea6491be55
+      internalID: 1818088648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_61
+      name: Guardia_Ombra_61
       rect:
         serializedVersion: 2
         x: 48
@@ -1902,16 +1902,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 631c623e96d28c1a0800000000000000
-      internalID: -6789126505455238858
+      spriteID: 4ea6050987646ef459d89e0b9600f916
+      internalID: -2050561604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_62
+      name: Guardia_Ombra_62
       rect:
         serializedVersion: 2
         x: 96
@@ -1924,16 +1924,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b77e7c7fd8ffe19a0800000000000000
-      internalID: -6260285446785865861
+      spriteID: f4d36236bd7d86a45af9ec2f87b1b06f
+      internalID: -759216447
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_63
+      name: Guardia_Ombra_63
       rect:
         serializedVersion: 2
         x: 144
@@ -1946,16 +1946,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a0e10e3a5811e80a0800000000000000
-      internalID: -6877540315270472182
+      spriteID: 5fe084ee02391f34da4f8c381b65359c
+      internalID: 1201292353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_64
+      name: Guardia_Ombra_64
       rect:
         serializedVersion: 2
         x: 0
@@ -1968,16 +1968,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e0bee33fb84785a80800000000000000
-      internalID: -8477898154094695666
+      spriteID: 180db64aa607f9e4a90f0657e9898542
+      internalID: -1432713549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_65
+      name: Guardia_Ombra_65
       rect:
         serializedVersion: 2
         x: 48
@@ -1990,16 +1990,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f2002a20cb0b40370800000000000000
-      internalID: 8287943535813066799
+      spriteID: 239d26f7e77d9514fbdf820d9ca5456f
+      internalID: 367541078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_66
+      name: Guardia_Ombra_66
       rect:
         serializedVersion: 2
         x: 96
@@ -2012,16 +2012,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c4691a808d7bc7130800000000000000
-      internalID: 3565927143456216652
+      spriteID: 3c8dcb0e9b3814b4abcd9798d0991948
+      internalID: -392544575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_67
+      name: Guardia_Ombra_67
       rect:
         serializedVersion: 2
         x: 144
@@ -2034,16 +2034,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9c760c495a8d49e40800000000000000
-      internalID: 5662388837188397001
+      spriteID: 17cc24acc37bdd54b9945ad63591587b
+      internalID: -906686643
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_68
+      name: Guardia_Ombra_68
       rect:
         serializedVersion: 2
         x: 192
@@ -2056,16 +2056,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3c07dbd5753775f60800000000000000
-      internalID: 8023008080255873219
+      spriteID: 9f1e1109bfc53f4428faa3176264a168
+      internalID: -216094254
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_69
+      name: Guardia_Ombra_69
       rect:
         serializedVersion: 2
         x: 0
@@ -2078,16 +2078,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e9bc280835439db20800000000000000
-      internalID: 3159614146820098974
+      spriteID: 7206d344a7efc1841aa31c411417f8f9
+      internalID: -1149935491
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_70
+      name: Guardia_Ombra_70
       rect:
         serializedVersion: 2
         x: 48
@@ -2100,16 +2100,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 42f044a4c995ba470800000000000000
-      internalID: 8406911657212907300
+      spriteID: 54724719bf3de9c48bdb9404f7f26db2
+      internalID: -2010633219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_71
+      name: Guardia_Ombra_71
       rect:
         serializedVersion: 2
         x: 96
@@ -2122,16 +2122,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bd92946d2632f8dc0800000000000000
-      internalID: -3634647466855814693
+      spriteID: e6a1ad0254ec4d14bbc7f2d92118d48d
+      internalID: 1578214158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_72
+      name: Guardia_Ombra_72
       rect:
         serializedVersion: 2
         x: 144
@@ -2144,16 +2144,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b873c436e5a3eb160800000000000000
-      internalID: 7043131044321310603
+      spriteID: 9bed12dc91b93ed46932fef4aa48f471
+      internalID: 207821112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_73
+      name: Guardia_Ombra_73
       rect:
         serializedVersion: 2
         x: 192
@@ -2166,16 +2166,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 08e4481145b229a20800000000000000
-      internalID: 3067561936263859840
+      spriteID: 421c68b7e9423fd43af9532ec824ec82
+      internalID: -900071967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_74
+      name: Guardia_Ombra_74
       rect:
         serializedVersion: 2
         x: 0
@@ -2188,16 +2188,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d87ba5927c845f240800000000000000
-      internalID: 4824842596026857357
+      spriteID: b62a0cc01714c3c498d955015499646e
+      internalID: 438735494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_75
+      name: Guardia_Ombra_75
       rect:
         serializedVersion: 2
         x: 48
@@ -2210,16 +2210,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b5c73a9cf49a54ea0800000000000000
-      internalID: -5889114777566610341
+      spriteID: fac633b8942644c4f8c91a7769cdd1d6
+      internalID: 68702943
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_76
+      name: Guardia_Ombra_76
       rect:
         serializedVersion: 2
         x: 96
@@ -2232,16 +2232,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: de5c7ae5d985e1c90800000000000000
-      internalID: -7197217721570310675
+      spriteID: 1217d56bb4238564b8162e7276eb0367
+      internalID: 673380998
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_77
+      name: Guardia_Ombra_77
       rect:
         serializedVersion: 2
         x: 144
@@ -2254,16 +2254,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a7d77c651cdece200800000000000000
-      internalID: 210804697219956090
+      spriteID: 81b515b8f26366046b349d89eee2d7d2
+      internalID: -1297994729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_78
+      name: Guardia_Ombra_78
       rect:
         serializedVersion: 2
         x: 192
@@ -2276,16 +2276,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5111fd0d9d323e060800000000000000
-      internalID: 6981463265773555989
+      spriteID: 3f22e27617ce85b40858552a0a644dc2
+      internalID: 84020662
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_79
+      name: Guardia_Ombra_79
       rect:
         serializedVersion: 2
         x: 0
@@ -2298,16 +2298,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 99408aec382ab45e0800000000000000
-      internalID: -1924265728779221863
+      spriteID: e3c43b421e6f8da47af054b0184a4309
+      internalID: -1341741427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_80
+      name: Guardia_Ombra_80
       rect:
         serializedVersion: 2
         x: 48
@@ -2320,16 +2320,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bd9bd4b8464b20ad0800000000000000
-      internalID: -2737427279560984101
+      spriteID: bea517ea46ba2654298eb26b435fd033
+      internalID: -749174707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_81
+      name: Guardia_Ombra_81
       rect:
         serializedVersion: 2
         x: 96
@@ -2342,16 +2342,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 062c0c4187b2adf70800000000000000
-      internalID: 9212723782484017760
+      spriteID: b179251b530b34a408f63e433a1422fc
+      internalID: 110441817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_82
+      name: Guardia_Ombra_82
       rect:
         serializedVersion: 2
         x: 144
@@ -2364,16 +2364,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b2023ea371d6f8560800000000000000
-      internalID: 7318187866039984171
+      spriteID: 934be06d46d5b724590a58c2c7c2d727
+      internalID: 759002948
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_83
+      name: Guardia_Ombra_83
       rect:
         serializedVersion: 2
         x: 192
@@ -2386,16 +2386,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c53482ab135fc9f70800000000000000
-      internalID: 9195494133109113692
+      spriteID: ebd4da6c648cd0644afa5df96ac2a9f7
+      internalID: -984770478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_84
+      name: Guardia_Ombra_84
       rect:
         serializedVersion: 2
         x: 0
@@ -2408,16 +2408,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0c55e550089b4d400800000000000000
-      internalID: 348107030711391680
+      spriteID: 8563c70735c5db64e99b57c7c03caa26
+      internalID: -819931151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_85
+      name: Guardia_Ombra_85
       rect:
         serializedVersion: 2
         x: 48
@@ -2430,16 +2430,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0b27ebb755cf8d330800000000000000
-      internalID: 3736013334982324912
+      spriteID: b2fd1547ce7a13742886e6129570d056
+      internalID: -15833352
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_86
+      name: Guardia_Ombra_86
       rect:
         serializedVersion: 2
         x: 96
@@ -2452,16 +2452,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 71157b93cd9ac6b60800000000000000
-      internalID: 7740748622869254423
+      spriteID: f9b70014cc6b48b438707f8f92d5a1d7
+      internalID: -1297316167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_87
+      name: Guardia_Ombra_87
       rect:
         serializedVersion: 2
         x: 144
@@ -2474,16 +2474,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: aa2c71eb4dcd1ce90800000000000000
-      internalID: -7007076738931375446
+      spriteID: 59381e1b086348f439ece995ab069f72
+      internalID: 1320425036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_88
+      name: Guardia_Ombra_88
       rect:
         serializedVersion: 2
         x: 192
@@ -2496,16 +2496,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e0a36db9c27bde400800000000000000
-      internalID: 355141347853089294
+      spriteID: 64d0ba9d146ebe349a54059799a0b0d7
+      internalID: -1353856453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_89
+      name: Guardia_Ombra_89
       rect:
         serializedVersion: 2
         x: 240
@@ -2518,16 +2518,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d53110f7953db7210800000000000000
-      internalID: 1331890496154440541
+      spriteID: 4372d6d9334969c4681e453e2152c1fa
+      internalID: -1292559013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_90
+      name: Guardia_Ombra_90
       rect:
         serializedVersion: 2
         x: 0
@@ -2540,16 +2540,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4f647431361ed0e30800000000000000
-      internalID: 4471477820690220788
+      spriteID: 8f1874b340f638e4fbf6a2d1603f21d7
+      internalID: -966506575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_91
+      name: Guardia_Ombra_91
       rect:
         serializedVersion: 2
         x: 48
@@ -2562,16 +2562,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b9a18b6ae25c7d990800000000000000
-      internalID: -7361198261757535589
+      spriteID: fbe7744d8adb25541b7ed62253ae7c60
+      internalID: 120011555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_92
+      name: Guardia_Ombra_92
       rect:
         serializedVersion: 2
         x: 96
@@ -2584,16 +2584,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1d216543158d26750800000000000000
-      internalID: 6296833072299381457
+      spriteID: b139a2c271b7ec04b9feea80e692d5da
+      internalID: -955994375
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_93
+      name: Guardia_Ombra_93
       rect:
         serializedVersion: 2
         x: 144
@@ -2606,16 +2606,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b0093ae0a26e3e1d0800000000000000
-      internalID: -3322559031760678901
+      spriteID: c90791c7d274785479048683b888096a
+      internalID: 554377113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_94
+      name: Guardia_Ombra_94
       rect:
         serializedVersion: 2
         x: 192
@@ -2628,16 +2628,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cc44c333fddd37e40800000000000000
-      internalID: 5653105907987137740
+      spriteID: 95a715e7b9a9b6a4a9ca483bae699f67
+      internalID: 2013192710
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_95
+      name: Guardia_Ombra_95
       rect:
         serializedVersion: 2
         x: 240
@@ -2650,16 +2650,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7079de1cea3155080800000000000000
-      internalID: -9199425022535559417
+      spriteID: 1326000485f1de247b5e0e3c13c1a6c9
+      internalID: 1439135087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_96
+      name: Guardia_Ombra_96
       rect:
         serializedVersion: 2
         x: 0
@@ -2672,16 +2672,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b8baee06aedee6d20800000000000000
-      internalID: 3273815570049313675
+      spriteID: 38b72af3216e35349a5973cc9fba9b16
+      internalID: -1655856831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_97
+      name: Guardia_Ombra_97
       rect:
         serializedVersion: 2
         x: 48
@@ -2694,16 +2694,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 28d7623eab1136cf0800000000000000
-      internalID: -260344859084817022
+      spriteID: cbe15aee0078968488356cbdab7fe22d
+      internalID: 123651646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_98
+      name: Guardia_Ombra_98
       rect:
         serializedVersion: 2
         x: 96
@@ -2716,16 +2716,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9d93ac5d666219e60800000000000000
-      internalID: 7967191438910437849
+      spriteID: fb162993a3878744babea2ac5d5d14d7
+      internalID: 715767571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_99
+      name: Guardia_Ombra_99
       rect:
         serializedVersion: 2
         x: 144
@@ -2738,16 +2738,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 27d9ec079d716dac0800000000000000
-      internalID: -3830848210364097166
+      spriteID: 48c072d220846ee4f8698879423f6af3
+      internalID: 220839257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_100
+      name: Guardia_Ombra_100
       rect:
         serializedVersion: 2
         x: 192
@@ -2760,16 +2760,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a437d49406f663920800000000000000
-      internalID: 2969683463634776906
+      spriteID: ba68f53bda30162438ea340e763df956
+      internalID: -502677854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_101
+      name: Guardia_Ombra_101
       rect:
         serializedVersion: 2
         x: 240
@@ -2782,16 +2782,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d7b17a735bdcb9e20800000000000000
-      internalID: 3358504125341309821
+      spriteID: 9ea3bb4c5034a8a4d9420839a19f852a
+      internalID: -1907764301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_102
+      name: Guardia_Ombra_102
       rect:
         serializedVersion: 2
         x: 0
@@ -2804,16 +2804,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a45741bf5b31ae450800000000000000
-      internalID: 6118724716058670410
+      spriteID: 1fe14b42c805d6d4e92cdcf1a45b3aae
+      internalID: 87311565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_103
+      name: Guardia_Ombra_103
       rect:
         serializedVersion: 2
         x: 48
@@ -2826,16 +2826,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d28ef0aa056b1c8d0800000000000000
-      internalID: -2827778633445152723
+      spriteID: 3581a8965f9f29e4182016c010d26a5c
+      internalID: -1283555938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_104
+      name: Guardia_Ombra_104
       rect:
         serializedVersion: 2
         x: 96
@@ -2848,16 +2848,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b9134492c03821b00800000000000000
-      internalID: 797844172253180315
+      spriteID: 40993d298a0284b42aaf79173f62b071
+      internalID: -1278022651
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_105
+      name: Guardia_Ombra_105
       rect:
         serializedVersion: 2
         x: 144
@@ -2870,16 +2870,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 66d07b307f0b6a480800000000000000
-      internalID: -8888222239603356314
+      spriteID: 13320431950ff0d46abb58e9e8aa3fff
+      internalID: 1026749636
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_106
+      name: Guardia_Ombra_106
       rect:
         serializedVersion: 2
         x: 192
@@ -2892,16 +2892,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8635701311477a3e0800000000000000
-      internalID: -2042536288803400856
+      spriteID: 20fe227d5888d0444bec7012e4c7a428
+      internalID: -1596347851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_107
+      name: Guardia_Ombra_107
       rect:
         serializedVersion: 2
         x: 240
@@ -2914,16 +2914,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2d87c2ce9e4ae55d0800000000000000
-      internalID: -3071836571223426862
+      spriteID: 8ea42d2c7ef4822469295c4358133cc2
+      internalID: 207911156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_108
+      name: Guardia_Ombra_108
       rect:
         serializedVersion: 2
         x: 0
@@ -2936,16 +2936,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a414c6e835cbbdbf0800000000000000
-      internalID: -298437883232239286
+      spriteID: 77fff1fc0c4fb8a419f4825091ec3bb8
+      internalID: 1438125663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_109
+      name: Guardia_Ombra_109
       rect:
         serializedVersion: 2
         x: 48
@@ -2958,16 +2958,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c6fc3450cfc4ae020800000000000000
-      internalID: 2371792799067787116
+      spriteID: 1585c67f1a324ef4da04657d8b6425d3
+      internalID: -903610859
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_110
+      name: Guardia_Ombra_110
       rect:
         serializedVersion: 2
         x: 96
@@ -2980,16 +2980,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: acb74cc2c80bed580800000000000000
-      internalID: -8800402505742386230
+      spriteID: 86d3ebae0dec0ba42900432685c773ec
+      internalID: 1652930682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_111
+      name: Guardia_Ombra_111
       rect:
         serializedVersion: 2
         x: 144
@@ -3002,16 +3002,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f4a9dc07fe314da30800000000000000
-      internalID: 4239035068373113423
+      spriteID: 0e5f91c161911f949bdc84812b39875e
+      internalID: 156410793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_112
+      name: Guardia_Ombra_112
       rect:
         serializedVersion: 2
         x: 192
@@ -3024,16 +3024,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ec27306a66ecca610800000000000000
-      internalID: 1633907705095877326
+      spriteID: aa7a6993f40542946a0029b396e6b75b
+      internalID: 325247882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_113
+      name: Guardia_Ombra_113
       rect:
         serializedVersion: 2
         x: 240
@@ -3046,16 +3046,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3de08b55eebe8b500800000000000000
-      internalID: 412338774777269971
+      spriteID: 558e1b66baccbb74aa24412f6001563a
+      internalID: 1624075710
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_114
+      name: Guardia_Ombra_114
       rect:
         serializedVersion: 2
         x: 0
@@ -3068,16 +3068,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 31bfa4ebdc54687d0800000000000000
-      internalID: -2916566958712620269
+      spriteID: adb631125ccb5ce46a6a28324d7c3f95
+      internalID: 1632696893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_115
+      name: Guardia_Ombra_115
       rect:
         serializedVersion: 2
         x: 48
@@ -3090,16 +3090,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7f7dd8b9e4efaa8d0800000000000000
-      internalID: -2834173401905637385
+      spriteID: d9bd304f614682e429785f568dd9929c
+      internalID: 459589285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_116
+      name: Guardia_Ombra_116
       rect:
         serializedVersion: 2
         x: 96
@@ -3112,16 +3112,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 632ef3ab969652750800000000000000
-      internalID: 6279541158255256118
+      spriteID: 7848ae44d95bcda49bd31e44a24f0103
+      internalID: -204614175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_117
+      name: Guardia_Ombra_117
       rect:
         serializedVersion: 2
         x: 144
@@ -3134,16 +3134,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 65befdb2f3b033880800000000000000
-      internalID: -8632543694792168618
+      spriteID: 810499323292a954dad13455f062b9d2
+      internalID: -2087203131
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_118
+      name: Guardia_Ombra_118
       rect:
         serializedVersion: 2
         x: 192
@@ -3156,16 +3156,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e24906bb320f673b0800000000000000
-      internalID: -5514956657410403282
+      spriteID: 77afef3311db80445b31089e30e576b5
+      internalID: 1476149176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_119
+      name: Guardia_Ombra_119
       rect:
         serializedVersion: 2
         x: 240
@@ -3178,16 +3178,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4c92906cdcfa60fe0800000000000000
-      internalID: -1223096950458865212
+      spriteID: 23d1352f47e20a14c8b6474fa03177a9
+      internalID: 1483474280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_120
+      name: Guardia_Ombra_120
       rect:
         serializedVersion: 2
         x: 0
@@ -3200,16 +3200,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 28f7762c20df8a900800000000000000
-      internalID: 696084330722066306
+      spriteID: 3612ad2a2552d8743bdbb6c2c0ab022b
+      internalID: 868868214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_121
+      name: Guardia_Ombra_121
       rect:
         serializedVersion: 2
         x: 48
@@ -3222,16 +3222,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 04d95e4a3a3232050800000000000000
-      internalID: 5774498332972260672
+      spriteID: 0cbdeb6dc7f1cdd4b9939a94a2fecc9d
+      internalID: -387972735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_122
+      name: Guardia_Ombra_122
       rect:
         serializedVersion: 2
         x: 96
@@ -3244,16 +3244,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d4f53c27529c11140800000000000000
-      internalID: 4688749849745776461
+      spriteID: 6b8e74486ea546e40aebc7c351830f85
+      internalID: 1299642477
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_123
+      name: Guardia_Ombra_123
       rect:
         serializedVersion: 2
         x: 144
@@ -3266,16 +3266,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4bb376f6683192470800000000000000
-      internalID: 8370242850560359348
+      spriteID: 215d587a663e740498d93284f748574c
+      internalID: 1974661230
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_124
+      name: Guardia_Ombra_124
       rect:
         serializedVersion: 2
         x: 192
@@ -3288,16 +3288,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ebc079e6b09536eb0800000000000000
-      internalID: -4727837278173983554
+      spriteID: f37264a6069ee4a45a6091a8419bc139
+      internalID: -1386811010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_125
+      name: Guardia_Ombra_125
       rect:
         serializedVersion: 2
         x: 240
@@ -3310,16 +3310,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2c5b177883bf73600800000000000000
-      internalID: 448102908155770306
+      spriteID: b169196fbfde7c04697c04fe10514065
+      internalID: 433092955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_126
+      name: Guardia_Ombra_126
       rect:
         serializedVersion: 2
         x: 0
@@ -3332,16 +3332,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: df2f8ad2d798e94e0800000000000000
-      internalID: -1972988416011734275
+      spriteID: e1655e68198be0548ba681cc33621d94
+      internalID: -1222819772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_127
+      name: Guardia_Ombra_127
       rect:
         serializedVersion: 2
         x: 48
@@ -3354,16 +3354,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 12d115d2e29caa1a0800000000000000
-      internalID: -6797399487396373215
+      spriteID: 3fc5f0e1524962e4bb26da3670eb6af8
+      internalID: -143030086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_128
+      name: Guardia_Ombra_128
       rect:
         serializedVersion: 2
         x: 96
@@ -3376,16 +3376,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7f081f62812b9caa0800000000000000
-      internalID: -6140180800140640009
+      spriteID: d9052120f4d2bbe43b923239eaa84a2e
+      internalID: -2140004729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_129
+      name: Guardia_Ombra_129
       rect:
         serializedVersion: 2
         x: 144
@@ -3398,16 +3398,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a4e6f4a0136f3a690800000000000000
-      internalID: -7591953856329716150
+      spriteID: 4a2a6de5f074a334b8948d058cf3b76b
+      internalID: 686466380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_130
+      name: Guardia_Ombra_130
       rect:
         serializedVersion: 2
         x: 192
@@ -3420,16 +3420,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d965b5f36382c0bf0800000000000000
-      internalID: -356866057012816227
+      spriteID: e53469c84942edb42895be2b69243484
+      internalID: -76641250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spritesheet_without_Shadows_131
+      name: Guardia_Ombra_131
       rect:
         serializedVersion: 2
         x: 240
@@ -3442,10 +3442,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 916a6c849f57921c0800000000000000
-      internalID: -4527958236816038375
+      spriteID: dcac24a362498004f8336a6b08f79a6f
+      internalID: -1265205348
       vertices: []
       indices: 
       edges: []
@@ -3454,7 +3454,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: cfa7dd0d30846214f97fb468ca08f286
+    spriteID: 77358a7cfbe84fe40a7f58f50ffba045
     internalID: 0
     vertices: []
     indices: 
@@ -3466,138 +3466,138 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":24.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Spritesheet_without_Shadows_0: 3373013623544799033
-      Spritesheet_without_Shadows_1: -7362506490005875622
-      Spritesheet_without_Shadows_10: 5794928585857434481
-      Spritesheet_without_Shadows_100: 2969683463634776906
-      Spritesheet_without_Shadows_101: 3358504125341309821
-      Spritesheet_without_Shadows_102: 6118724716058670410
-      Spritesheet_without_Shadows_103: -2827778633445152723
-      Spritesheet_without_Shadows_104: 797844172253180315
-      Spritesheet_without_Shadows_105: -8888222239603356314
-      Spritesheet_without_Shadows_106: -2042536288803400856
-      Spritesheet_without_Shadows_107: -3071836571223426862
-      Spritesheet_without_Shadows_108: -298437883232239286
-      Spritesheet_without_Shadows_109: 2371792799067787116
-      Spritesheet_without_Shadows_11: -4477353239143216233
-      Spritesheet_without_Shadows_110: -8800402505742386230
-      Spritesheet_without_Shadows_111: 4239035068373113423
-      Spritesheet_without_Shadows_112: 1633907705095877326
-      Spritesheet_without_Shadows_113: 412338774777269971
-      Spritesheet_without_Shadows_114: -2916566958712620269
-      Spritesheet_without_Shadows_115: -2834173401905637385
-      Spritesheet_without_Shadows_116: 6279541158255256118
-      Spritesheet_without_Shadows_117: -8632543694792168618
-      Spritesheet_without_Shadows_118: -5514956657410403282
-      Spritesheet_without_Shadows_119: -1223096950458865212
-      Spritesheet_without_Shadows_12: -5254824773395893114
-      Spritesheet_without_Shadows_120: 696084330722066306
-      Spritesheet_without_Shadows_121: 5774498332972260672
-      Spritesheet_without_Shadows_122: 4688749849745776461
-      Spritesheet_without_Shadows_123: 8370242850560359348
-      Spritesheet_without_Shadows_124: -4727837278173983554
-      Spritesheet_without_Shadows_125: 448102908155770306
-      Spritesheet_without_Shadows_126: -1972988416011734275
-      Spritesheet_without_Shadows_127: -6797399487396373215
-      Spritesheet_without_Shadows_128: -6140180800140640009
-      Spritesheet_without_Shadows_129: -7591953856329716150
-      Spritesheet_without_Shadows_13: -785648408608562920
-      Spritesheet_without_Shadows_130: -356866057012816227
-      Spritesheet_without_Shadows_131: -4527958236816038375
-      Spritesheet_without_Shadows_14: -683815341089604045
-      Spritesheet_without_Shadows_15: -8203728964016634019
-      Spritesheet_without_Shadows_16: 7731922251570186893
-      Spritesheet_without_Shadows_17: -8284755219380847591
-      Spritesheet_without_Shadows_18: 5000370979684076
-      Spritesheet_without_Shadows_19: -1746237121191746188
-      Spritesheet_without_Shadows_2: -2585592499792036272
-      Spritesheet_without_Shadows_20: 2364644314091708066
-      Spritesheet_without_Shadows_21: -4771843296941949692
-      Spritesheet_without_Shadows_22: 935454730990897009
-      Spritesheet_without_Shadows_23: -4456498212096346429
-      Spritesheet_without_Shadows_24: 6315253062379159989
-      Spritesheet_without_Shadows_25: -3337751061699970359
-      Spritesheet_without_Shadows_26: -2863064003518049718
-      Spritesheet_without_Shadows_27: -1751310824518161825
-      Spritesheet_without_Shadows_28: -586654239661424785
-      Spritesheet_without_Shadows_29: -8895733737449145864
-      Spritesheet_without_Shadows_3: -5352277105158745905
-      Spritesheet_without_Shadows_30: 4239492807953696378
-      Spritesheet_without_Shadows_31: 8618210157343529813
-      Spritesheet_without_Shadows_32: 3900016222329194825
-      Spritesheet_without_Shadows_33: -3243596431004727034
-      Spritesheet_without_Shadows_34: -5131514412781007994
-      Spritesheet_without_Shadows_35: 3795604208612799383
-      Spritesheet_without_Shadows_36: 6880630898443649292
-      Spritesheet_without_Shadows_37: 6957356362713509031
-      Spritesheet_without_Shadows_38: -516235590276096532
-      Spritesheet_without_Shadows_39: 5965472149175956788
-      Spritesheet_without_Shadows_4: -2990209844062396501
-      Spritesheet_without_Shadows_40: -7319406633093723275
-      Spritesheet_without_Shadows_41: 3991780396325797939
-      Spritesheet_without_Shadows_42: 1186479444900340769
-      Spritesheet_without_Shadows_43: 4998861783926835384
-      Spritesheet_without_Shadows_44: 1235571906865548429
-      Spritesheet_without_Shadows_45: 3542749993203899060
-      Spritesheet_without_Shadows_46: 5329015293636186598
-      Spritesheet_without_Shadows_47: 867119711081068234
-      Spritesheet_without_Shadows_48: 2835062633053559515
-      Spritesheet_without_Shadows_49: -851198124264771533
-      Spritesheet_without_Shadows_5: 2105079515628621988
-      Spritesheet_without_Shadows_50: -5353540094948641812
-      Spritesheet_without_Shadows_51: -2796301283396609103
-      Spritesheet_without_Shadows_52: -434047694460472827
-      Spritesheet_without_Shadows_53: -6692873670002274292
-      Spritesheet_without_Shadows_54: -5752104800617734208
-      Spritesheet_without_Shadows_55: -9087825678380939130
-      Spritesheet_without_Shadows_56: -6840800253602280364
-      Spritesheet_without_Shadows_57: -1814907748150892240
-      Spritesheet_without_Shadows_58: 8533652864518635057
-      Spritesheet_without_Shadows_59: 1092205334992256462
-      Spritesheet_without_Shadows_6: 7185927318711132835
-      Spritesheet_without_Shadows_60: -7347807958464158704
-      Spritesheet_without_Shadows_61: -6789126505455238858
-      Spritesheet_without_Shadows_62: -6260285446785865861
-      Spritesheet_without_Shadows_63: -6877540315270472182
-      Spritesheet_without_Shadows_64: -8477898154094695666
-      Spritesheet_without_Shadows_65: 8287943535813066799
-      Spritesheet_without_Shadows_66: 3565927143456216652
-      Spritesheet_without_Shadows_67: 5662388837188397001
-      Spritesheet_without_Shadows_68: 8023008080255873219
-      Spritesheet_without_Shadows_69: 3159614146820098974
-      Spritesheet_without_Shadows_7: 5419233652529361054
-      Spritesheet_without_Shadows_70: 8406911657212907300
-      Spritesheet_without_Shadows_71: -3634647466855814693
-      Spritesheet_without_Shadows_72: 7043131044321310603
-      Spritesheet_without_Shadows_73: 3067561936263859840
-      Spritesheet_without_Shadows_74: 4824842596026857357
-      Spritesheet_without_Shadows_75: -5889114777566610341
-      Spritesheet_without_Shadows_76: -7197217721570310675
-      Spritesheet_without_Shadows_77: 210804697219956090
-      Spritesheet_without_Shadows_78: 6981463265773555989
-      Spritesheet_without_Shadows_79: -1924265728779221863
-      Spritesheet_without_Shadows_8: 6129270549019891721
-      Spritesheet_without_Shadows_80: -2737427279560984101
-      Spritesheet_without_Shadows_81: 9212723782484017760
-      Spritesheet_without_Shadows_82: 7318187866039984171
-      Spritesheet_without_Shadows_83: 9195494133109113692
-      Spritesheet_without_Shadows_84: 348107030711391680
-      Spritesheet_without_Shadows_85: 3736013334982324912
-      Spritesheet_without_Shadows_86: 7740748622869254423
-      Spritesheet_without_Shadows_87: -7007076738931375446
-      Spritesheet_without_Shadows_88: 355141347853089294
-      Spritesheet_without_Shadows_89: 1331890496154440541
-      Spritesheet_without_Shadows_9: -3633705382914023292
-      Spritesheet_without_Shadows_90: 4471477820690220788
-      Spritesheet_without_Shadows_91: -7361198261757535589
-      Spritesheet_without_Shadows_92: 6296833072299381457
-      Spritesheet_without_Shadows_93: -3322559031760678901
-      Spritesheet_without_Shadows_94: 5653105907987137740
-      Spritesheet_without_Shadows_95: -9199425022535559417
-      Spritesheet_without_Shadows_96: 3273815570049313675
-      Spritesheet_without_Shadows_97: -260344859084817022
-      Spritesheet_without_Shadows_98: 7967191438910437849
-      Spritesheet_without_Shadows_99: -3830848210364097166
+      Guardia_Ombra_0: -1135656557
+      Guardia_Ombra_1: 1501119307
+      Guardia_Ombra_10: 1682911156
+      Guardia_Ombra_100: -502677854
+      Guardia_Ombra_101: -1907764301
+      Guardia_Ombra_102: 87311565
+      Guardia_Ombra_103: -1283555938
+      Guardia_Ombra_104: -1278022651
+      Guardia_Ombra_105: 1026749636
+      Guardia_Ombra_106: -1596347851
+      Guardia_Ombra_107: 207911156
+      Guardia_Ombra_108: 1438125663
+      Guardia_Ombra_109: -903610859
+      Guardia_Ombra_11: -641018504
+      Guardia_Ombra_110: 1652930682
+      Guardia_Ombra_111: 156410793
+      Guardia_Ombra_112: 325247882
+      Guardia_Ombra_113: 1624075710
+      Guardia_Ombra_114: 1632696893
+      Guardia_Ombra_115: 459589285
+      Guardia_Ombra_116: -204614175
+      Guardia_Ombra_117: -2087203131
+      Guardia_Ombra_118: 1476149176
+      Guardia_Ombra_119: 1483474280
+      Guardia_Ombra_12: 2097651149
+      Guardia_Ombra_120: 868868214
+      Guardia_Ombra_121: -387972735
+      Guardia_Ombra_122: 1299642477
+      Guardia_Ombra_123: 1974661230
+      Guardia_Ombra_124: -1386811010
+      Guardia_Ombra_125: 433092955
+      Guardia_Ombra_126: -1222819772
+      Guardia_Ombra_127: -143030086
+      Guardia_Ombra_128: -2140004729
+      Guardia_Ombra_129: 686466380
+      Guardia_Ombra_13: 1199550090
+      Guardia_Ombra_130: -76641250
+      Guardia_Ombra_131: -1265205348
+      Guardia_Ombra_14: -1146770144
+      Guardia_Ombra_15: 216530449
+      Guardia_Ombra_16: 1594244600
+      Guardia_Ombra_17: 849441788
+      Guardia_Ombra_18: 488542431
+      Guardia_Ombra_19: 883974227
+      Guardia_Ombra_2: -54665024
+      Guardia_Ombra_20: -365876130
+      Guardia_Ombra_21: 1662471354
+      Guardia_Ombra_22: -1188459288
+      Guardia_Ombra_23: -1003395008
+      Guardia_Ombra_24: -1458330254
+      Guardia_Ombra_25: -352014065
+      Guardia_Ombra_26: -1307041595
+      Guardia_Ombra_27: 1999194940
+      Guardia_Ombra_28: 151246567
+      Guardia_Ombra_29: 1626584946
+      Guardia_Ombra_3: -1800941093
+      Guardia_Ombra_30: 1107289500
+      Guardia_Ombra_31: 1743476820
+      Guardia_Ombra_32: -1988164539
+      Guardia_Ombra_33: 1862391081
+      Guardia_Ombra_34: 614441935
+      Guardia_Ombra_35: 519491529
+      Guardia_Ombra_36: 145988314
+      Guardia_Ombra_37: 509843185
+      Guardia_Ombra_38: -1119993222
+      Guardia_Ombra_39: -1090226033
+      Guardia_Ombra_4: -1761026699
+      Guardia_Ombra_40: -679047025
+      Guardia_Ombra_41: -1272050044
+      Guardia_Ombra_42: 25017096
+      Guardia_Ombra_43: 896739883
+      Guardia_Ombra_44: -2105703254
+      Guardia_Ombra_45: -923820090
+      Guardia_Ombra_46: -859024898
+      Guardia_Ombra_47: -272106353
+      Guardia_Ombra_48: 1264442570
+      Guardia_Ombra_49: 1006977479
+      Guardia_Ombra_5: 1604313624
+      Guardia_Ombra_50: -1227355576
+      Guardia_Ombra_51: 343728070
+      Guardia_Ombra_52: 1610728674
+      Guardia_Ombra_53: 799636995
+      Guardia_Ombra_54: -1610465284
+      Guardia_Ombra_55: 2069844241
+      Guardia_Ombra_56: 919802513
+      Guardia_Ombra_57: -1400766954
+      Guardia_Ombra_58: -1247784799
+      Guardia_Ombra_59: 363406183
+      Guardia_Ombra_6: -898740066
+      Guardia_Ombra_60: 1818088648
+      Guardia_Ombra_61: -2050561604
+      Guardia_Ombra_62: -759216447
+      Guardia_Ombra_63: 1201292353
+      Guardia_Ombra_64: -1432713549
+      Guardia_Ombra_65: 367541078
+      Guardia_Ombra_66: -392544575
+      Guardia_Ombra_67: -906686643
+      Guardia_Ombra_68: -216094254
+      Guardia_Ombra_69: -1149935491
+      Guardia_Ombra_7: -302322632
+      Guardia_Ombra_70: -2010633219
+      Guardia_Ombra_71: 1578214158
+      Guardia_Ombra_72: 207821112
+      Guardia_Ombra_73: -900071967
+      Guardia_Ombra_74: 438735494
+      Guardia_Ombra_75: 68702943
+      Guardia_Ombra_76: 673380998
+      Guardia_Ombra_77: -1297994729
+      Guardia_Ombra_78: 84020662
+      Guardia_Ombra_79: -1341741427
+      Guardia_Ombra_8: 2082522047
+      Guardia_Ombra_80: -749174707
+      Guardia_Ombra_81: 110441817
+      Guardia_Ombra_82: 759002948
+      Guardia_Ombra_83: -984770478
+      Guardia_Ombra_84: -819931151
+      Guardia_Ombra_85: -15833352
+      Guardia_Ombra_86: -1297316167
+      Guardia_Ombra_87: 1320425036
+      Guardia_Ombra_88: -1353856453
+      Guardia_Ombra_89: -1292559013
+      Guardia_Ombra_9: -689514100
+      Guardia_Ombra_90: -966506575
+      Guardia_Ombra_91: 120011555
+      Guardia_Ombra_92: -955994375
+      Guardia_Ombra_93: 554377113
+      Guardia_Ombra_94: 2013192710
+      Guardia_Ombra_95: 1439135087
+      Guardia_Ombra_96: -1655856831
+      Guardia_Ombra_97: 123651646
+      Guardia_Ombra_98: 715767571
+      Guardia_Ombra_99: 220839257
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
