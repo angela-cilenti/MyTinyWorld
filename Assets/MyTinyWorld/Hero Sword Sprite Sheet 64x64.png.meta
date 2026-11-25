@@ -1,0 +1,1679 @@
+fileFormatVersion: 2
+guid: c953662895844df4e817624727acd39d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4058357617366611029
+    second: Hero Sword Sprite Sheet 64x64_0
+  - first:
+      213: 9066699364987127252
+    second: Hero Sword Sprite Sheet 64x64_1
+  - first:
+      213: 42474718610289162
+    second: Hero Sword Sprite Sheet 64x64_2
+  - first:
+      213: -6935036537683207372
+    second: Hero Sword Sprite Sheet 64x64_3
+  - first:
+      213: 6346694986057551511
+    second: Hero Sword Sprite Sheet 64x64_4
+  - first:
+      213: 6604806835555202303
+    second: Hero Sword Sprite Sheet 64x64_5
+  - first:
+      213: 1671862566628537444
+    second: Hero Sword Sprite Sheet 64x64_6
+  - first:
+      213: 948840891089431042
+    second: Hero Sword Sprite Sheet 64x64_7
+  - first:
+      213: -4237297422660805279
+    second: Hero Sword Sprite Sheet 64x64_8
+  - first:
+      213: 412001347598770889
+    second: Hero Sword Sprite Sheet 64x64_9
+  - first:
+      213: -5167136307463614966
+    second: Hero Sword Sprite Sheet 64x64_10
+  - first:
+      213: -5366899863936480820
+    second: Hero Sword Sprite Sheet 64x64_11
+  - first:
+      213: 7024544790551833605
+    second: Hero Sword Sprite Sheet 64x64_12
+  - first:
+      213: -4018947652061100624
+    second: Hero Sword Sprite Sheet 64x64_13
+  - first:
+      213: 2573088642397312401
+    second: Hero Sword Sprite Sheet 64x64_14
+  - first:
+      213: 4761420859343936438
+    second: Hero Sword Sprite Sheet 64x64_15
+  - first:
+      213: -1272138851797103737
+    second: Hero Sword Sprite Sheet 64x64_16
+  - first:
+      213: -4614771434545427200
+    second: Hero Sword Sprite Sheet 64x64_17
+  - first:
+      213: -611364236919485751
+    second: Hero Sword Sprite Sheet 64x64_18
+  - first:
+      213: -7537834364767647071
+    second: Hero Sword Sprite Sheet 64x64_19
+  - first:
+      213: 2578056981637690229
+    second: Hero Sword Sprite Sheet 64x64_20
+  - first:
+      213: 2265427984876263078
+    second: Hero Sword Sprite Sheet 64x64_21
+  - first:
+      213: -2704654884599626172
+    second: Hero Sword Sprite Sheet 64x64_22
+  - first:
+      213: -2222289456814130159
+    second: Hero Sword Sprite Sheet 64x64_23
+  - first:
+      213: -5419747244491642535
+    second: Hero Sword Sprite Sheet 64x64_24
+  - first:
+      213: 7823312923979030159
+    second: Hero Sword Sprite Sheet 64x64_25
+  - first:
+      213: 4842469622948096144
+    second: Hero Sword Sprite Sheet 64x64_26
+  - first:
+      213: -9160429313954897126
+    second: Hero Sword Sprite Sheet 64x64_27
+  - first:
+      213: 8392690463743532438
+    second: Hero Sword Sprite Sheet 64x64_28
+  - first:
+      213: 5716492208805775896
+    second: Hero Sword Sprite Sheet 64x64_29
+  - first:
+      213: -7450216784473815528
+    second: Hero Sword Sprite Sheet 64x64_30
+  - first:
+      213: -3850777490511463426
+    second: Hero Sword Sprite Sheet 64x64_31
+  - first:
+      213: -8091897247391026969
+    second: Hero Sword Sprite Sheet 64x64_32
+  - first:
+      213: 7411135953941367708
+    second: Hero Sword Sprite Sheet 64x64_33
+  - first:
+      213: 716046217813539827
+    second: Hero Sword Sprite Sheet 64x64_34
+  - first:
+      213: 5802200808333627563
+    second: Hero Sword Sprite Sheet 64x64_35
+  - first:
+      213: 8505125558687798491
+    second: Hero Sword Sprite Sheet 64x64_36
+  - first:
+      213: -8727549308077229986
+    second: Hero Sword Sprite Sheet 64x64_37
+  - first:
+      213: -1646284010986397940
+    second: Hero Sword Sprite Sheet 64x64_38
+  - first:
+      213: 1141669455603216604
+    second: Hero Sword Sprite Sheet 64x64_39
+  - first:
+      213: 4139827021309707931
+    second: Hero Sword Sprite Sheet 64x64_40
+  - first:
+      213: 3640025604600093124
+    second: Hero Sword Sprite Sheet 64x64_41
+  - first:
+      213: 7701921852590665020
+    second: Hero Sword Sprite Sheet 64x64_42
+  - first:
+      213: -310965795597305174
+    second: Hero Sword Sprite Sheet 64x64_43
+  - first:
+      213: -1512238078994391132
+    second: Hero Sword Sprite Sheet 64x64_44
+  - first:
+      213: -6904654780219843222
+    second: Hero Sword Sprite Sheet 64x64_45
+  - first:
+      213: -820408022366111331
+    second: Hero Sword Sprite Sheet 64x64_46
+  - first:
+      213: -7047237237322068550
+    second: Hero Sword Sprite Sheet 64x64_47
+  - first:
+      213: -1423303231190298957
+    second: Hero Sword Sprite Sheet 64x64_48
+  - first:
+      213: 5001661097986786443
+    second: Hero Sword Sprite Sheet 64x64_49
+  - first:
+      213: -8724056196685260032
+    second: Hero Sword Sprite Sheet 64x64_50
+  - first:
+      213: -3204229159590154819
+    second: Hero Sword Sprite Sheet 64x64_51
+  - first:
+      213: -9083834034119700655
+    second: Hero Sword Sprite Sheet 64x64_52
+  - first:
+      213: 7318473800114394059
+    second: Hero Sword Sprite Sheet 64x64_53
+  - first:
+      213: -1015118627590068439
+    second: Hero Sword Sprite Sheet 64x64_54
+  - first:
+      213: -6181798266285289819
+    second: Hero Sword Sprite Sheet 64x64_55
+  - first:
+      213: 2518914271501469061
+    second: Hero Sword Sprite Sheet 64x64_56
+  - first:
+      213: -3330851719480870224
+    second: Hero Sword Sprite Sheet 64x64_57
+  - first:
+      213: -6900476437712651665
+    second: Hero Sword Sprite Sheet 64x64_58
+  - first:
+      213: 1093775218562402319
+    second: Hero Sword Sprite Sheet 64x64_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55433aa30ce225830800000000000000
+      internalID: 4058357617366611029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d54157f80363dd70800000000000000
+      internalID: 9066699364987127252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0273b21886e69000800000000000000
+      internalID: 42474718610289162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b990b230dc1cf90800000000000000
+      internalID: -6935036537683207372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e86bda67df31850800000000000000
+      internalID: 6346694986057551511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4f65bb2dcf8ab50800000000000000
+      internalID: 6604806835555202303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464ba2d7526a33710800000000000000
+      internalID: 1671862566628537444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a20c563c5fa2d00800000000000000
+      internalID: 948840891089431042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ddf9ab1781235c0800000000000000
+      internalID: -4237297422660805279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c26b92fa09b7b500800000000000000
+      internalID: 412001347598770889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e8b9fa7e4aa48b0800000000000000
+      internalID: -5167136307463614966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc949f04201f485b0800000000000000
+      internalID: -5366899863936480820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ca9a5f4423c7160800000000000000
+      internalID: 7024544790551833605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5020c5764d938c0800000000000000
+      internalID: -4018947652061100624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1951fa9cc7275b320800000000000000
+      internalID: 2573088642397312401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb94536b07f31240800000000000000
+      internalID: 4761420859343936438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b09a15474785ee0800000000000000
+      internalID: -1272138851797103737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dcc4494d905ffb0800000000000000
+      internalID: -4614771434545427200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca4906377ff387f0800000000000000
+      internalID: -611364236919485751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaca48159b346790800000000000000
+      internalID: -7537834364767647071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573fa396a2917c320800000000000000
+      internalID: 2578056981637690229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a657cedfba607f10800000000000000
+      internalID: 2265427984876263078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4460a6b56b2277ad0800000000000000
+      internalID: -2704654884599626172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c7f726387d821e0800000000000000
+      internalID: -2222289456814130159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9596caf989039c4b0800000000000000
+      internalID: -5419747244491642535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e1e7897adf19c60800000000000000
+      internalID: 7823312923979030159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098e07f2778e33340800000000000000
+      internalID: 4842469622948096144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13a4afa21e9fd080800000000000000
+      internalID: -9160429313954897126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ddd39a283d87470800000000000000
+      internalID: 8392690463743532438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a082b606f055f40800000000000000
+      internalID: 5716492208805775896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81609c5be438b9890800000000000000
+      internalID: -7450216784473815528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb7ef0564a4f8ac0800000000000000
+      internalID: -3850777490511463426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0fb42835ec3bf80800000000000000
+      internalID: -8091897247391026969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b0dcc52e4a9d660800000000000000
+      internalID: 7411135953941367708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbb987cd38efe900800000000000000
+      internalID: 716046217813539827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0d530d4ee858050800000000000000
+      internalID: 5802200808333627563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd49eaf22a6480670800000000000000
+      internalID: 8505125558687798491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58b954152481e680800000000000000
+      internalID: -8727549308077229986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f10c51a693729e0800000000000000
+      internalID: -1646284010986397940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0b420325608df00800000000000000
+      internalID: 1141669455603216604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b968abcfdbe937930800000000000000
+      internalID: 4139827021309707931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9d38f6008f38230800000000000000
+      internalID: 3640025604600093124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d2c7f4e19b2ea60800000000000000
+      internalID: 7701921852590665020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa3028a14a3fabf0800000000000000
+      internalID: -310965795597305174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af58b5ba73730be0800000000000000
+      internalID: -1512238078994391132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d1b405f0dbd20a0800000000000000
+      internalID: -6904654780219843222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99bcf710435d94f0800000000000000
+      internalID: -820408022366111331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd438d021f233e90800000000000000
+      internalID: -7047237237322068550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be8c3190496f3ce0800000000000000
+      internalID: -1423303231190298957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b848468c448796540800000000000000
+      internalID: 5001661097986786443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b97047c1dede680800000000000000
+      internalID: -8724056196685260032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd2eab5e8a4883d0800000000000000
+      internalID: -3204229159590154819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f01bdf21dbfe180800000000000000
+      internalID: -9083834034119700655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc352d17521709560800000000000000
+      internalID: 7318473800114394059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927ac9d8cf299e1f0800000000000000
+      internalID: -1015118627590068439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae80f8ba37d53aa0800000000000000
+      internalID: -6181798266285289819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585c1842f2bf4f220800000000000000
+      internalID: 2518914271501469061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baf7dc320076c1d0800000000000000
+      internalID: -3330851719480870224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a3f2d7d359c30a0800000000000000
+      internalID: -6900476437712651665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero Sword Sprite Sheet 64x64_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08898624cedd2f00800000000000000
+      internalID: 1093775218562402319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b47dd10a92a36ad46a4694453f4b9b5f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":10.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hero Sword Sprite Sheet 64x64_0: 4058357617366611029
+      Hero Sword Sprite Sheet 64x64_1: 9066699364987127252
+      Hero Sword Sprite Sheet 64x64_10: -5167136307463614966
+      Hero Sword Sprite Sheet 64x64_11: -5366899863936480820
+      Hero Sword Sprite Sheet 64x64_12: 7024544790551833605
+      Hero Sword Sprite Sheet 64x64_13: -4018947652061100624
+      Hero Sword Sprite Sheet 64x64_14: 2573088642397312401
+      Hero Sword Sprite Sheet 64x64_15: 4761420859343936438
+      Hero Sword Sprite Sheet 64x64_16: -1272138851797103737
+      Hero Sword Sprite Sheet 64x64_17: -4614771434545427200
+      Hero Sword Sprite Sheet 64x64_18: -611364236919485751
+      Hero Sword Sprite Sheet 64x64_19: -7537834364767647071
+      Hero Sword Sprite Sheet 64x64_2: 42474718610289162
+      Hero Sword Sprite Sheet 64x64_20: 2578056981637690229
+      Hero Sword Sprite Sheet 64x64_21: 2265427984876263078
+      Hero Sword Sprite Sheet 64x64_22: -2704654884599626172
+      Hero Sword Sprite Sheet 64x64_23: -2222289456814130159
+      Hero Sword Sprite Sheet 64x64_24: -5419747244491642535
+      Hero Sword Sprite Sheet 64x64_25: 7823312923979030159
+      Hero Sword Sprite Sheet 64x64_26: 4842469622948096144
+      Hero Sword Sprite Sheet 64x64_27: -9160429313954897126
+      Hero Sword Sprite Sheet 64x64_28: 8392690463743532438
+      Hero Sword Sprite Sheet 64x64_29: 5716492208805775896
+      Hero Sword Sprite Sheet 64x64_3: -6935036537683207372
+      Hero Sword Sprite Sheet 64x64_30: -7450216784473815528
+      Hero Sword Sprite Sheet 64x64_31: -3850777490511463426
+      Hero Sword Sprite Sheet 64x64_32: -8091897247391026969
+      Hero Sword Sprite Sheet 64x64_33: 7411135953941367708
+      Hero Sword Sprite Sheet 64x64_34: 716046217813539827
+      Hero Sword Sprite Sheet 64x64_35: 5802200808333627563
+      Hero Sword Sprite Sheet 64x64_36: 8505125558687798491
+      Hero Sword Sprite Sheet 64x64_37: -8727549308077229986
+      Hero Sword Sprite Sheet 64x64_38: -1646284010986397940
+      Hero Sword Sprite Sheet 64x64_39: 1141669455603216604
+      Hero Sword Sprite Sheet 64x64_4: 6346694986057551511
+      Hero Sword Sprite Sheet 64x64_40: 4139827021309707931
+      Hero Sword Sprite Sheet 64x64_41: 3640025604600093124
+      Hero Sword Sprite Sheet 64x64_42: 7701921852590665020
+      Hero Sword Sprite Sheet 64x64_43: -310965795597305174
+      Hero Sword Sprite Sheet 64x64_44: -1512238078994391132
+      Hero Sword Sprite Sheet 64x64_45: -6904654780219843222
+      Hero Sword Sprite Sheet 64x64_46: -820408022366111331
+      Hero Sword Sprite Sheet 64x64_47: -7047237237322068550
+      Hero Sword Sprite Sheet 64x64_48: -1423303231190298957
+      Hero Sword Sprite Sheet 64x64_49: 5001661097986786443
+      Hero Sword Sprite Sheet 64x64_5: 6604806835555202303
+      Hero Sword Sprite Sheet 64x64_50: -8724056196685260032
+      Hero Sword Sprite Sheet 64x64_51: -3204229159590154819
+      Hero Sword Sprite Sheet 64x64_52: -9083834034119700655
+      Hero Sword Sprite Sheet 64x64_53: 7318473800114394059
+      Hero Sword Sprite Sheet 64x64_54: -1015118627590068439
+      Hero Sword Sprite Sheet 64x64_55: -6181798266285289819
+      Hero Sword Sprite Sheet 64x64_56: 2518914271501469061
+      Hero Sword Sprite Sheet 64x64_57: -3330851719480870224
+      Hero Sword Sprite Sheet 64x64_58: -6900476437712651665
+      Hero Sword Sprite Sheet 64x64_59: 1093775218562402319
+      Hero Sword Sprite Sheet 64x64_6: 1671862566628537444
+      Hero Sword Sprite Sheet 64x64_7: 948840891089431042
+      Hero Sword Sprite Sheet 64x64_8: -4237297422660805279
+      Hero Sword Sprite Sheet 64x64_9: 412001347598770889
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

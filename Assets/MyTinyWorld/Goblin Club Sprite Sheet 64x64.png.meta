@@ -1,0 +1,1853 @@
+fileFormatVersion: 2
+guid: 1e222b426497b914685ec8a0c6100104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4365831675010791617
+    second: Goblin Club Sprite Sheet 64x64_0
+  - first:
+      213: -8085607002139394278
+    second: Goblin Club Sprite Sheet 64x64_1
+  - first:
+      213: -8667577213411069728
+    second: Goblin Club Sprite Sheet 64x64_2
+  - first:
+      213: 6131036638103420084
+    second: Goblin Club Sprite Sheet 64x64_3
+  - first:
+      213: 166286581531399170
+    second: Goblin Club Sprite Sheet 64x64_4
+  - first:
+      213: 4859971005868978851
+    second: Goblin Club Sprite Sheet 64x64_5
+  - first:
+      213: 3315976699151868497
+    second: Goblin Club Sprite Sheet 64x64_6
+  - first:
+      213: -6113537244461951857
+    second: Goblin Club Sprite Sheet 64x64_7
+  - first:
+      213: 533722071381695383
+    second: Goblin Club Sprite Sheet 64x64_8
+  - first:
+      213: -2367296467192788829
+    second: Goblin Club Sprite Sheet 64x64_9
+  - first:
+      213: 4216574582107967866
+    second: Goblin Club Sprite Sheet 64x64_10
+  - first:
+      213: 4086091782271283752
+    second: Goblin Club Sprite Sheet 64x64_11
+  - first:
+      213: -1632611187868195717
+    second: Goblin Club Sprite Sheet 64x64_12
+  - first:
+      213: 4524044082919186061
+    second: Goblin Club Sprite Sheet 64x64_13
+  - first:
+      213: -1514808374336626541
+    second: Goblin Club Sprite Sheet 64x64_14
+  - first:
+      213: 5677129724631793243
+    second: Goblin Club Sprite Sheet 64x64_15
+  - first:
+      213: 8941178908894131482
+    second: Goblin Club Sprite Sheet 64x64_16
+  - first:
+      213: 7715175683982073061
+    second: Goblin Club Sprite Sheet 64x64_17
+  - first:
+      213: -7742115986183445504
+    second: Goblin Club Sprite Sheet 64x64_18
+  - first:
+      213: -402383956481651433
+    second: Goblin Club Sprite Sheet 64x64_19
+  - first:
+      213: 4892342811885845368
+    second: Goblin Club Sprite Sheet 64x64_20
+  - first:
+      213: 3184262948367434938
+    second: Goblin Club Sprite Sheet 64x64_21
+  - first:
+      213: -8698179989546434344
+    second: Goblin Club Sprite Sheet 64x64_22
+  - first:
+      213: -305205578580246890
+    second: Goblin Club Sprite Sheet 64x64_23
+  - first:
+      213: 3974904596034688283
+    second: Goblin Club Sprite Sheet 64x64_24
+  - first:
+      213: 2409786858939626889
+    second: Goblin Club Sprite Sheet 64x64_25
+  - first:
+      213: -90559059499142398
+    second: Goblin Club Sprite Sheet 64x64_26
+  - first:
+      213: -8111693386655080080
+    second: Goblin Club Sprite Sheet 64x64_27
+  - first:
+      213: -3637034054786925272
+    second: Goblin Club Sprite Sheet 64x64_28
+  - first:
+      213: 1557190561701147395
+    second: Goblin Club Sprite Sheet 64x64_29
+  - first:
+      213: 1105551281475248098
+    second: Goblin Club Sprite Sheet 64x64_30
+  - first:
+      213: 4018143985145001156
+    second: Goblin Club Sprite Sheet 64x64_31
+  - first:
+      213: -530785639417464255
+    second: Goblin Club Sprite Sheet 64x64_32
+  - first:
+      213: -8166947369572335068
+    second: Goblin Club Sprite Sheet 64x64_33
+  - first:
+      213: 2573256008954998998
+    second: Goblin Club Sprite Sheet 64x64_34
+  - first:
+      213: 925348310973367427
+    second: Goblin Club Sprite Sheet 64x64_35
+  - first:
+      213: -2561053001979761735
+    second: Goblin Club Sprite Sheet 64x64_36
+  - first:
+      213: -3806758547060203872
+    second: Goblin Club Sprite Sheet 64x64_37
+  - first:
+      213: 1820848203269603636
+    second: Goblin Club Sprite Sheet 64x64_38
+  - first:
+      213: 8014434109078484695
+    second: Goblin Club Sprite Sheet 64x64_39
+  - first:
+      213: 4470077104422511267
+    second: Goblin Club Sprite Sheet 64x64_40
+  - first:
+      213: 3219063049047823027
+    second: Goblin Club Sprite Sheet 64x64_41
+  - first:
+      213: 2221276662098254008
+    second: Goblin Club Sprite Sheet 64x64_42
+  - first:
+      213: 6616017169586541598
+    second: Goblin Club Sprite Sheet 64x64_43
+  - first:
+      213: 5669007195722396042
+    second: Goblin Club Sprite Sheet 64x64_44
+  - first:
+      213: 2075628312579155917
+    second: Goblin Club Sprite Sheet 64x64_45
+  - first:
+      213: -8118199147962718677
+    second: Goblin Club Sprite Sheet 64x64_46
+  - first:
+      213: -8815089607452702001
+    second: Goblin Club Sprite Sheet 64x64_47
+  - first:
+      213: 4239659563169310386
+    second: Goblin Club Sprite Sheet 64x64_48
+  - first:
+      213: 6366414249731770790
+    second: Goblin Club Sprite Sheet 64x64_49
+  - first:
+      213: -8752994848302492082
+    second: Goblin Club Sprite Sheet 64x64_50
+  - first:
+      213: 8639644656673961907
+    second: Goblin Club Sprite Sheet 64x64_51
+  - first:
+      213: -1851561174708618003
+    second: Goblin Club Sprite Sheet 64x64_52
+  - first:
+      213: 2579878848184434285
+    second: Goblin Club Sprite Sheet 64x64_53
+  - first:
+      213: 1904474507965799596
+    second: Goblin Club Sprite Sheet 64x64_54
+  - first:
+      213: -7838247279732727844
+    second: Goblin Club Sprite Sheet 64x64_55
+  - first:
+      213: -7153116509580760744
+    second: Goblin Club Sprite Sheet 64x64_56
+  - first:
+      213: 5563127943030424882
+    second: Goblin Club Sprite Sheet 64x64_57
+  - first:
+      213: 8107908672456017356
+    second: Goblin Club Sprite Sheet 64x64_58
+  - first:
+      213: 8065562373104684687
+    second: Goblin Club Sprite Sheet 64x64_59
+  - first:
+      213: -5547549698656933040
+    second: Goblin Club Sprite Sheet 64x64_60
+  - first:
+      213: 645938369724239891
+    second: Goblin Club Sprite Sheet 64x64_61
+  - first:
+      213: 5990823376114774670
+    second: Goblin Club Sprite Sheet 64x64_62
+  - first:
+      213: -397994258459115202
+    second: Goblin Club Sprite Sheet 64x64_63
+  - first:
+      213: -8527628181059104895
+    second: Goblin Club Sprite Sheet 64x64_64
+  - first:
+      213: -5370596930360687106
+    second: Goblin Club Sprite Sheet 64x64_65
+  - first:
+      213: 8939723043945411401
+    second: Goblin Club Sprite Sheet 64x64_66
+  - first:
+      213: 2140734645494735337
+    second: Goblin Club Sprite Sheet 64x64_67
+  - first:
+      213: 5420216794743676191
+    second: Goblin Club Sprite Sheet 64x64_68
+  - first:
+      213: 2304224604125375724
+    second: Goblin Club Sprite Sheet 64x64_69
+  - first:
+      213: 5483570398947208601
+    second: Goblin Club Sprite Sheet 64x64_70
+  - first:
+      213: -5487608699856699774
+    second: Goblin Club Sprite Sheet 64x64_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3745d509337963c0800000000000000
+      internalID: -4365831675010791617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ff11c55472acf80800000000000000
+      internalID: -8085607002139394278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0fc5b727496b780800000000000000
+      internalID: -8667577213411069728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc3f07b651d51550800000000000000
+      internalID: 6131036638103420084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204d71fc3c4ce4200800000000000000
+      internalID: 166286581531399170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2b48f61e5127340800000000000000
+      internalID: 4859971005868978851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1526b643d37b40e20800000000000000
+      internalID: 3315976699151868497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8499be544a582ba0800000000000000
+      internalID: -6113537244461951857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bdd796569286700800000000000000
+      internalID: 533722071381695383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8cfe2d76ca52fd0800000000000000
+      internalID: -2367296467192788829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a719c77fd38448a30800000000000000
+      internalID: 4216574582107967866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8223ce1b3d6b4b830800000000000000
+      internalID: 4086091782271283752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74a9ca46ccc759e0800000000000000
+      internalID: -1632611187868195717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e1b9ebf12a8ce30800000000000000
+      internalID: 4524044082919186061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390e0e03fc15afae0800000000000000
+      internalID: -1514808374336626541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e3d74e76739ce40800000000000000
+      internalID: 5677129724631793243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1579d168d2751c70800000000000000
+      internalID: 8941178908894131482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec9b77686fc11b60800000000000000
+      internalID: 7715175683982073061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004a9a1b78a7e8490800000000000000
+      internalID: -7742115986183445504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d489a6ce17a6af0800000000000000
+      internalID: -402383956481651433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b34edddd715e340800000000000000
+      internalID: 4892342811885845368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab401e4d746c03c20800000000000000
+      internalID: 3184262948367434938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d08caa626bd94780800000000000000
+      internalID: -8698179989546434344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69eb141b421b3cbf0800000000000000
+      internalID: -305205578580246890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1517be8ba2b92730800000000000000
+      internalID: 3974904596034688283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985308f6168417120800000000000000
+      internalID: 2409786858939626889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2033c53e3054ebef0800000000000000
+      internalID: -90559059499142398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071e989a7d97d6f80800000000000000
+      internalID: -8111693386655080080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d3d680cc8a68dc0800000000000000
+      internalID: -3637034054786925272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303b9c5c0904c9510800000000000000
+      internalID: 1557190561701147395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef5f457805b75f00800000000000000
+      internalID: 1105551281475248098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4b0fa5aa053c730800000000000000
+      internalID: 4018143985145001156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ab4aee54542a8f0800000000000000
+      internalID: -530785639417464255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422845143ac29ae80800000000000000
+      internalID: -8166947369572335068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0f6e9d4ba06b320800000000000000
+      internalID: 2573256008954998998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3844319d26f77dc00800000000000000
+      internalID: 925348310973367427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb6c0e1ddf457cd0800000000000000
+      internalID: -2561053001979761735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae5bc0454dab2bc0800000000000000
+      internalID: -3806758547060203872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4310bc92bc3f44910800000000000000
+      internalID: 1820848203269603636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6b5632c5df83f60800000000000000
+      internalID: 8014434109078484695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2e5b76177e80e30800000000000000
+      internalID: 4470077104422511267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2d41ca9c86cac20800000000000000
+      internalID: 3219063049047823027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b85b38fa5f83de10800000000000000
+      internalID: 2221276662098254008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1457150090d0db50800000000000000
+      internalID: 6616017169586541598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81ba22420c5cae40800000000000000
+      internalID: 5669007195722396042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7260104fc1ecc10800000000000000
+      internalID: 2075628312579155917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26adc113ec565f80800000000000000
+      internalID: -8118199147962718677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca4b84d4b28aa580800000000000000
+      internalID: -8815089607452702001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b66b47f8eb46da30800000000000000
+      internalID: 4239659563169310386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a94f38870c0a5850800000000000000
+      internalID: 6366414249731770790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e461b129f8d178680800000000000000
+      internalID: -8752994848302492082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b737aa5a0f26e770800000000000000
+      internalID: 8639644656673961907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec769debeeed46e0800000000000000
+      internalID: -1851561174708618003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eb395c4229dc320800000000000000
+      internalID: 2579878848184434285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac9613897d0e6a10800000000000000
+      internalID: 1904474507965799596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfdbddb0a3f83390800000000000000
+      internalID: -7838247279732727844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859e471fe660bbc90800000000000000
+      internalID: -7153116509580760744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235c064b363343d40800000000000000
+      internalID: 5563127943030424882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5cc05eaf3158070800000000000000
+      internalID: 8107908672456017356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e49a2ce32aeef60800000000000000
+      internalID: 8065562373104684687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b6ab5f0f42303b0800000000000000
+      internalID: -5547549698656933040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31055326685d6f800800000000000000
+      internalID: 645938369724239891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e827d6dae1ea32350800000000000000
+      internalID: 5990823376114774670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3146e1a45a0a7af0800000000000000
+      internalID: -397994258459115202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f8c53c957c7a980800000000000000
+      internalID: -8527628181059104895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Club Sprite Sheet 64x64_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef54c06eb8ec775b0800000000000000
+      internalID: -5370596930360687106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dce8e691fa95b384a9d5885b69c42ee8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":11.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Goblin Club Sprite Sheet 64x64_0: -4365831675010791617
+      Goblin Club Sprite Sheet 64x64_1: -8085607002139394278
+      Goblin Club Sprite Sheet 64x64_10: 4216574582107967866
+      Goblin Club Sprite Sheet 64x64_11: 4086091782271283752
+      Goblin Club Sprite Sheet 64x64_12: -1632611187868195717
+      Goblin Club Sprite Sheet 64x64_13: 4524044082919186061
+      Goblin Club Sprite Sheet 64x64_14: -1514808374336626541
+      Goblin Club Sprite Sheet 64x64_15: 5677129724631793243
+      Goblin Club Sprite Sheet 64x64_16: 8941178908894131482
+      Goblin Club Sprite Sheet 64x64_17: 7715175683982073061
+      Goblin Club Sprite Sheet 64x64_18: -7742115986183445504
+      Goblin Club Sprite Sheet 64x64_19: -402383956481651433
+      Goblin Club Sprite Sheet 64x64_2: -8667577213411069728
+      Goblin Club Sprite Sheet 64x64_20: 4892342811885845368
+      Goblin Club Sprite Sheet 64x64_21: 3184262948367434938
+      Goblin Club Sprite Sheet 64x64_22: -8698179989546434344
+      Goblin Club Sprite Sheet 64x64_23: -305205578580246890
+      Goblin Club Sprite Sheet 64x64_24: 3974904596034688283
+      Goblin Club Sprite Sheet 64x64_25: 2409786858939626889
+      Goblin Club Sprite Sheet 64x64_26: -90559059499142398
+      Goblin Club Sprite Sheet 64x64_27: -8111693386655080080
+      Goblin Club Sprite Sheet 64x64_28: -3637034054786925272
+      Goblin Club Sprite Sheet 64x64_29: 1557190561701147395
+      Goblin Club Sprite Sheet 64x64_3: 6131036638103420084
+      Goblin Club Sprite Sheet 64x64_30: 1105551281475248098
+      Goblin Club Sprite Sheet 64x64_31: 4018143985145001156
+      Goblin Club Sprite Sheet 64x64_32: -530785639417464255
+      Goblin Club Sprite Sheet 64x64_33: -8166947369572335068
+      Goblin Club Sprite Sheet 64x64_34: 2573256008954998998
+      Goblin Club Sprite Sheet 64x64_35: 925348310973367427
+      Goblin Club Sprite Sheet 64x64_36: -2561053001979761735
+      Goblin Club Sprite Sheet 64x64_37: -3806758547060203872
+      Goblin Club Sprite Sheet 64x64_38: 1820848203269603636
+      Goblin Club Sprite Sheet 64x64_39: 8014434109078484695
+      Goblin Club Sprite Sheet 64x64_4: 166286581531399170
+      Goblin Club Sprite Sheet 64x64_40: 4470077104422511267
+      Goblin Club Sprite Sheet 64x64_41: 3219063049047823027
+      Goblin Club Sprite Sheet 64x64_42: 2221276662098254008
+      Goblin Club Sprite Sheet 64x64_43: 6616017169586541598
+      Goblin Club Sprite Sheet 64x64_44: 5669007195722396042
+      Goblin Club Sprite Sheet 64x64_45: 2075628312579155917
+      Goblin Club Sprite Sheet 64x64_46: -8118199147962718677
+      Goblin Club Sprite Sheet 64x64_47: -8815089607452702001
+      Goblin Club Sprite Sheet 64x64_48: 4239659563169310386
+      Goblin Club Sprite Sheet 64x64_49: 6366414249731770790
+      Goblin Club Sprite Sheet 64x64_5: 4859971005868978851
+      Goblin Club Sprite Sheet 64x64_50: -8752994848302492082
+      Goblin Club Sprite Sheet 64x64_51: 8639644656673961907
+      Goblin Club Sprite Sheet 64x64_52: -1851561174708618003
+      Goblin Club Sprite Sheet 64x64_53: 2579878848184434285
+      Goblin Club Sprite Sheet 64x64_54: 1904474507965799596
+      Goblin Club Sprite Sheet 64x64_55: -7838247279732727844
+      Goblin Club Sprite Sheet 64x64_56: -7153116509580760744
+      Goblin Club Sprite Sheet 64x64_57: 5563127943030424882
+      Goblin Club Sprite Sheet 64x64_58: 8107908672456017356
+      Goblin Club Sprite Sheet 64x64_59: 8065562373104684687
+      Goblin Club Sprite Sheet 64x64_6: 3315976699151868497
+      Goblin Club Sprite Sheet 64x64_60: -5547549698656933040
+      Goblin Club Sprite Sheet 64x64_61: 645938369724239891
+      Goblin Club Sprite Sheet 64x64_62: 5990823376114774670
+      Goblin Club Sprite Sheet 64x64_63: -397994258459115202
+      Goblin Club Sprite Sheet 64x64_64: -8527628181059104895
+      Goblin Club Sprite Sheet 64x64_65: -5370596930360687106
+      Goblin Club Sprite Sheet 64x64_7: -6113537244461951857
+      Goblin Club Sprite Sheet 64x64_8: 533722071381695383
+      Goblin Club Sprite Sheet 64x64_9: -2367296467192788829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
