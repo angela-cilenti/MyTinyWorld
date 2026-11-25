@@ -16,7 +16,7 @@ public class EsperienzaGiocatore : MonoBehaviour
     public event Action ProgressioneModificata;
     public event Action<int> LivelloAumentato;
     private StatistichePersonaggio statistiche;
-
+    
     private void Awake()
     {
         statistiche = GetComponent<StatistichePersonaggio>();
@@ -24,9 +24,9 @@ public class EsperienzaGiocatore : MonoBehaviour
 
     public void AggiungiEsperienza(int quantita)
     {
-        if (quantita <= 0 || statistiche.VitaAttuale <= 0) { return; }
+        if(quantita <= 0 || statistiche.VitaAttuale <= 0) { return;  }
         Esperienza += quantita;
-        while (Esperienza >= EsperienzaNecessaria)
+        while(Esperienza >= EsperienzaNecessaria)
         {
             Esperienza -= EsperienzaNecessaria;
             Livello++;

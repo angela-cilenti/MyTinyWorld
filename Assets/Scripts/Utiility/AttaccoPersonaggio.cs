@@ -109,7 +109,7 @@ public class AttaccoPersonaggio : MonoBehaviour
             if (ostacolo.collider != null)
                 continue;
 
-            if (bersaglio is StatistichePersonaggio vita)
+            if(bersaglio is StatistichePersonaggio vita)
             {
                 vita.SubisciDanno(statistiche.Forza, proprietario);
             }

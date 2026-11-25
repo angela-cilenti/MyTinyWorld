@@ -20,7 +20,7 @@ public class StatoAttacco : IStatoNPC
     public void Aggiorna()
     {
         movimento.Ferma();
-        if (attacco.StaAttaccando) { return; }
+        if(attacco.StaAttaccando) { return; }
         Vector2 posizione = rilevamento.PosizioneBersaglio;
         movimento.GuardaVerso(posizione);
         Vector2 direzione = posizione - movimento.Posizione;

@@ -10,7 +10,7 @@ public class StatoPattuglia : IStatoNPC
     private int indicePunto;
     private float tempoPausa;
 
-    public StatoPattuglia(MovimentoNPC movimento, Transform[] punti, float pausaMinima, float pausaMassima)
+    public StatoPattuglia (MovimentoNPC movimento, Transform[] punti, float pausaMinima, float pausaMassima)
     {
         this.movimento = movimento;
         this.punti = punti;
@@ -40,7 +40,7 @@ public class StatoPattuglia : IStatoNPC
         }
 
         Transform punto = punti[indicePunto];
-        if (punto == null)
+        if(punto == null)
         {
             ProssimoPunto();
             movimento.Ferma();
@@ -74,15 +74,15 @@ public class StatoPattuglia : IStatoNPC
         {
             if (punti[i] == null) continue;
             Vector2 punto = punti[i].position;
-            if (!movimento.PercorsoLibero(punto, raggioOstacoli, ostacoli)) { continue; }
+            if(!movimento.PercorsoLibero(punto, raggioOstacoli, ostacoli)) { continue; }
             float distanza = Vector2.Distance(movimento.Posizione, punto);
-            if (distanza < distanzaMinima)
+            if(distanza < distanzaMinima)
             {
                 distanzaMinima = distanza;
                 indiceMigliore = i;
             }
         }
-        if (indiceMigliore < 0) { return false; }
+        if(indiceMigliore < 0) { return false; }
         indicePunto = indiceMigliore;
         destinazione = punti[indiceMigliore].position;
         return true;

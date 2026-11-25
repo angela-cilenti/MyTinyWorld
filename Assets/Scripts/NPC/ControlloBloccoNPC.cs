@@ -23,7 +23,7 @@ public class ControlloBloccoNPC
     public bool Aggiorna(Vector2 posizione)
     {
         float distanza = Vector2.Distance(posizione, ultimaPosizione);
-        if (distanza >= spostamentoMinimo)
+        if(distanza >= spostamentoMinimo)
         {
             ultimaPosizione = posizione;
             tempoFermo = 0f;

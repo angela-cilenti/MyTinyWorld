@@ -9,9 +9,9 @@ public class StatistichePersonaggio : MonoBehaviour, IDanneggiabile, ICurabile
     [SerializeField] private int difesa = 5;
 
     public int VitaAttuale { get; private set; }
-    public int VitaMassima { get { return vitaMassima; } }
-    public int Forza { get { return forza; } }
-    public int Difesa { get { return difesa; } }
+    public int VitaMassima { get { return vitaMassima; }}
+    public int Forza { get { return forza; }}
+    public int Difesa { get { return difesa; }}
 
     public event Action ValoriModificati;
     public event Action<Personaggio> Morto;
@@ -31,25 +31,25 @@ public class StatistichePersonaggio : MonoBehaviour, IDanneggiabile, ICurabile
 
     public void SubisciDanno(int danno, Personaggio attaccante)
     {
-        if (danno <= 0 || VitaAttuale <= 0) { return; }
+        if (danno <= 0 || VitaAttuale <= 0){ return;}
         int dannoEffettivo = Mathf.Max(1, danno - difesa);
-        VitaAttuale = Mathf.Max(0, VitaAttuale - danno);
+        VitaAttuale = Mathf.Max(0, VitaAttuale - dannoEffettivo);
         ValoriModificati?.Invoke();
-        if (VitaAttuale == 0) { Morto?.Invoke(attaccante); }
+        if(VitaAttuale == 0) { Morto?.Invoke(attaccante); }
     }
     public void Cura(int quantita)
     {
         if (quantita <= 0 || VitaAttuale <= 0) { return; }
 
         int nuovaVita = Mathf.Min(vitaMassima, VitaAttuale + quantita);
-        if (nuovaVita == VitaAttuale) { return; }
+        if(nuovaVita == VitaAttuale) { return; }
         VitaAttuale = nuovaVita;
         ValoriModificati?.Invoke();
     }
 
     public void AumentaStatistiche(int bonusVita, int bonusForza, int bonusDifesa)
     {
-        if (VitaAttuale <= 0) { return; }
+        if(VitaAttuale <= 0) { return; }
         vitaMassima += Mathf.Max(0, bonusVita);
         forza += Mathf.Max(0, bonusForza);
         difesa += Mathf.Max(0, bonusDifesa);

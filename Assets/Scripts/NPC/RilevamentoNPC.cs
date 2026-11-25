@@ -33,7 +33,7 @@ public class RilevamentoNPC : MonoBehaviour
 
     private void Awake()
     {
-
+       
         bersaglio = componenteBersaglio as IBersaglio;
 
         if (bersaglio == null)
@@ -44,7 +44,7 @@ public class RilevamentoNPC : MonoBehaviour
 
     public bool VedeBersaglio(bool giaInseguendo)
     {
-        if (bersaglio == null || !bersaglio.EAttivo)
+        if(bersaglio == null || !bersaglio.EAttivo)
         {
             return false;
         }

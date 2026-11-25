@@ -1,4 +1,3 @@
-
 using UnityEngine;
 
 [RequireComponent(typeof(Nemico))]
@@ -26,9 +25,9 @@ public class RicompensaEsperienzaNemico : MonoBehaviour
     private void AssegnaEsperienza(Personaggio attaccante)
     {
         Giocatore giocatore = attaccante as Giocatore;
-        if (giocatore = null) { return; }
+        if(giocatore == null) { return; }
         EsperienzaGiocatore esperienza = giocatore.GetComponent<EsperienzaGiocatore>();
-        if (esperienza != null)
+        if(esperienza != null)
         {
             esperienza.AggiungiEsperienza(esperienzaFornita);
         }

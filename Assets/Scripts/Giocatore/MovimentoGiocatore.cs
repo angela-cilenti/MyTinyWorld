@@ -12,7 +12,7 @@ public class MovimentoGiocatore : MonoBehaviour
     private Vector2 direzione;
 
     private AttaccoPersonaggio attacco;
-    private StatistichePersonaggio statistiche;
+    private StatistichePersonaggio statistiche; 
 
     private void Awake()
     {
@@ -25,7 +25,7 @@ public class MovimentoGiocatore : MonoBehaviour
 
     private void Update()
     {
-        if (statistiche.VitaAttuale <= 0 || attacco.StaAttaccando)
+        if(statistiche.VitaAttuale <= 0 || attacco.StaAttaccando)
         {
             direzione = Vector2.zero;
             animatore.SetBool("isMoving", false);
