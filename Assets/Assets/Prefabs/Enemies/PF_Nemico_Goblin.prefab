@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5933248974277661496
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2922340261385765, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 847e8a048c513614b8b75254378b4fc2, type: 2}
+    - target: {fileID: 638355262581380169, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 136.4985
+      objectReference: {fileID: 0}
+    - target: {fileID: 638355262581380169, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11.788181
+      objectReference: {fileID: 0}
+    - target: {fileID: 638355262581380169, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 638355262581380169, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 638355262581380169, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 638355262581380169, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 638355262581380169, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 638355262581380169, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 638355262581380169, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 638355262581380169, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1830655761283638127, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_Size.x
+      value: 0.56925964
+      objectReference: {fileID: 0}
+    - target: {fileID: 1830655761283638127, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_Size.y
+      value: 1.0122728
+      objectReference: {fileID: 0}
+    - target: {fileID: 1830655761283638127, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.02143097
+      objectReference: {fileID: 0}
+    - target: {fileID: 1830655761283638127, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.022654057
+      objectReference: {fileID: 0}
+    - target: {fileID: 5975682000893558081, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 8777388641641696378, guid: d14756f7b31c394438768763c7b6979e, type: 3}
+    - target: {fileID: 8021606534173682836, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: raggioColpo
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8021606534173682836, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: distanzaColpo
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8147334843994351108, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
+      propertyPath: m_Name
+      value: PF_Nemico_Goblin
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 703a6acd0c66bb8418c825675bb0393d, type: 3}
